@@ -90,14 +90,22 @@ var clipTemplate =
       aria-expanded="false"
       v-bind:aria-controls="clip.id"
       v-bind:disabled="clip.time === null">
-    {{clip.time ?? "n/a"}}
+    {{clipTime}}
   </button>
   <div v-if="clip.time" v-bind:id="clip.id" class="collapse" v-bind:aria-labelledby="clip.id"></div>
 </td>`;
 
 Vue.component('clip', {
   props: ['clip', 'color'],
-  template: clipTemplate
+  template: clipTemplate,
+  computed: {
+    clipTime: function() {
+        if (this.clip.time) {
+            return Number(this.clip.time).toFixed(2);
+        }
+        return "n/a";
+    }
+  }
 });
 
 Vue.component('subsplit', {
@@ -208,9 +216,9 @@ var data = {
             },
             {
                 'id': 'sand2-1-2',
-                'time': null,
-                'url': null
-            }]
+				'time': 14.333,
+				'url': 'https://player.twitch.tv/?video=552750629&autoplay=false&time=1h2m3s'
+			}]
         },
       {
             'id': '2',
