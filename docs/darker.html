@@ -88,10 +88,11 @@ var clipTemplate =
       data-toggle="collapse"
       v-bind:data-target="'#' + clip.id"
       aria-expanded="false"
-      v-bind:aria-controls="clip.id">
-    {{clip.time}}
+      v-bind:aria-controls="clip.id"
+      v-bind:disabled="clip.time === null">
+    {{clip.time ?? "n/a"}}
   </button>
-  <div v-bind:id="clip.id" class="collapse" v-bind:aria-labelledby="clip.id"></div>
+  <div v-if="clip.time" v-bind:id="clip.id" class="collapse" v-bind:aria-labelledby="clip.id"></div>
 </td>`;
 
 Vue.component('clip', {
@@ -103,15 +104,21 @@ Vue.component('subsplit', {
   props: ['runners', 'splitid', 'subsplit'],
   template: subsplitTemplate,
   computed: {
+    times: function() {
+        return this.subsplit.clips.map(clip => clip.time).filter(val => val !== null);
+    },
     fastestTime: function() {
-        return Math.min.apply(null, this.subsplit.clips.map(clip => clip.time));
+        return Math.min.apply(null, this.times);
     },
     slowestTime: function() {
-        return Math.max.apply(null, this.subsplit.clips.map(clip => clip.time));
+        return Math.max.apply(null, this.times);
     }
   },
   methods: {
     computeColor: function(time) {
+        if (time == null) {
+            return "btn-secondary";
+        }
         if (time == this.fastestTime){
             return "btn-success";
         }
@@ -136,7 +143,7 @@ Vue.component('split', {
 var data = {
 	'runners': [
         'Dangers',
-        'NeoYggdrasill',
+        'Neo',
         'Vallu'
     ],
 	'splits': [{
@@ -222,8 +229,8 @@ var data = {
 			},
             {
                 'id': 'sand2-2-2',
-				'time': 14.333,
-				'url': 'https://player.twitch.tv/?video=552750629&autoplay=false&time=1h2m3s'
+				'time': null,
+				'url': null
 			}]
 		}]
 	},{
@@ -261,7 +268,10 @@ var urls = {};
 data.splits.forEach(function(split) {
     split.subsplits.forEach(function(subsplit) {
         subsplit.clips.forEach(function(clip) {
-            urls[clip.id] = clip.url;            
+            if (clip.url)
+            {
+                urls[clip.id] = clip.url;
+            }
         })
     })
 });
