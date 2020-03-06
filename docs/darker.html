@@ -763,7 +763,7 @@ var data = {
         {
             'id': '29',
             'from': 'Welcome Back, Jaxi!',
-            'to': 'Found with Sand Kingdom Art',
+            'to': 'Found with Wooded Kingdom Art',
             'clips': [{
                 'id': 'sand2-29-0',
                 'time': '19.700',
@@ -782,7 +782,7 @@ var data = {
         },
         {
             'id': '30',
-            'from': 'Found with Sand Kingdom Art',
+            'from': 'Found with Wooded Kingdom Art',
             'to': 'Among the Five Cactuses',
             'clips': [{
                 'id': 'sand2-30-0',
@@ -963,7 +963,7 @@ var data = {
         {
             'id': '39',
             'from': 'An invisible Gleam',
-            'to': 'Found with Sand Kingdom Art',
+            'to': 'Found with Bowser Kingdom Art',
             'clips': [{
                 'id': 'sand2-39-0',
                 'time': '7.233',
@@ -982,7 +982,7 @@ var data = {
         },
         {
             'id': '40',
-            'from': 'Found with Sand Kingdom Art',
+            'from': 'Found with Bowser Kingdom Art',
             'to': 'Sand Kingdom Timer Challenge 2',
             'clips': [{
                 'id': 'sand2-40-0',
@@ -1124,7 +1124,6 @@ data.splits.forEach(function(split) {
 });
 
 $('#app').on('show.bs.collapse', function (e) {
-    console.log(e.target.id);
     if (e.target.id in urls)
     {
         $(e.target).html('<iframe width="480" height="360" src="' + urls[e.target.id] + '"></iframe>');
