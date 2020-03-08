@@ -115,6 +115,27 @@ class Subsplit(object):
         self.key = (self.start_moon, self.end_moon)
         self.duration = self.end_time - self.start_time
 
+def get_clip(runners, best_by_runner, subsplit, subsplit_id):
+    best_clip = None
+    clip_id = subsplit_id + "-" + "best"
+    for runner in runners:
+        if subsplit in best_by_runner[runner]:
+            clip = best_by_runner[runner][subsplit]
+            if best_clip is None or clip.end - clip.start < best_clip.end - best_clip.start:
+                best_clip = clip
+    if best_clip:
+        return [{
+            "id": clip_id,
+            "time": best_clip.end - best_clip.start,
+            "url": best_clip.url()
+        }]
+    else:
+        return [{
+            "id": clip_id,
+            "time": None,
+            "url": None
+        }]
+
 def get_clips(runners, best_by_runner, subsplit, subsplit_id):
     clips = []
     for runner in runners:
@@ -150,7 +171,50 @@ if __name__ == "__main__":
         best_by_runner[runner] = best_clips
         for run in runs:
             for subsplit in run.readSubSplits():
-                if subsplit.key not in best_clips or subsplit.duration < best_clips.duration:
+                if subsplit.key not in best_clips or subsplit.duration < best_clips[subsplit.key].duration:
+                    best_clips[subsplit.key] = Clip(run.source, subsplit.start_time, subsplit.end_time)
+
+    for runner in runners:
+        output["runners"].append(runner)
+
+    for split_name, subsplits in ROUTE.items():
+        split_id = split_name.replace(" ","").lower()
+        split = {
+            "id": split_id,
+            "name": split_name,
+            "subsplits": []
+        }
+        for i, subsplit in enumerate(subsplits):
+            subsplit_id = split_id + "-" + str(i)
+            
+            clips = get_clips(runners, best_by_runner, subsplit, subsplit_id)
+         
+            split["subsplits"].append({
+                "id": subsplit_id,
+                "from": subsplit[0],
+                "to": subsplit[1],
+                "clips": clips
+            })
+        output["splits"].append(split)
+
+    with open("./darker/runs/aggregate.json", 'w') as out:
+        json.dump(output, out, indent=1)
+
+    output = {
+        "runners": ["Best", "Neo"],
+        "splits": []
+    }
+
+    best_by_runner = {}
+
+    runners = []
+    for runner, runs in RUNS.items():
+        runners.append(runner)
+        best_clips = {}
+        best_by_runner[runner] = best_clips
+        for run in runs:
+            for subsplit in run.readSubSplits():
+                if subsplit.key not in best_clips or subsplit.duration < best_clips[subsplit.key].duration:
                     best_clips[subsplit.key] = Clip(run.source, subsplit.start_time, subsplit.end_time)
 
 
@@ -163,8 +227,9 @@ if __name__ == "__main__":
         }
         for i, subsplit in enumerate(subsplits):
             subsplit_id = split_id + "-" + str(i)
-            clips = get_clips(runners, best_by_runner, subsplit, subsplit_id)
-         
+            clips = get_clip(runners, best_by_runner, subsplit, subsplit_id)
+            clips.extend(get_clips([Runners.NEO], best_by_runner, subsplit, subsplit_id))
+
             split["subsplits"].append({
                 "id": subsplit_id,
                 "from": subsplit[0],
@@ -172,6 +237,6 @@ if __name__ == "__main__":
                 "clips": clips
             })
         output["splits"].append(split)
-
-    with open("./darker/runs/aggregate.json", 'w') as out:
+    
+    with open("./darker/runs/aggregate_best.json", 'w') as out:
         json.dump(output, out, indent=1)

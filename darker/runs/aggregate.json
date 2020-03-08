@@ -1,5 +1,15 @@
 {
- "runners": [],
+ "runners": [
+  "Dangers",
+  "Neo",
+  "Vallu",
+  "Bayleef",
+  "Chaos",
+  "Nicro",
+  "Timpani",
+  "Kerbis",
+  "Fir"
+ ],
  "splits": [
   {
    "id": "cap",
