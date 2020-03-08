@@ -102,10 +102,12 @@ Vue.component('subsplit', {
             if (time == this.fastestTime) {
                 return "btn-success";
             }
-            if (time == this.slowestTime) {
-                return "btn-danger";
+
+            if (time < this.fastestTime + 1) {
+                return "btn-warning";
             }
-            return "btn-warning";
+
+            return "btn-danger";
         }
     }
 });
