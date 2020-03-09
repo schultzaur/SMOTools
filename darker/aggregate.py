@@ -14,6 +14,10 @@ class Runners(str, Enum):
     TIMPANI = "Timpani"
     KERBIS =  "Kerbis"
     FIR =     "Fir"
+    DANGERS30825 = "Dangers_3-08-25"
+    DANGERS30834 = "Dangers_3-08-34"
+    DANGERS30903 = "Dangers_3-09-03"
+    DANGERS30950 = "Dangers_3-09-50"
 
 class SourceType(Enum):
     YouTube = 0
@@ -57,6 +61,18 @@ RUNS = {
         Run(Runners.DANGERS, "Darker_Dangers_3-08-34", Source(SourceType.YouTube, "6cfw9V1628w")),
         Run(Runners.DANGERS, "Darker_Dangers_3-09-03", Source(SourceType.YouTube, "_A0Dh3gnI-M")),
         Run(Runners.DANGERS, "Darker_Dangers_3-09-50", Source(SourceType.YouTube, "0usPoO9suGA")),
+    ],
+    Runners.DANGERS30825: [
+        Run(Runners.DANGERS30825, "Darker_Dangers_3-08-25", Source(SourceType.YouTube, "DzJQplLyiZQ")),
+    ],
+    Runners.DANGERS30834: [
+        Run(Runners.DANGERS30834, "Darker_Dangers_3-08-34", Source(SourceType.YouTube, "6cfw9V1628w")),
+    ],
+    Runners.DANGERS30903: [
+        Run(Runners.DANGERS30903, "Darker_Dangers_3-09-03", Source(SourceType.YouTube, "_A0Dh3gnI-M")),
+    ],
+    Runners.DANGERS30950: [
+        Run(Runners.DANGERS30950, "Darker_Dangers_3-09-50", Source(SourceType.YouTube, "0usPoO9suGA")),
     ],
     Runners.NEO: [
         Run(Runners.NEO, "Darker_Neo_3-10-45", Source(SourceType.YouTube, "nYINBviIDHc")),
@@ -218,7 +234,9 @@ if __name__ == "__main__":
 
     best_by_runner = get_best_by_runner()
 
-    aggregate(best_by_runner, runners,           'aggregate',         include_best=None)
-    aggregate(best_by_runner, full_runners,      'aggregate_full',    include_best=None)
-    aggregate(best_by_runner, [Runners.DANGERS], 'aggregate_dangers', include_best=full_runners)
-    aggregate(best_by_runner, [Runners.KERBIS], 'aggregate_kerb', include_best=full_runners)
+    aggregate(best_by_runner, runners,          'aggregate',         include_best=None)
+    aggregate(best_by_runner, full_runners,     'aggregate_full',    include_best=None)
+    #todo - add split flag.
+    dangers = [Runners.DANGERS30825, Runners.DANGERS30834, Runners.DANGERS30903, Runners.DANGERS30950]
+    aggregate(best_by_runner, dangers,          'aggregate_dangers', include_best=full_runners)
+    aggregate(best_by_runner, [Runners.KERBIS], 'aggregate_kerb',    include_best=full_runners)
