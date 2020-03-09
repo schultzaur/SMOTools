@@ -1106,8 +1106,8 @@
      "clips": [
       {
        "id": "lost-11-Dangers",
-       "time": 18.200000000000045,
-       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=1758&end=1777"
+       "time": 18.5,
+       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=1779&end=1798"
       },
       {
        "id": "lost-11-Neo",
@@ -1134,8 +1134,8 @@
      "clips": [
       {
        "id": "metro-0-Dangers",
-       "time": 77.60000000000014,
-       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=1776&end=1855"
+       "time": 77.76700000000005,
+       "url": "https://www.youtube.com/embed/0usPoO9suGA?start=1793&end=1872"
       },
       {
        "id": "metro-0-Neo",
@@ -5876,18 +5876,18 @@
      "clips": [
       {
        "id": "sand2-2-Dangers",
-       "time": null,
-       "url": null
+       "time": 19.766999999999825,
+       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=7582&end=7603"
       },
       {
        "id": "sand2-2-Neo",
-       "time": null,
-       "url": null
+       "time": 20.0,
+       "url": "https://www.youtube.com/embed/6Odz5Dk9teI?start=7718&end=7739"
       },
       {
        "id": "sand2-2-Vallu",
-       "time": null,
-       "url": null
+       "time": 19.899999999999636,
+       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=7731s"
       }
      ]
     },
@@ -5898,18 +5898,18 @@
      "clips": [
       {
        "id": "sand2-3-Dangers",
-       "time": null,
-       "url": null
+       "time": 13.266999999999825,
+       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=7632&end=7646"
       },
       {
        "id": "sand2-3-Neo",
-       "time": null,
-       "url": null
+       "time": 13.86699999999928,
+       "url": "https://www.youtube.com/embed/AhO0jPiSTVA?start=7811&end=7825"
       },
       {
        "id": "sand2-3-Vallu",
-       "time": null,
-       "url": null
+       "time": 13.067000000000007,
+       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=7751s"
       }
      ]
     },
@@ -5920,18 +5920,18 @@
      "clips": [
       {
        "id": "sand2-4-Dangers",
-       "time": null,
-       "url": null
+       "time": 20.599999999999454,
+       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=7660&end=7681"
       },
       {
        "id": "sand2-4-Neo",
-       "time": null,
-       "url": null
+       "time": 21.96599999999944,
+       "url": "https://www.youtube.com/embed/6Odz5Dk9teI?start=7753&end=7776"
       },
       {
        "id": "sand2-4-Vallu",
-       "time": null,
-       "url": null
+       "time": 20.400000000000546,
+       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=7764s"
       }
      ]
     },
@@ -5942,18 +5942,18 @@
      "clips": [
       {
        "id": "sand2-5-Dangers",
-       "time": null,
-       "url": null
+       "time": 14.800000000000182,
+       "url": "https://www.youtube.com/embed/0usPoO9suGA?start=7678&end=7694"
       },
       {
        "id": "sand2-5-Neo",
-       "time": null,
-       "url": null
+       "time": 14.86700000000019,
+       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=7774&end=7790"
       },
       {
        "id": "sand2-5-Vallu",
-       "time": null,
-       "url": null
+       "time": 14.833000000000538,
+       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=7917s"
       }
      ]
     },
@@ -6140,18 +6140,18 @@
      "clips": [
       {
        "id": "sand2-14-Dangers",
-       "time": null,
-       "url": null
+       "time": 13.300000000000182,
+       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=7805&end=7820"
       },
       {
        "id": "sand2-14-Neo",
-       "time": null,
-       "url": null
+       "time": 14.266999999999825,
+       "url": "https://www.youtube.com/embed/AhO0jPiSTVA?start=7971&end=7986"
       },
       {
        "id": "sand2-14-Vallu",
-       "time": null,
-       "url": null
+       "time": 13.766999999999825,
+       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=7923s"
       }
      ]
     },
@@ -6162,18 +6162,18 @@
      "clips": [
       {
        "id": "sand2-15-Dangers",
-       "time": null,
-       "url": null
+       "time": 13.86699999999928,
+       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=7805&end=7820"
       },
       {
        "id": "sand2-15-Neo",
-       "time": null,
-       "url": null
+       "time": 13.932999999999993,
+       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=7912&end=7927"
       },
       {
        "id": "sand2-15-Vallu",
-       "time": null,
-       "url": null
+       "time": 14.067000000000007,
+       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=8071s"
       }
      ]
     },
@@ -6206,13 +6206,13 @@
      "clips": [
       {
        "id": "sand2-17-Dangers",
-       "time": null,
-       "url": null
+       "time": 5.0,
+       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=7816&end=7822"
       },
       {
        "id": "sand2-17-Neo",
-       "time": null,
-       "url": null
+       "time": 5.0,
+       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=7950&end=7956"
       },
       {
        "id": "sand2-17-Vallu",
@@ -6228,18 +6228,18 @@
      "clips": [
       {
        "id": "sand2-18-Dangers",
-       "time": null,
-       "url": null
+       "time": 5.0,
+       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=7821&end=7827"
       },
       {
        "id": "sand2-18-Neo",
-       "time": null,
-       "url": null
+       "time": 5.0,
+       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=7955&end=7961"
       },
       {
        "id": "sand2-18-Vallu",
-       "time": null,
-       "url": null
+       "time": 17.833999999999833,
+       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=7969s"
       }
      ]
     },
@@ -6294,18 +6294,18 @@
      "clips": [
       {
        "id": "sand2-21-Dangers",
-       "time": null,
-       "url": null
+       "time": 10.533000000000357,
+       "url": "https://www.youtube.com/embed/0usPoO9suGA?start=7898&end=7910"
       },
       {
        "id": "sand2-21-Neo",
-       "time": null,
-       "url": null
+       "time": 10.766999999999825,
+       "url": "https://www.youtube.com/embed/6Odz5Dk9teI?start=7994&end=8005"
       },
       {
        "id": "sand2-21-Vallu",
-       "time": null,
-       "url": null
+       "time": 10.533000000000357,
+       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=8153s"
       }
      ]
     },
@@ -6316,18 +6316,18 @@
      "clips": [
       {
        "id": "sand2-22-Dangers",
-       "time": null,
-       "url": null
+       "time": 7.4669999999996435,
+       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=7909&end=7918"
       },
       {
        "id": "sand2-22-Neo",
-       "time": null,
-       "url": null
+       "time": 7.867000000000189,
+       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=8000&end=8008"
       },
       {
        "id": "sand2-22-Vallu",
-       "time": null,
-       "url": null
+       "time": 7.533999999999651,
+       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=8228s"
       }
      ]
     },
@@ -6382,18 +6382,18 @@
      "clips": [
       {
        "id": "sand2-25-Dangers",
-       "time": null,
-       "url": null
+       "time": 37.69999999999982,
+       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=7914&end=7952"
       },
       {
        "id": "sand2-25-Neo",
-       "time": null,
-       "url": null
+       "time": 38.266999999999825,
+       "url": "https://www.youtube.com/embed/AhO0jPiSTVA?start=8125&end=8164"
       },
       {
        "id": "sand2-25-Vallu",
-       "time": null,
-       "url": null
+       "time": 65.90000000000055,
+       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8097s"
       }
      ]
     },
@@ -6404,18 +6404,18 @@
      "clips": [
       {
        "id": "sand2-26-Dangers",
-       "time": null,
-       "url": null
+       "time": 7.766000000000531,
+       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=7990&end=7999"
       },
       {
        "id": "sand2-26-Neo",
-       "time": null,
-       "url": null
+       "time": 7.900000000000546,
+       "url": "https://www.youtube.com/embed/AhO0jPiSTVA?start=8163&end=8172"
       },
       {
        "id": "sand2-26-Vallu",
-       "time": null,
-       "url": null
+       "time": 7.266999999999825,
+       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8163s"
       }
      ]
     },
@@ -6426,18 +6426,18 @@
      "clips": [
       {
        "id": "sand2-27-Dangers",
-       "time": null,
-       "url": null
+       "time": 18.233000000000175,
+       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=7959&end=7979"
       },
       {
        "id": "sand2-27-Neo",
-       "time": null,
-       "url": null
+       "time": 19.5,
+       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=8095&end=8116"
       },
       {
        "id": "sand2-27-Vallu",
-       "time": null,
-       "url": null
+       "time": 18.46600000000035,
+       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=8250s"
       }
      ]
     },
@@ -6448,18 +6448,18 @@
      "clips": [
       {
        "id": "sand2-28-Dangers",
-       "time": null,
-       "url": null
+       "time": 13.766999999999825,
+       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=7978&end=7992"
       },
       {
        "id": "sand2-28-Neo",
-       "time": null,
-       "url": null
+       "time": 14.766999999999825,
+       "url": "https://www.youtube.com/embed/AhO0jPiSTVA?start=8253&end=8269"
       },
       {
        "id": "sand2-28-Vallu",
-       "time": null,
-       "url": null
+       "time": 13.067000000000007,
+       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8191s"
       }
      ]
     },
@@ -6602,18 +6602,18 @@
      "clips": [
       {
        "id": "sand2-35-Dangers",
-       "time": null,
-       "url": null
+       "time": 13.932999999999993,
+       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=8153&end=8168"
       },
       {
        "id": "sand2-35-Neo",
-       "time": null,
-       "url": null
+       "time": 11.566000000000713,
+       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=8247&end=8260"
       },
       {
        "id": "sand2-35-Vallu",
-       "time": null,
-       "url": null
+       "time": 15.532999999999447,
+       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8314s"
       }
      ]
     },
@@ -6624,18 +6624,18 @@
      "clips": [
       {
        "id": "sand2-36-Dangers",
-       "time": null,
-       "url": null
+       "time": 25.467000000000553,
+       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=8161&end=8187"
       },
       {
        "id": "sand2-36-Neo",
-       "time": null,
-       "url": null
+       "time": 25.36700000000019,
+       "url": "https://www.youtube.com/embed/AhO0jPiSTVA?start=8394&end=8420"
       },
       {
        "id": "sand2-36-Vallu",
-       "time": null,
-       "url": null
+       "time": 24.532999999999447,
+       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8330s"
       }
      ]
     },
@@ -6668,18 +6668,18 @@
      "clips": [
       {
        "id": "sand2-38-Dangers",
-       "time": null,
-       "url": null
+       "time": 20.799999999999272,
+       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=8157&end=8178"
       },
       {
        "id": "sand2-38-Neo",
-       "time": null,
-       "url": null
+       "time": 21.134000000000015,
+       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=8295&end=8317"
       },
       {
        "id": "sand2-38-Vallu",
-       "time": null,
-       "url": null
+       "time": 20.73400000000038,
+       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8365s"
       }
      ]
     },
@@ -6690,18 +6690,18 @@
      "clips": [
       {
        "id": "sand2-39-Dangers",
-       "time": null,
-       "url": null
+       "time": 16.13300000000163,
+       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=8224&end=8241"
       },
       {
        "id": "sand2-39-Neo",
-       "time": null,
-       "url": null
+       "time": 16.100000000000364,
+       "url": "https://www.youtube.com/embed/6Odz5Dk9teI?start=8111&end=8128"
       },
       {
        "id": "sand2-39-Vallu",
-       "time": null,
-       "url": null
+       "time": 15.63299999999981,
+       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=8470s"
       }
      ]
     },
@@ -6712,18 +6712,18 @@
      "clips": [
       {
        "id": "sand2-40-Dangers",
-       "time": null,
-       "url": null
+       "time": 7.199999999998909,
+       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=8234&end=8242"
       },
       {
        "id": "sand2-40-Neo",
-       "time": null,
-       "url": null
+       "time": 7.533000000001266,
+       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=8332&end=8341"
       },
       {
        "id": "sand2-40-Vallu",
-       "time": null,
-       "url": null
+       "time": 7.099999999998545,
+       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8402s"
       }
      ]
     },
@@ -6756,18 +6756,18 @@
      "clips": [
       {
        "id": "sand2-42-Dangers",
-       "time": null,
-       "url": null
+       "time": 23.399999999999636,
+       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=8259&end=8284"
       },
       {
        "id": "sand2-42-Neo",
-       "time": null,
-       "url": null
+       "time": 24.967000000000553,
+       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=8359&end=8385"
       },
       {
        "id": "sand2-42-Vallu",
-       "time": null,
-       "url": null
+       "time": 22.334000000000742,
+       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8428s"
       }
      ]
     },
@@ -6778,18 +6778,18 @@
      "clips": [
       {
        "id": "sand2-43-Dangers",
-       "time": null,
-       "url": null
+       "time": 7.5,
+       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=8291&end=8300"
       },
       {
        "id": "sand2-43-Neo",
-       "time": null,
-       "url": null
+       "time": 7.599999999998545,
+       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=8384&end=8393"
       },
       {
        "id": "sand2-43-Vallu",
-       "time": null,
-       "url": null
+       "time": 7.632999999999811,
+       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8450s"
       }
      ]
     },

@@ -71,7 +71,6 @@ RUNS = {
     Runners.BAYLEEF: [
         Run(Runners.BAYLEEF, "Darker_Bayleef_3-11-47", Source(SourceType.YouTube, "_GOKUjaQqkE")),
         Run(Runners.BAYLEEF, "Darker_Bayleef_3-13-13", Source(SourceType.Twitch, "545566422")),
-
     ],
     Runners.CHAOS: [
         Run(Runners.CHAOS, "Darker_Chaos_3-12-54", Source(SourceType.YouTube, "JOhb1JrZnls")),
