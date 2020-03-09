@@ -1,6 +1,6 @@
 {
  "runners": [
-  "best",
+  "Best",
   "Dangers"
  ],
  "splits": [
@@ -616,8 +616,8 @@
      "clips": [
       {
        "id": "lake-3-best",
-       "time": 15.900000000000091,
-       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=1446&end=1463"
+       "time": 15.799999999999955,
+       "url": "https://www.youtube.com/embed/_GOKUjaQqkE?start=1449&end=1466"
       },
       {
        "id": "lake-3-Dangers",
@@ -633,8 +633,8 @@
      "clips": [
       {
        "id": "lake-4-best",
-       "time": 47.266000000000076,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=1485s"
+       "time": 47.16600000000017,
+       "url": "https://www.youtube.com/embed/_GOKUjaQqkE?start=1465&end=1513"
       },
       {
        "id": "lake-4-Dangers",
@@ -1024,8 +1024,8 @@
      "clips": [
       {
        "id": "metro-8-best",
-       "time": 31.59999999999991,
-       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=2114&end=2147"
+       "time": 31.399999999999636,
+       "url": "https://www.youtube.com/embed/_GOKUjaQqkE?start=2203&end=2235"
       },
       {
        "id": "metro-8-Dangers",
@@ -1722,8 +1722,8 @@
      "clips": [
       {
        "id": "luncheon-11-best",
-       "time": 16.83299999999963,
-       "url": "https://www.youtube.com/embed/6Odz5Dk9teI?start=3700&end=3718"
+       "time": 16.5,
+       "url": "https://www.youtube.com/embed/_GOKUjaQqkE?start=3700&end=3718"
       },
       {
        "id": "luncheon-11-Dangers",
@@ -2602,8 +2602,8 @@
      "clips": [
       {
        "id": "snow2-21-best",
-       "time": 18.46600000000035,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=5709s"
+       "time": 18.233000000000175,
+       "url": "https://www.youtube.com/embed/_GOKUjaQqkE?start=5678&end=5697"
       },
       {
        "id": "snow2-21-Dangers",
@@ -2761,8 +2761,8 @@
      "clips": [
       {
        "id": "cascade2-8-best",
-       "time": 32.733000000000175,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=6007s"
+       "time": 32.33399999999983,
+       "url": "https://www.youtube.com/embed/_GOKUjaQqkE?start=5906&end=5939"
       },
       {
        "id": "cascade2-8-Dangers",
@@ -3192,8 +3192,8 @@
      "clips": [
       {
        "id": "bowser2-7-best",
-       "time": 14.733000000000175,
-       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=6206&end=6222"
+       "time": 14.700000000000728,
+       "url": "https://www.youtube.com/embed/_GOKUjaQqkE?start=6249&end=6265"
       },
       {
        "id": "bowser2-7-Dangers",
@@ -3311,8 +3311,8 @@
      "clips": [
       {
        "id": "bowser2-14-best",
-       "time": 18.300000000000182,
-       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=6258&end=6278"
+       "time": 16.567000000000007,
+       "url": "https://www.youtube.com/embed/_GOKUjaQqkE?start=6364&end=6381"
       },
       {
        "id": "bowser2-14-Dangers",
@@ -3362,8 +3362,8 @@
      "clips": [
       {
        "id": "bowser2-17-best",
-       "time": 18.434000000000196,
-       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=6289&end=6309"
+       "time": 17.966999999999643,
+       "url": "https://www.youtube.com/embed/_GOKUjaQqkE?start=6419&end=6438"
       },
       {
        "id": "bowser2-17-Dangers",
@@ -3572,8 +3572,8 @@
      "clips": [
       {
        "id": "seaside2-7-best",
-       "time": 10.0,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=6713s"
+       "time": 5.833000000000538,
+       "url": "https://www.youtube.com/embed/_GOKUjaQqkE?start=6596&end=6603"
       },
       {
        "id": "seaside2-7-Dangers",
@@ -3589,8 +3589,8 @@
      "clips": [
       {
        "id": "seaside2-8-best",
-       "time": 15.434000000000196,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=6723s"
+       "time": 14.532999999999447,
+       "url": "https://www.youtube.com/embed/_GOKUjaQqkE?start=6602&end=6618"
       },
       {
        "id": "seaside2-8-Dangers",
@@ -3895,8 +3895,8 @@
      "clips": [
       {
        "id": "seaside2-26-best",
-       "time": 16.433999999999287,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6889s"
+       "time": 16.400000000000546,
+       "url": "https://www.youtube.com/embed/_GOKUjaQqkE?start=6870&end=6888"
       },
       {
        "id": "seaside2-26-Dangers",
@@ -4139,8 +4139,8 @@
      "clips": [
       {
        "id": "wooded2-9-best",
-       "time": 6.300000000000182,
-       "url": "https://www.youtube.com/embed/6Odz5Dk9teI?start=7282&end=7289"
+       "time": 6.267000000000735,
+       "url": "https://www.youtube.com/embed/_GOKUjaQqkE?start=7279&end=7287"
       },
       {
        "id": "wooded2-9-Dangers",
@@ -4156,8 +4156,8 @@
      "clips": [
       {
        "id": "wooded2-10-best",
-       "time": 32.80000000000018,
-       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=7196&end=7229"
+       "time": 23.232999999999265,
+       "url": "https://www.youtube.com/embed/_GOKUjaQqkE?start=7286&end=7310"
       },
       {
        "id": "wooded2-10-Dangers",
@@ -4808,8 +4808,8 @@
      "clips": [
       {
        "id": "sand2-16-best",
-       "time": 24.134000000000015,
-       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=7792&end=7817"
+       "time": 16.400000000000546,
+       "url": "https://www.youtube.com/embed/_GOKUjaQqkE?start=7934&end=7951"
       },
       {
        "id": "sand2-16-Dangers",
@@ -5182,8 +5182,8 @@
      "clips": [
       {
        "id": "sand2-38-best",
-       "time": 20.73400000000038,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8365s"
+       "time": 20.634000000000015,
+       "url": "https://www.youtube.com/embed/_GOKUjaQqkE?start=8317&end=8339"
       },
       {
        "id": "sand2-38-Dangers",
@@ -5817,8 +5817,8 @@
      "clips": [
       {
        "id": "metro2-29-best",
-       "time": 9.5,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=8886s"
+       "time": 9.133999999998196,
+       "url": "https://www.youtube.com/embed/_GOKUjaQqkE?start=8941&end=8951"
       },
       {
        "id": "metro2-29-Dangers",
@@ -5959,8 +5959,8 @@
      "clips": [
       {
        "id": "lake2-5-best",
-       "time": 23.0,
-       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=9069&end=9093"
+       "time": 22.86700000000019,
+       "url": "https://www.youtube.com/embed/_GOKUjaQqkE?start=9096&end=9119"
       },
       {
        "id": "lake2-5-Dangers",
@@ -6220,8 +6220,8 @@
      "clips": [
       {
        "id": "luncheon2-0-best",
-       "time": 22.63300000000163,
-       "url": "https://www.youtube.com/embed/AhO0jPiSTVA?start=9401&end=9425"
+       "time": 22.266999999999825,
+       "url": "https://www.youtube.com/embed/_GOKUjaQqkE?start=9368&end=9391"
       },
       {
        "id": "luncheon2-0-Dangers",
@@ -6464,8 +6464,8 @@
      "clips": [
       {
        "id": "cap2-3-best",
-       "time": 14.166999999999462,
-       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=9561&end=9576"
+       "time": 14.165999999999258,
+       "url": "https://www.youtube.com/embed/_GOKUjaQqkE?start=9727&end=9742"
       },
       {
        "id": "cap2-3-Dangers",
@@ -6827,8 +6827,8 @@
      "clips": [
       {
        "id": "lost2-5-best",
-       "time": 14.233000000000175,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=10302s"
+       "time": 13.699999999998909,
+       "url": "https://www.youtube.com/embed/_GOKUjaQqkE?start=10101&end=10116"
       },
       {
        "id": "lost2-5-Dangers",
@@ -7179,8 +7179,8 @@
      "clips": [
       {
        "id": "luncheon3-4-best",
-       "time": 9.666000000001077,
-       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=10291&end=10301"
+       "time": 9.333999999998923,
+       "url": "https://www.youtube.com/embed/_GOKUjaQqkE?start=10448&end=10459"
       },
       {
        "id": "luncheon3-4-Dangers",
@@ -7820,8 +7820,8 @@
      "clips": [
       {
        "id": "toadette-9-best",
-       "time": 7.033999999999651,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=11163s"
+       "time": 7.032999999999447,
+       "url": "https://www.youtube.com/embed/_GOKUjaQqkE?start=11003&end=11011"
       },
       {
        "id": "toadette-9-Dangers",

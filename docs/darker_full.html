@@ -15,6 +15,40 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarNavDropdown">
     <ul class="navbar-nav">
+      <button type="button" class="btn btn-info" data-toggle="modal" data-target="#info">
+        Info
+      </button>
+      <div class="modal fade" id="info" tabindex="-1" role="dialog" aria-labelledby="infoLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="infoLabel">Info</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+              This tool compares the small differences in top runners movements. It's intended to be used as a reference both to learn what the "fastest" realistic movement is, as well as for the top runners themselves, to learn where they have time save.
+              <br><br>
+              Click on any split to expand it into moon to moon timings, and then click on a time to go to the clip. The clips automatically link to the youtube/twitch video at the proper timestamp. This may be a bit slow to load depending on your computer.
+              <br><br>
+              Times are aggregated both per-runner, and, in some cases, across runners. All timings are automatically generated, and may be off by a frame or two in some cases, and in rare cases may be off by a few seconds.
+              <br><br>
+              Times are colored as follows:
+              <ul>
+                <li>Green: Best</li>
+                <li>Yellow: Less than a second slower than Best</li>
+                <li>Red: More than a second slower than Best </li>
+              </ul>
+              <br>
+              There's a few "todos" and "won't fixes", but I'm planning to take a break for a bit before I tackle those. I spend a lot of time working on this, so I hope it's useful to you.
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
       <li class="nav-item ">
         <a class="nav-link" href="#">Any</a>
       </li>

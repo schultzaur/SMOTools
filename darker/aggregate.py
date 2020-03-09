@@ -169,7 +169,7 @@ def aggregate(best_by_runner, runners, filename, include_best):
     }
 
     if include_best:
-        output["runners"].append(BEST)
+        output["runners"].append("Best")
 
     for runner in runners:
         output["runners"].append(runner)

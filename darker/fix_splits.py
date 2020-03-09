@@ -28,17 +28,7 @@ errors = [
     ("Freezing Waterway: Hidden Room", "Freezing Waterway: Hidden Room"),
 ]
 
-for filename in [
-    "Darker_Dangers_3-08-25",
-    "Darker_Dangers_3-08-34",
-    "Darker_Dangers_3-09-03",
-    "Darker_Dangers_3-09-50",
-    "Darker_Neo_3-10-45",
-    "Darker_Neo_3-11-08",
-    "Darker_Neo_3-11-58",
-    "Darker_Vallu_3-11-29",
-    "Darker_Vallu_3-14-12",
-    "Darker_Vallu_3-15-19",]:
+for filename in ["Darker_Bayleef_3-11-47",]:
     with open(f"./darker/runs/{filename}.tsv", "r") as in_file:
         with open(f"./darker/runs/{filename}_fixed.tsv", "w") as out_file:
             for line in in_file:
