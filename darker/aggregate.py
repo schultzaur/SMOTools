@@ -221,3 +221,4 @@ if __name__ == "__main__":
     aggregate(best_by_runner, runners,           'aggregate',         include_best=None)
     aggregate(best_by_runner, full_runners,      'aggregate_full',    include_best=None)
     aggregate(best_by_runner, [Runners.DANGERS], 'aggregate_dangers', include_best=full_runners)
+    aggregate(best_by_runner, [Runners.KERBIS], 'aggregate_kerb', include_best=full_runners)

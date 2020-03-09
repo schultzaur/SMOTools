@@ -1,0 +1,94 @@
+<html>
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"  integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <style>
+        .table-nonfluid {
+            width: auto !important;
+        }
+    </style>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">SMOTools</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <button type="button" class="btn btn-info" data-toggle="modal" data-target="#info">
+    Info
+  </button>
+  <div class="modal fade" id="info" tabindex="-1" role="dialog" aria-labelledby="infoLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="infoLabel">Info</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          This tool compares the small differences in top runners movements. It's intended to be used as a reference both to learn what the "fastest" realistic movement is, as well as for the top runners themselves, to learn where their time save is. I do think that one of the best parts of SMO is finding the movement that suits you best, so if you're new to Darker, please just play around with it before studying these clips too hard.
+          <br><br>
+          Click on any split to expand it into moon to moon timings, and then click on a time to go to the clip. The clips automatically link to the youtube/twitch video at the proper timestamp. This may be a bit slow to load depending on your computer.
+          <br><br>
+          Times are aggregated both per-runner, and, in some cases, across runners. All timings are automatically generated, and may be off by a frame or two in some cases, and in rare cases may be off by a few seconds.
+          <br><br>
+          Times are colored as follows:
+          <ul>
+            <li>Green: Best</li>
+            <li>Yellow: Less than a second slower than Best</li>
+            <li>Red: More than a second slower than Best </li>
+          </ul>
+          <br>
+          There's a few "todos" and "won't fixes", but I'm planning to take a break for a bit before I tackle those. I spend a lot of time working on this, so I hope it's useful to you.
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <ul class="navbar-nav">
+      <li class="nav-item ">
+        <a class="nav-link" href="#">Any</a>
+      </li>
+      <li class="nav-item dropdown active">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Darker<span class="sr-only">(current)</span>
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="./darker">Top 3</a>
+          <a class="dropdown-item" href="./darker_full">Full (warning: slow)</a>
+          <a class="dropdown-item" href="./darker_dangers">Dangers</a>
+        </div>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">AUM</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+<div id="app">
+  <div class="accordion" id="accordion">
+    <split
+        v-for="split in splits"
+        v-bind:accordion-id="'accordion'"
+        v-bind:runners="runners"
+        v-bind:split="split"
+        v-bind:key="split.id">
+    </split>
+  </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script type="module">
+  import { loadApp } from './main.js';
+  window.onload = function () { loadApp('./darker_kerb.json', 'lost'); }
+</script>
+</body>
+<footer class="page-footer font-small blue pt-4">
+  <div class="footer-copyright text-center py-3">© 2020 Copyright: schultzaur</div>
+</footer>
+</html>
