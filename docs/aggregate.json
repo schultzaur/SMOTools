@@ -71,8 +71,8 @@
      "clips": [
       {
        "id": "sand-0-Dangers",
-       "time": 88.33300000000003,
-       "url": "https://www.youtube.com/embed/0usPoO9suGA?start=297&end=387"
+       "time": 87.30000000000001,
+       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=297&end=385"
       },
       {
        "id": "sand-0-Neo",
@@ -269,7 +269,7 @@
      "clips": [
       {
        "id": "sand-9-Dangers",
-       "time": 58.56700000000001,
+       "time": 58.367000000000075,
        "url": "https://www.youtube.com/embed/6cfw9V1628w?start=597&end=656"
       },
       {
@@ -291,7 +291,7 @@
      "clips": [
       {
        "id": "sand-10-Dangers",
-       "time": 57.200000000000045,
+       "time": 57.39999999999998,
        "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=637&end=696"
       },
       {
@@ -809,8 +809,8 @@
      "clips": [
       {
        "id": "lake-4-Dangers",
-       "time": 48.59999999999991,
-       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=1432&end=1481"
+       "time": 46.96699999999987,
+       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=1432&end=1480"
       },
       {
        "id": "lake-4-Neo",
@@ -831,8 +831,8 @@
      "clips": [
       {
        "id": "lake-5-Dangers",
-       "time": 25.46699999999987,
-       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=1470&end=1497"
+       "time": 27.067000000000007,
+       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=1469&end=1497"
       },
       {
        "id": "lake-5-Neo",
@@ -1134,8 +1134,8 @@
      "clips": [
       {
        "id": "metro-0-Dangers",
-       "time": 77.76700000000005,
-       "url": "https://www.youtube.com/embed/0usPoO9suGA?start=1793&end=1872"
+       "time": 77.60000000000014,
+       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=1776&end=1855"
       },
       {
        "id": "metro-0-Neo",
@@ -1624,13 +1624,13 @@
      "clips": [
       {
        "id": "snow-5-Dangers",
-       "time": 26.700000000000273,
-       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=2763&end=2790"
+       "time": 28.166000000000167,
+       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=2738&end=2767"
       },
       {
        "id": "snow-5-Neo",
-       "time": 27.233999999999924,
-       "url": "https://www.youtube.com/embed/6Odz5Dk9teI?start=2846&end=2875"
+       "time": 28.59999999999991,
+       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=2821&end=2851"
       },
       {
        "id": "snow-5-Vallu",
@@ -2120,8 +2120,8 @@
      "clips": [
       {
        "id": "luncheon-7-Dangers",
-       "time": 33.0,
-       "url": "https://www.youtube.com/embed/0usPoO9suGA?start=3507&end=3541"
+       "time": 31.432999999999993,
+       "url": "https://www.youtube.com/embed/0usPoO9suGA?start=3507&end=3539"
       },
       {
        "id": "luncheon-7-Neo",
@@ -2142,8 +2142,8 @@
      "clips": [
       {
        "id": "luncheon-8-Dangers",
-       "time": 32.13299999999981,
-       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=3501&end=3534"
+       "time": 33.66599999999971,
+       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=3499&end=3534"
       },
       {
        "id": "luncheon-8-Neo",
@@ -2252,8 +2252,8 @@
      "clips": [
       {
        "id": "luncheon-13-Dangers",
-       "time": 103.36700000000019,
-       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=3659&end=3763"
+       "time": 101.83300000000008,
+       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=3659&end=3762"
       },
       {
        "id": "luncheon-13-Neo",
@@ -2280,8 +2280,8 @@
      "clips": [
       {
        "id": "ruined-0-Dangers",
-       "time": 74.0329999999999,
-       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=3775&end=3850"
+       "time": 75.56700000000001,
+       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=3774&end=3850"
       },
       {
        "id": "ruined-0-Neo",
@@ -2776,13 +2776,13 @@
      "clips": [
       {
        "id": "moon-4-Dangers",
-       "time": 19.166000000000167,
-       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=4726&end=4746"
+       "time": null,
+       "url": null
       },
       {
        "id": "moon-4-Neo",
-       "time": 19.966999999999643,
-       "url": "https://www.youtube.com/embed/6Odz5Dk9teI?start=4857&end=4878"
+       "time": null,
+       "url": null
       },
       {
        "id": "moon-4-Vallu",
@@ -2809,8 +2809,8 @@
       },
       {
        "id": "mushroom-0-Neo",
-       "time": 356.83300000000054,
-       "url": "https://www.youtube.com/embed/6Odz5Dk9teI?start=4877&end=5235"
+       "time": null,
+       "url": null
       },
       {
        "id": "mushroom-0-Vallu",
@@ -2826,13 +2826,13 @@
      "clips": [
       {
        "id": "mushroom-1-Dangers",
-       "time": 11.200000000000728,
-       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=5108&end=5120"
+       "time": 12.100000000000364,
+       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=5107&end=5120"
       },
       {
        "id": "mushroom-1-Neo",
-       "time": 11.36700000000019,
-       "url": "https://www.youtube.com/embed/6Odz5Dk9teI?start=5234&end=5246"
+       "time": 12.36700000000019,
+       "url": "https://www.youtube.com/embed/6Odz5Dk9teI?start=5233&end=5246"
       },
       {
        "id": "mushroom-1-Vallu",
@@ -2903,8 +2903,8 @@
       },
       {
        "id": "snow2-1-Neo",
-       "time": 32.100000000000364,
-       "url": "https://www.youtube.com/embed/AhO0jPiSTVA?start=5320&end=5353"
+       "time": 31.967000000000553,
+       "url": "https://www.youtube.com/embed/6Odz5Dk9teI?start=5290&end=5323"
       },
       {
        "id": "snow2-1-Vallu",
@@ -2920,8 +2920,8 @@
      "clips": [
       {
        "id": "snow2-2-Dangers",
-       "time": 11.900000000000546,
-       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=5196&end=5209"
+       "time": 11.832999999999629,
+       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=5213&end=5226"
       },
       {
        "id": "snow2-2-Neo",
@@ -2942,8 +2942,8 @@
      "clips": [
       {
        "id": "snow2-3-Dangers",
-       "time": 27.766999999999825,
-       "url": "https://www.youtube.com/embed/0usPoO9suGA?start=5227&end=5256"
+       "time": 32.899999999999636,
+       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=5208&end=5242"
       },
       {
        "id": "snow2-3-Neo",
@@ -2964,7 +2964,7 @@
      "clips": [
       {
        "id": "snow2-4-Dangers",
-       "time": 11.200000000000728,
+       "time": 11.067000000000007,
        "url": "https://www.youtube.com/embed/0usPoO9suGA?start=5255&end=5267"
       },
       {
@@ -2986,13 +2986,13 @@
      "clips": [
       {
        "id": "snow2-5-Dangers",
-       "time": 10.399999999999636,
-       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=5243&end=5254"
+       "time": 12.5,
+       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=5240&end=5254"
       },
       {
        "id": "snow2-5-Neo",
-       "time": 11.0,
-       "url": "https://www.youtube.com/embed/6Odz5Dk9teI?start=5380&end=5392"
+       "time": 12.599999999999454,
+       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=5361&end=5375"
       },
       {
        "id": "snow2-5-Vallu",
@@ -3030,8 +3030,8 @@
      "clips": [
       {
        "id": "snow2-7-Dangers",
-       "time": 17.899999999999636,
-       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=5307&end=5326"
+       "time": 17.165999999999258,
+       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=5307&end=5325"
       },
       {
        "id": "snow2-7-Neo",
@@ -3052,8 +3052,8 @@
      "clips": [
       {
        "id": "snow2-8-Dangers",
-       "time": 11.332999999999629,
-       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=5325&end=5337"
+       "time": 12.067000000000007,
+       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=5324&end=5337"
       },
       {
        "id": "snow2-8-Neo",
@@ -3206,8 +3206,8 @@
      "clips": [
       {
        "id": "snow2-15-Dangers",
-       "time": null,
-       "url": null
+       "time": 14.96600000000035,
+       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=5469&end=5485"
       },
       {
        "id": "snow2-15-Neo",
@@ -3228,8 +3228,8 @@
      "clips": [
       {
        "id": "snow2-16-Dangers",
-       "time": null,
-       "url": null
+       "time": 7.933999999999287,
+       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=5484&end=5492"
       },
       {
        "id": "snow2-16-Neo",
@@ -3250,8 +3250,8 @@
      "clips": [
       {
        "id": "snow2-17-Dangers",
-       "time": null,
-       "url": null
+       "time": 29.600000000000364,
+       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=5491&end=5522"
       },
       {
        "id": "snow2-17-Neo",
@@ -3316,8 +3316,8 @@
      "clips": [
       {
        "id": "snow2-20-Dangers",
-       "time": 30.300000000000182,
-       "url": "https://www.youtube.com/embed/0usPoO9suGA?start=5510&end=5541"
+       "time": 30.13299999999981,
+       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=5517&end=5548"
       },
       {
        "id": "snow2-20-Neo",
@@ -3338,8 +3338,8 @@
      "clips": [
       {
        "id": "snow2-21-Dangers",
-       "time": 20.83300000000054,
-       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=5534&end=5556"
+       "time": 19.567000000000007,
+       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=5547&end=5568"
       },
       {
        "id": "snow2-21-Neo",
@@ -3696,8 +3696,8 @@
      "clips": [
       {
        "id": "cascade2-15-Dangers",
-       "time": 9.266999999999825,
-       "url": "https://www.youtube.com/embed/0usPoO9suGA?start=5857&end=5867"
+       "time": 9.033000000000357,
+       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=5668&end=5678"
       },
       {
        "id": "cascade2-15-Neo",
@@ -4478,13 +4478,13 @@
      "clips": [
       {
        "id": "seaside2-2-Dangers",
-       "time": 5.0,
-       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=6459&end=6465"
+       "time": 4.632999999999811,
+       "url": "https://www.youtube.com/embed/0usPoO9suGA?start=6426&end=6432"
       },
       {
        "id": "seaside2-2-Neo",
-       "time": 5.0,
-       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=6530&end=6536"
+       "time": 4.6340000000000146,
+       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=6530&end=6535"
       },
       {
        "id": "seaside2-2-Vallu",
@@ -4500,13 +4500,13 @@
      "clips": [
       {
        "id": "seaside2-3-Dangers",
-       "time": 21.63299999999981,
-       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=6464&end=6487"
+       "time": 21.899999999999636,
+       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=6441&end=6463"
       },
       {
        "id": "seaside2-3-Neo",
-       "time": 21.966999999999643,
-       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=6535&end=6558"
+       "time": 22.33299999999963,
+       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=6534&end=6558"
       },
       {
        "id": "seaside2-3-Vallu",
@@ -5051,7 +5051,7 @@
       {
        "id": "seaside2-28-Dangers",
        "time": 12.800000000000182,
-       "url": "https://www.youtube.com/embed/0usPoO9suGA?start=6831&end=6845"
+       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=6794&end=6808"
       },
       {
        "id": "seaside2-28-Neo",
@@ -5072,8 +5072,8 @@
      "clips": [
       {
        "id": "seaside2-29-Dangers",
-       "time": 14.932999999999993,
-       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=6847&end=6863"
+       "time": 16.86700000000019,
+       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=6807&end=6825"
       },
       {
        "id": "seaside2-29-Neo",
@@ -5457,8 +5457,8 @@
       },
       {
        "id": "wooded2-15-Neo",
-       "time": 7.867000000000189,
-       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=7410&end=7419"
+       "time": 10.233000000000175,
+       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=7407&end=7419"
       },
       {
        "id": "wooded2-15-Vallu",
@@ -6206,12 +6206,12 @@
      "clips": [
       {
        "id": "sand2-17-Dangers",
-       "time": 5.0,
-       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=7816&end=7822"
+       "time": 4.233000000000175,
+       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=7816&end=7821"
       },
       {
        "id": "sand2-17-Neo",
-       "time": 5.0,
+       "time": 4.234000000000378,
        "url": "https://www.youtube.com/embed/nYINBviIDHc?start=7950&end=7956"
       },
       {
@@ -6228,12 +6228,12 @@
      "clips": [
       {
        "id": "sand2-18-Dangers",
-       "time": 5.0,
-       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=7821&end=7827"
+       "time": 5.36699999999928,
+       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=7820&end=7826"
       },
       {
        "id": "sand2-18-Neo",
-       "time": 5.0,
+       "time": 5.5330000000003565,
        "url": "https://www.youtube.com/embed/nYINBviIDHc?start=7955&end=7961"
       },
       {
@@ -6250,8 +6250,8 @@
      "clips": [
       {
        "id": "sand2-19-Dangers",
-       "time": 15.765999999999622,
-       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=7826&end=7843"
+       "time": 16.166000000000167,
+       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=7825&end=7843"
       },
       {
        "id": "sand2-19-Neo",
@@ -7092,7 +7092,7 @@
      "clips": [
       {
        "id": "metro2-11-Dangers",
-       "time": 10.200000000000728,
+       "time": 9.634000000000015,
        "url": "https://www.youtube.com/embed/6cfw9V1628w?start=8493&end=8504"
       },
       {
@@ -7114,8 +7114,8 @@
      "clips": [
       {
        "id": "metro2-12-Dangers",
-       "time": 13.13299999999981,
-       "url": "https://www.youtube.com/embed/0usPoO9suGA?start=8542&end=8556"
+       "time": 13.5,
+       "url": "https://www.youtube.com/embed/0usPoO9suGA?start=8541&end=8556"
       },
       {
        "id": "metro2-12-Neo",
@@ -7356,8 +7356,8 @@
      "clips": [
       {
        "id": "metro2-23-Dangers",
-       "time": null,
-       "url": null
+       "time": 17.5,
+       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=8693&end=8712"
       },
       {
        "id": "metro2-23-Neo",
@@ -7378,8 +7378,8 @@
      "clips": [
       {
        "id": "metro2-24-Dangers",
-       "time": null,
-       "url": null
+       "time": 9.200000000000728,
+       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=8710&end=8721"
       },
       {
        "id": "metro2-24-Neo",
@@ -7714,13 +7714,13 @@
      "clips": [
       {
        "id": "lake2-7-Dangers",
-       "time": 5.0,
-       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=9005&end=9011"
+       "time": 4.367000000000189,
+       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=8998&end=9003"
       },
       {
        "id": "lake2-7-Neo",
-       "time": 5.0,
-       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=9129&end=9135"
+       "time": 4.166000000001077,
+       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=9129&end=9134"
       },
       {
        "id": "lake2-7-Vallu",
@@ -7736,13 +7736,13 @@
      "clips": [
       {
        "id": "lake2-8-Dangers",
-       "time": 20.0,
-       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=9003&end=9024"
+       "time": 20.399999999999636,
+       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=9009&end=9031"
       },
       {
        "id": "lake2-8-Neo",
-       "time": 20.53399999999965,
-       "url": "https://www.youtube.com/embed/6Odz5Dk9teI?start=9126&end=9147"
+       "time": 20.634000000000015,
+       "url": "https://www.youtube.com/embed/AhO0jPiSTVA?start=9195&end=9216"
       },
       {
        "id": "lake2-8-Vallu",
@@ -7978,8 +7978,8 @@
      "clips": [
       {
        "id": "lake2-19-Dangers",
-       "time": 7.399999999999636,
-       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=9199&end=9207"
+       "time": 7.533999999999651,
+       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=9202&end=9211"
       },
       {
        "id": "lake2-19-Neo",
@@ -8094,13 +8094,13 @@
      "clips": [
       {
        "id": "luncheon2-4-Dangers",
-       "time": 15.433000000000902,
-       "url": "https://www.youtube.com/embed/0usPoO9suGA?start=9289&end=9305"
+       "time": 11.766999999999825,
+       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=9264&end=9277"
       },
       {
        "id": "luncheon2-4-Neo",
-       "time": 12.800000000001091,
-       "url": "https://www.youtube.com/embed/AhO0jPiSTVA?start=9463&end=9477"
+       "time": 12.600000000000364,
+       "url": "https://www.youtube.com/embed/6Odz5Dk9teI?start=9393&end=9406"
       },
       {
        "id": "luncheon2-4-Vallu",
@@ -8116,8 +8116,8 @@
      "clips": [
       {
        "id": "luncheon2-5-Dangers",
-       "time": 42.36699999999837,
-       "url": "https://www.youtube.com/embed/0usPoO9suGA?start=9304&end=9348"
+       "time": 41.63300000000163,
+       "url": "https://www.youtube.com/embed/_A0Dh3gnI-M?start=9276&end=9318"
       },
       {
        "id": "luncheon2-5-Neo",
@@ -8364,8 +8364,8 @@
      "clips": [
       {
        "id": "cap2-5-Dangers",
-       "time": 22.399999999999636,
-       "url": "https://www.youtube.com/embed/0usPoO9suGA?start=9625&end=9649"
+       "time": 22.33299999999872,
+       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=9601&end=9625"
       },
       {
        "id": "cap2-5-Neo",
@@ -8942,13 +8942,13 @@
      "clips": [
       {
        "id": "lost2-12-Dangers",
-       "time": 5.0,
-       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=10025&end=10031"
+       "time": 4.0,
+       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=10024&end=10029"
       },
       {
        "id": "lost2-12-Neo",
-       "time": 5.0,
-       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=10158&end=10164"
+       "time": 4.033000000001266,
+       "url": "https://www.youtube.com/embed/nYINBviIDHc?start=10158&end=10163"
       },
       {
        "id": "lost2-12-Vallu",
@@ -8964,8 +8964,8 @@
      "clips": [
       {
        "id": "lost2-13-Dangers",
-       "time": 14.466999999998734,
-       "url": "https://www.youtube.com/embed/6cfw9V1628w?start=10029&end=10045"
+       "time": 15.333000000000538,
+       "url": "https://www.youtube.com/embed/0usPoO9suGA?start=10088&end=10104"
       },
       {
        "id": "lost2-13-Neo",
@@ -9730,8 +9730,8 @@
      "clips": [
       {
        "id": "mushroom2-7-Dangers",
-       "time": 5.0,
-       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=10631&end=10637"
+       "time": 4.266999999999825,
+       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=10631&end=10636"
       },
       {
        "id": "mushroom2-7-Neo",
@@ -9752,8 +9752,8 @@
      "clips": [
       {
        "id": "mushroom2-8-Dangers",
-       "time": 11.266999999999825,
-       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=10636&end=10648"
+       "time": 12.0,
+       "url": "https://www.youtube.com/embed/DzJQplLyiZQ?start=10635&end=10648"
       },
       {
        "id": "mushroom2-8-Neo",

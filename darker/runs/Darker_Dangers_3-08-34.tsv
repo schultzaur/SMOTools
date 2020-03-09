@@ -11,7 +11,7 @@
 545.433	Secret of the Inverted Mural
 568.867	Hidden Room in the Inverted Pyramid
 597.233	On the Statue's Tail
-655.800	Showdown on the Inverted Pyramid
+655.600	Showdown on the Inverted Pyramid
 713.167	Sand Kingdom Slots
 734.633	Atop the Highest Tower
 780.467	Goomba Tower Assembly
@@ -35,7 +35,7 @@
 1405.533	Cheep Cheep Crossing
 1416.133	Dorrie-Back Rider
 1432.133	From the Broken Pillar
-1480.733	Broodals Over the Lake
+1479.100	Broodals Over the Lake
 1506.600	On the Lakeshore
 1658.067	On the Mountain Road
 1678.433	A Butterfly's Treasure
@@ -69,7 +69,7 @@
 2585.533	Shopping in Shiveria
 2600.567	The Shiverian Treasure Chest
 2612.100	Shining in the Snow in Town
-2763.167	The Bound Bowl Grand Prix
+2761.533	The Bound Bowl Grand Prix
 2789.867	Snow Kingdom Timer Challenge 2
 2804.267	Caught Hopping in the Snow!
 2822.967	Fishing in the Glacier!
@@ -90,13 +90,13 @@
 3460.500	Crossing to the Magma
 3470.333	Magma Narrow Path
 3487.733	Surrounded by Tall Mountains
-3522.067	Big Pot on the Volcano: Dive In!
+3520.467	Big Pot on the Volcano: Dive In!
 3554.233	The Treasure Chest in the Veggies
 3587.833	Overlooking a Bunch of Ingredients
 3607.767	Alcove Behind the Pillars of Magma
 3627.167	Climb Up the Cascading Magma
 3659.600	Light the Far-Off Lanterns
-3762.967	Cookatiel Showdown!
+3761.433	Cookatiel Showdown!
 3837.200	In the Ancient Treasure Chest
 3967.533	Battle with the Lord of Lightning!
 4043.800	Behind the Big Wall
@@ -119,7 +119,7 @@
 4665.967	Rolling Rock on the Moon
 4684.367	Cliffside Treasure Chest
 4734.000	The Tip of a White Spire
-5108.467	Light from the Ceiling
+5107.567	Light from the Ceiling
 5119.667	Loose-Tile Trackdown
 5142.800	Pops out of the Tail
 5164.600	Secret Path to Shiveria!
@@ -129,7 +129,7 @@
 5252.767	Above the Freezing Fish Pond
 5266.400	Ice Floe Swimming
 5281.100	Deep in the Cold, Cold Water
-5300.567	Snow Kingdom Timer Challenge 3
+5299.200	Snow Kingdom Timer Challenge 3
 5314.167	Shining on High
 5329.867	It Popped Out of the Ice
 5354.900	Peach in the Snow Kingdom
@@ -142,8 +142,10 @@
 5489.933	Water Pooling in the Crevasse
 5507.000	Treasure in the Ice Wall
 5517.767	The Ice Wall Barrier
+5547.900	Hat-and-Seek in the Snow
 5567.467	Forgotten in the Holding Room
 5602.000	Secret Path to Fossil Falls!
+5627.900	Cascade Kingdom Timer Challenge 2
 5637.133	Across the Floating Isles
 5661.633	Good Morning, Captain Toad!
 5673.333	Chomp Through the Rocks
@@ -188,7 +190,7 @@
 6365.300	Invader in Bowser's Castle
 6386.500	Secret Path to Bubblaine
 6408.567	Sea Gardening: Inlet Seed
-6413.567	Above the Parasol: Catch!
+6413.300	Above the Parasol: Catch!
 6435.800	Treasure Trap Hidden in the Inlet
 6457.433	A Light Next to the Lighthouse
 6466.700	At the Base of the Lighthouse
@@ -213,7 +215,7 @@
 6760.633	Shh! It's a Shortcut!
 6779.100	Slip Through the Nesting Spot
 6794.433	Underwater Highway East: Explore!
-6809.133	Rapid Ascent on Hot Spring Island
+6807.233	Rapid Ascent on Hot Spring Island
 6824.100	Peach in the Seaside Kingdom
 6835.633	What Shines Inside the Glass
 6852.200	Secret Path to the Steam Gardens
@@ -264,8 +266,8 @@
 7778.300	On the Eastern Pillar
 7792.233	The Treasure of Jaxi Ruins
 7816.367	Bird Traveling Wastes
-7821.367	Island in the Poison Swamp
-7826.367	Sand Kingdom Timer Challenge 3
+7820.600	Island in the Poison Swamp
+7825.967	Sand Kingdom Timer Challenge 3
 7842.133	Wandering Cactus
 7858.567	Jaxi Reunion!
 7869.200	Mighty Leap from the Palm Tree!
@@ -304,7 +306,7 @@
 8453.200	Inside an Iron Girder
 8473.467	Metro Kingdom Slots
 8493.633	City Gardening: Building Planter
-8503.833	Who Piled Garbage on This?
+8503.267	Who Piled Garbage on This?
 8524.333	Crossing Lines
 8538.733	Peach in the Metro Kingdom
 8555.867	Out of a Crate in the City
@@ -330,7 +332,7 @@
 8915.600	Bird Traveling Over the Lake
 8940.967	Love by the Lake
 8998.400	Waves of Poison: Hop to It!
-9003.400	Waves of Poison: Hoppin' Over
+9002.767	Waves of Poison: Hoppin' Over
 9023.400	Lake Kingdom Timer Challenge 2
 9034.500	Peach in the Lake Kingdom
 9051.833	Found with Metro Kingdom Art
@@ -342,8 +344,9 @@
 9158.600	Rooftop of the Water Plaza
 9164.433	What's in the Box?
 9199.400	Jump, Grab, and Climb Some More
-9206.800	Jump, Grab, Cling, and Climb
+9210.733	Jump, Grab, Cling, and Climb
 9233.333	Secret Path to Mount Volbono!
+9237.267	Secret Path to Bowser's Castle
 9250.767	A Tourist in the Luncheon Kingdom!
 9261.100	Caught Hopping at the Volcano!
 9271.733	Atop a Column in a Row
@@ -384,7 +387,7 @@
 9994.533	Atop a Propeller Pillar
 10015.333	Taking Notes: Stretch and Shrink
 10024.700	Caught Hopping in the Jungle!
-10029.700	A Propeller Pillar's Secret
+10028.700	A Propeller Pillar's Secret
 10044.167	Line It Up, Blow It Up
 10061.733	The Shining Fruit
 10070.200	Lost Kingdom Timer Challenge
@@ -419,7 +422,7 @@
 10624.100	Forever Onward, Captain Toad!
 10639.300	Caught Hopping at Peach's Castle!
 10646.133	Gardening for Toad: Field Seed
-10651.133	Gardening for Toad: Garden Seed
+10650.633	Gardening for Toad: Garden Seed
 10662.567	Grow a Flower Garden
 10680.133	Mushroom Kingdom Timer Challenge
 10697.667	Toad Defender
