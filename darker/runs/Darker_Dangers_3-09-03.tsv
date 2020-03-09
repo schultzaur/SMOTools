@@ -35,7 +35,7 @@
 1413.633	Cheep Cheep Crossing
 1424.233	Dorrie-Back Rider
 1440.233	From the Broken Pillar
-1487.967	Broodals Over the Lake
+1489.600	Broodals Over the Lake
 1515.367	On the Lakeshore
 1658.533	On the Mountain Road
 1678.400	A Butterfly's Treasure
@@ -70,9 +70,10 @@
 2589.333	Shopping in Shiveria
 2604.100	The Shiverian Treasure Chest
 2615.500	Shining in the Snow in Town
-2765.200	The Bound Bowl Grand Prix
+2766.833	The Bound Bowl Grand Prix
 2793.600	Snow Kingdom Timer Challenge 2
 2808.667	Caught Hopping in the Snow!
+2814.133	Sewer Treasure
 2828.300	Fishing in the Glacier!
 2898.000	A Rumble from the Sandy Floor
 3010.000	Ride the Jetstream
@@ -91,8 +92,9 @@
 3467.267	Crossing to the Magma
 3477.133	Magma Narrow Path
 3495.867	Surrounded by Tall Mountains
-3529.400	Big Pot on the Volcano: Dive In!
+3529.367	Big Pot on the Volcano: Dive In!
 3561.767	The Treasure Chest in the Veggies
+3596.167	Overlooking a Bunch of Ingredients
 3615.233	Alcove Behind the Pillars of Magma
 3635.133	Climb Up the Cascading Magma
 3667.800	Light the Far-Off Lanterns
@@ -121,15 +123,15 @@
 5119.600	Light from the Ceiling
 5133.067	Loose-Tile Trackdown
 5159.000	Pops out of the Tail
+5181.000	Secret Path to Bowser's Castle
+5186.000	Secret Path to Shiveria!
 5213.867	Captain Toad is Chilly!
 5225.867	Taking Notes: Snow Path Dash
-5234.867	Deep, Deep Down
-5240.433	King of the Cube!
 5259.100	Snow Kingdom Timer Challenge 1
-5281.900	Above the Freezing Fish Pond
+5281.667	Above the Freezing Fish Pond
 5293.467	Ice Floe Swimming
 5307.167	Deep in the Cold, Cold Water
-5324.333	Snow Kingdom Timer Challenge 3
+5325.067	Snow Kingdom Timer Challenge 3
 5336.400	Shining on High
 5354.900	It Popped Out of the Ice
 5380.167	Peach in the Snow Kingdom
@@ -140,6 +142,7 @@
 5491.967	The Snowy Mountain Barrier
 5484.033	Squirming Under the Ice
 5521.567	Water Pooling in the Crevasse
+5540.667	Treasure in the Ice Wall
 5551.500	The Ice Wall Barrier
 5583.167	Top of a Dune
 5603.067	Forgotten in the Holding Room
@@ -188,6 +191,7 @@
 6348.867	Small Bird in Bowser's Castle
 6363.800	Past the Moving Wall
 6393.600	Invader in Bowser's Castle
+6414.700	Secret Path to Bubblaine
 6436.267	Sea Gardening: Inlet Seed
 6441.267	Above the Parasol: Catch!
 6462.933	Treasure Trap Hidden in the Inlet
@@ -214,7 +218,7 @@
 6798.733	Shh! It's a Shortcut!
 6815.867	Slip Through the Nesting Spot
 6830.467	Underwater Highway East: Explore!
-6847.233	Rapid Ascent on Hot Spring Island
+6847.167	Rapid Ascent on Hot Spring Island
 6862.100	Peach in the Seaside Kingdom
 6873.600	What Shines Inside the Glass
 6890.367	Secret Path to the Steam Gardens
@@ -297,6 +301,7 @@
 8302.967	From a Crate In The Ruins
 8318.267	On the Lone Pillar
 8337.400	Secret Path to New Donk City!
+8388.967	Sphynx in the City
 8398.267	City Gardening: Plaza Planter
 8406.267	Hat-and-Seek: In the City
 8416.433	Found with Seaside Kingdom Art
@@ -314,9 +319,9 @@
 8608.400	High Over the Crowd
 8630.100	Hidden in the Scrap
 8644.800	Bird Traveling in the Park
-8655.133	Found in the Park! Good Dog!
-8680.667	Dizzying Heights
-8698.233	Metro Kingdom Timer Challenge 1
+8655.000	Found in the Park! Good Dog!
+8680.400	Dizzying Heights
+8697.967	Behind the Floodgate
 8721.300	Free Parking: Rooftop Hop
 8746.333	Scaling Pitchblack Mountain
 8755.500	Reaching Pitchblack Island
@@ -337,12 +342,13 @@
 9056.333	Our Secret Little Room
 9088.567	Deep, Deep Down
 9099.500	Let's Go Swimming, Captain Toad!
+9109.667	Toad Defender
 9124.233	I Met a Lake Cheep Cheep!
 9132.900	Danger Sign
 9151.400	Rooftop of the Water Plaza
 9157.267	What's in the Box?
 9192.733	Jump, Grab, and Climb Some More
-9200.100	Jump, Grab, Cling, and Climb
+9203.633	Jump, Grab, Cling, and Climb
 9225.933	Secret Path to Mount Volbono!
 9243.100	A Tourist in the Luncheon Kingdom!
 9253.633	Caught Hopping at the Volcano!
@@ -357,7 +363,6 @@
 9553.600	Cap Kingdom Timer Challenge 2
 9567.767	Shopping in Bonneton
 9590.933	Precision Rolling
-9613.333	Roll On and On
 9640.167	Good Evening, Captain Toad!
 9653.300	Fly to the Edge of the Fog
 9667.733	Under the Big One's Brim
@@ -426,6 +431,7 @@
 10744.000	Love at Peach's Castle
 10756.333	Perched on the Castle Roof
 10775.467	Rescue Princess Peach
+10780.667	The Nut at the Dead End
 10789.033	Achieve World Peace
 10810.100	Flat Moon Finder
 10817.133	Treasure Chest Hunter
