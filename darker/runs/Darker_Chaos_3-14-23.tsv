@@ -10,7 +10,7 @@
 547.333	Secret of the Inverted Mural
 570.633	Hidden Room in the Inverted Pyramid
 599.067	On the Statue's Tail
-660.833	Showdown on the Inverted Pyramid
+660.600	Showdown on the Inverted Pyramid
 718.633	Sand Kingdom Slots
 740.033	Atop the Highest Tower
 789.067	Goomba Tower Assembly
@@ -33,7 +33,7 @@
 1421.033	End of the Hidden Passage
 1430.567	Cheep Cheep Crossing
 1456.900	From the Broken Pillar
-1510.933	Broodals Over the Lake
+1509.267	Broodals Over the Lake
 1537.133	On the Lakeshore
 1680.733	On the Mountain Road
 1700.900	A Butterfly's Treasure
@@ -51,7 +51,6 @@
 1922.667	Swaying in the Breeze
 1952.467	City Hall Lost & Found
 2053.767	New Donk City's Pest Problem
-2070.600	I Met a Pokio!
 2083.833	Secret Girder Tunnel!
 2116.933	Bench Friends
 2143.533	Drummer on Board!
@@ -63,7 +62,6 @@
 2302.900	Sewer Treasure
 2416.933	Celebrating in the Streets!
 2514.400	A Tourist in the Metro Kingdom!
-2579.167	Rad Hatter
 2608.833	Entrance to Shiveria
 2629.533	Shopping in Shiveria
 2644.633	The Shiverian Treasure Chest
@@ -71,6 +69,7 @@
 2817.367	The Bound Bowl Grand Prix
 2845.833	Snow Kingdom Timer Challenge 2
 2860.200	Caught Hopping in the Snow!
+2866.467	Jizo All in a Row
 2888.000	Fishing in the Glacier!
 2959.433	A Rumble from the Sandy Floor
 3077.100	Ride the Jetstream
@@ -89,14 +88,15 @@
 3541.133	Crossing to the Magma
 3552.533	Magma Narrow Path
 3569.833	Surrounded by Tall Mountains
-3603.167	Big Pot on the Volcano: Dive In!
+3601.500	Big Pot on the Volcano: Dive In!
 3634.867	The Treasure Chest in the Veggies
 3669.067	Overlooking a Bunch of Ingredients
 3688.700	Alcove Behind the Pillars of Magma
 3705.433	Climb Up the Cascading Magma
 3746.100	Light the Far-Off Lanterns
-3860.267	Cookatiel Showdown!
+3858.700	Cookatiel Showdown!
 3936.867	In the Ancient Treasure Chest
+4071.933	Battle with the Lord of Lightning!
 4147.867	Behind the Big Wall
 4178.000	Infiltrate Bowser's Castle
 4251.933	Treasure Inside the Turret
@@ -116,18 +116,18 @@
 4777.700	Rolling Rock on the Moon
 4796.333	Cliffside Treasure Chest
 4846.933	The Tip of a White Spire
-4867.367	Up in the Rafters
 5211.733	Light from the Ceiling
 5224.133	Loose-Tile Trackdown
 5247.533	Pops out of the Tail
 5270.300	Secret Path to Shiveria!
 5301.800	Captain Toad is Chilly!
-5316.800	Taking Notes: Snow Path Dash
+5313.933	Taking Notes: Ocean Surface Dash
 5333.633	Under the Ground
 5347.933	Snow Kingdom Timer Challenge 1
 5359.767	Above the Freezing Fish Pond
 5376.767	Ice Floe Swimming
 5390.767	Deep in the Cold, Cold Water
+5408.433	Snow Kingdom Timer Challenge 3
 5419.300	Shining on High
 5437.967	It Popped Out of the Ice
 5463.600	Peach in the Snow Kingdom
@@ -140,7 +140,7 @@
 5601.167	Water Pooling in the Crevasse
 5619.767	Treasure in the Ice Wall
 5631.400	The Ice Wall Barrier
-5671.100	Hat-and-Seek in the Snow
+5670.300	Hat-and-Seek in the Snow
 5689.200	Forgotten in the Holding Room
 5701.300	Roll On and On
 5731.567	Secret Path to Fossil Falls!
@@ -331,7 +331,7 @@
 9197.267	Bird Traveling Over the Lake
 9222.667	Love by the Lake
 9258.500	Waves of Poison: Hop to It!
-9263.500	Waves of Poison: Hoppin' Over
+9266.800	Waves of Poison: Hoppin' Over
 9284.167	Lake Kingdom Timer Challenge 2
 9295.667	Peach in the Lake Kingdom
 9313.233	Found with Metro Kingdom Art
@@ -343,7 +343,7 @@
 9422.300	Rooftop of the Water Plaza
 9428.200	What's in the Box?
 9463.300	Jump, Grab, and Climb Some More
-9473.533	Jump, Grab, Cling, and Climb
+9471.433	Jump, Grab, Cling, and Climb
 9498.000	Secret Path to Mount Volbono!
 9516.333	A Tourist in the Luncheon Kingdom!
 9526.867	Caught Hopping at the Volcano!

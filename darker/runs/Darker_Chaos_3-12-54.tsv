@@ -1,7 +1,6 @@
 178.833	Our First Power Moon
 278.533	Multi Moon Atop the Falls
 308.000	Treasure of the Waterfall Basin
-376.167	Poke! Roll!
 396.267	Overlooking the Desert Town
 402.167	Bird Traveling the Desert
 412.733	A Rumble from the Sandy Floor
@@ -11,7 +10,7 @@
 545.500	Secret of the Inverted Mural
 568.500	Hidden Room in the Inverted Pyramid
 597.400	On the Statue's Tail
-657.633	Showdown on the Inverted Pyramid
+657.467	Showdown on the Inverted Pyramid
 715.467	Sand Kingdom Slots
 736.967	Atop the Highest Tower
 782.633	Goomba Tower Assembly
@@ -34,7 +33,7 @@
 1421.300	Cheep Cheep Crossing
 1431.967	Dorrie-Back Rider
 1448.300	From the Broken Pillar
-1497.867	Broodals Over the Lake
+1496.200	Broodals Over the Lake
 1523.633	On the Lakeshore
 1665.867	On the Mountain Road
 1687.233	A Butterfly's Treasure
@@ -68,7 +67,7 @@
 2638.567	Shining in the Snow in Town
 2796.067	The Bound Bowl Grand Prix
 2825.233	Snow Kingdom Timer Challenge 2
-2841.767	Caught Hopping in the Snow!
+2841.133	Caught Hopping in the Snow!
 2861.100	Fishing in the Glacier!
 2932.833	A Rumble from the Sandy Floor
 3052.667	Ride the Jetstream
@@ -87,14 +86,15 @@
 3528.133	Crossing to the Magma
 3538.833	Magma Narrow Path
 3555.833	Surrounded by Tall Mountains
-3590.100	Big Pot on the Volcano: Dive In!
+3588.467	Big Pot on the Volcano: Dive In!
 3622.700	The Treasure Chest in the Veggies
 3655.267	Overlooking a Bunch of Ingredients
 3675.000	Alcove Behind the Pillars of Magma
 3691.767	Climb Up the Cascading Magma
 3724.867	Light the Far-Off Lanterns
-3834.100	Cookatiel Showdown!
+3832.533	Cookatiel Showdown!
 3909.600	In the Ancient Treasure Chest
+4044.233	Battle with the Lord of Lightning!
 4121.033	Behind the Big Wall
 4151.133	Infiltrate Bowser's Castle
 4224.600	Treasure Inside the Turret
@@ -114,15 +114,15 @@
 4754.733	Rolling Rock on the Moon
 4773.200	Cliffside Treasure Chest
 4824.200	Toad Defender
-4844.233	Up in the Rafters
 5191.633	Light from the Ceiling
 5205.667	Loose-Tile Trackdown
 5229.300	Pops out of the Tail
 5251.667	Secret Path to Mount Volbono!
+5255.700	Secret Path to Shiveria!
 5283.833	Captain Toad is Chilly!
 5295.800	Taking Notes: Snow Path Dash
 5328.900	Snow Kingdom Timer Challenge 1
-5340.433	Above the Freezing Fish Pond
+5340.333	Above the Freezing Fish Pond
 5353.833	Ice Floe Swimming
 5367.567	Deep in the Cold, Cold Water
 5384.833	Snow Kingdom Timer Challenge 3
@@ -140,7 +140,7 @@
 5604.467	The Ice Wall Barrier
 5640.700	Hat-and-Seek in the Snow
 5661.067	Forgotten in the Holding Room
-5667.600	Dorrie-Back Rider
+5673.533	On the Lakeshore
 5693.867	Secret Path to Fossil Falls!
 5701.000	Above a High Cliff
 5744.367	Good Morning, Captain Toad!
@@ -187,7 +187,7 @@
 6495.333	Invader in Bowser's Castle
 6517.633	Secret Path to Bubblaine
 6539.833	Sea Gardening: Inlet Seed
-6544.833	Above the Parasol: Catch!
+6544.600	Above the Parasol: Catch!
 6566.767	Treasure Trap Hidden in the Inlet
 6588.633	A Light Next to the Lighthouse
 6598.267	At the Base of the Lighthouse
@@ -240,7 +240,7 @@
 7536.000	The Nut in the Red Maze
 7575.167	Wooded Kingdom Timer Challenge 1
 7586.433	Moon Shards in the Forest
-7591.433	Bird Traveling the Forest
+7591.233	Bird Traveling the Forest
 7612.300	Fire in the Cave
 7647.400	Below Breakdown Road
 7655.200	Down and Back Breakdown Road
@@ -298,7 +298,7 @@
 8547.200	Hat-and-Seek: In the City
 8556.467	Found with Seaside Kingdom Art
 8578.767	Metro Kingdom Timer Challenge 3
-8599.933	Metro Kingdom Timer Challenge 1
+8598.800	Metro Kingdom Timer Challenge 1
 8608.933	Inside an Iron Girder
 8635.167	Metro Kingdom Slots
 8655.867	City Gardening: Building Planter
@@ -329,7 +329,7 @@
 9106.767	Bird Traveling Over the Lake
 9131.233	Love by the Lake
 9166.533	Waves of Poison: Hop to It!
-9171.533	Waves of Poison: Hoppin' Over
+9171.133	Waves of Poison: Hoppin' Over
 9192.400	Lake Kingdom Timer Challenge 2
 9203.433	Peach in the Lake Kingdom
 9219.833	Found with Metro Kingdom Art
@@ -341,7 +341,7 @@
 9341.333	Rooftop of the Water Plaza
 9347.367	What's in the Box?
 9381.233	Jump, Grab, and Climb Some More
-9388.833	Jump, Grab, Cling, and Climb
+9392.533	Jump, Grab, Cling, and Climb
 9415.033	Secret Path to Mount Volbono!
 9432.533	A Tourist in the Luncheon Kingdom!
 9443.067	Caught Hopping at the Volcano!
@@ -383,7 +383,7 @@
 10190.500	Moon Shards in the Jungle
 10199.833	Atop a Propeller Pillar
 10237.900	A Propeller Pillar's Secret
-10242.900	Caught Hopping in the Jungle!
+10242.133	Caught Hopping in the Jungle!
 10258.933	Line It Up, Blow It Up
 10276.733	The Shining Fruit
 10284.867	Lost Kingdom Timer Challenge

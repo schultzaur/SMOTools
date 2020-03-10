@@ -56,7 +56,7 @@
 2126.133	Bench Friends
 2152.800	Drummer on Board!
 2181.800	Bassist on Board!
-2188.733	Top of a Dune
+2213.800	Guitarist on Board!
 2235.667	Glittering Above the Pool
 2245.733	Left at the Cafe?
 2266.600	Trumpeter on Board!
@@ -97,7 +97,7 @@
 3686.200	Alcove Behind the Pillars of Magma
 3703.300	Climb Up the Cascading Magma
 3736.833	Light the Far-Off Lanterns
-3841.800	Cookatiel Showdown!
+3840.167	Cookatiel Showdown!
 3917.433	In the Ancient Treasure Chest
 4047.233	Battle with the Lord of Lightning!
 4124.967	Behind the Big Wall
@@ -105,6 +105,7 @@
 4222.100	Poking the Turret Wall
 4230.500	Treasure Inside the Turret
 4244.033	Smart Bombing
+4258.567	Hat Icon
 4267.667	From the Side above the Castle Gate
 4301.100	Underground Jizo
 4308.333	Jizo All in a Row
@@ -120,7 +121,7 @@
 4809.733	Rolling Rock on the Moon
 4835.400	Cliffside Treasure Chest
 4886.867	The Tip of a White Spire
-5262.100	Light from the Ceiling
+5261.100	Light from the Ceiling
 5275.233	Loose-Tile Trackdown
 5298.567	Pops out of the Tail
 5320.500	Secret Path to Shiveria!
@@ -142,6 +143,7 @@
 5632.133	Water Pooling in the Crevasse
 5647.300	Treasure in the Ice Wall
 5658.133	The Ice Wall Barrier
+5689.767	Hat-and-Seek in the Snow
 5709.033	Forgotten in the Holding Room
 5723.700	Shining on High
 5763.900	Secret Path to Fossil Falls!
@@ -268,7 +270,7 @@
 7985.500	On the Eastern Pillar
 7999.433	The Treasure of Jaxi Ruins
 8025.167	Bird Traveling Wastes
-8030.167	Island in the Poison Swamp
+8030.067	Island in the Poison Swamp
 8035.800	Sand Kingdom Timer Challenge 3
 8048.967	Wandering Cactus
 8063.400	Jaxi Reunion!
@@ -291,7 +293,7 @@
 8360.233	The Bullet Bill Maze: Break Through!
 8379.500	Sand Kingdom Timer Challenge 1
 8394.600	On the North Pillar
-8419.967	Skull Sign in the Transparent Maze
+8420.567	Skull Sign in the Transparent Maze
 8430.633	The Invisible Maze
 8455.033	Into the Flowing Sands
 8463.367	Alcove in the Ruins
@@ -308,7 +310,6 @@
 8662.500	Inside an Iron Girder
 8683.467	Metro Kingdom Slots
 8705.967	City Gardening: Building Planter
-8716.133	Who Piled Garbage on This?
 8728.567	Caught Hopping on a Building!
 8737.100	Crossing Lines
 8751.200	Peach in the Metro Kingdom
@@ -335,20 +336,18 @@
 9131.967	Bird Traveling Over the Lake
 9155.033	Love by the Lake
 9190.233	Waves of Poison: Hop to It!
-9195.233	Waves of Poison: Hoppin' Over
+9194.400	Waves of Poison: Hoppin' Over
 9215.867	Lake Kingdom Timer Challenge 2
 9226.933	Peach in the Lake Kingdom
 9242.733	Found with Metro Kingdom Art
 9255.200	Our Secret Little Room
 9287.567	Deep, Deep Down
 9299.433	Let's Go Swimming, Captain Toad!
-9308.700	I Met a Pokio!
 9322.100	I Met a Lake Cheep Cheep!
 9330.533	Skimming the Poison Tide
 9350.767	Rooftop of the Water Plaza
 9356.533	What's in the Box?
 9391.167	Jump, Grab, and Climb Some More
-9396.200	Lake Fishing
 9401.800	Jump, Grab, Cling, and Climb
 9424.433	Secret Path to Mount Volbono!
 9441.933	A Tourist in the Luncheon Kingdom!
@@ -365,6 +364,7 @@
 9741.000	Bonnetter Blockade
 9759.300	Cap Kingdom Timer Challenge 2
 9794.533	Precision Rolling
+9816.800	Roll On and On
 9845.467	Good Evening, Captain Toad!
 9857.133	Fly to the Edge of the Fog
 9870.567	Under the Big One's Brim
@@ -390,7 +390,7 @@
 10208.767	Taking Notes: Stretch and Shrink
 10226.067	Line It Up, Blow It Up
 10233.433	Caught Hopping at the Waterfall!
-10238.433	A Propeller Pillar's Secret
+10237.567	A Propeller Pillar's Secret
 10253.533	The Shining Fruit
 10261.833	Lost Kingdom Timer Challenge
 10315.200	A Tourist in the Moon Kingdom

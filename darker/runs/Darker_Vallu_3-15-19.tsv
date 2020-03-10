@@ -96,7 +96,7 @@
 3768.167	Alcove Behind the Pillars of Magma
 3785.200	Climb Up the Cascading Magma
 3822.800	Light the Far-Off Lanterns
-3935.767	Cookatiel Showdown!
+3934.133	Cookatiel Showdown!
 4012.933	In the Ancient Treasure Chest
 4143.967	Battle with the Lord of Lightning!
 4221.800	Behind the Big Wall
@@ -117,12 +117,12 @@
 4914.767	Rolling Rock on the Moon
 4934.333	Cliffside Treasure Chest
 4984.033	The Tip of a White Spire
-5005.600	Up in the Rafters
-5351.033	Light from the Ceiling
+5350.233	Light from the Ceiling
 5362.200	Loose-Tile Trackdown
 5385.700	Pops out of the Tail
 5407.900	Secret Path to Shiveria!
 5441.067	Captain Toad is Chilly!
+5444.233	Jizo All in a Row
 5453.333	Taking Notes: Snow Path Dash
 5485.733	Snow Kingdom Timer Challenge 1
 5497.233	Above the Freezing Fish Pond
@@ -153,7 +153,7 @@
 6007.467	Just a Hat, Skip, and a Jump
 6040.200	Behind the Waterfall
 6050.000	Taking Notes: Hurry Upward
-6066.333	Inside the Busted Fossil
+6066.400	Inside the Busted Fossil
 6077.100	Peach in the Cascade Kingdom
 6091.200	Guarded by a Colossal Fossil
 6099.600	Next to the Stone Arch
@@ -181,6 +181,7 @@
 6458.333	Jizo's Big Adventure
 6477.700	Peach in Bowser's Kingdom
 6497.133	Shopping at Bowser's Castle
+6500.900	Love by the Lake
 6514.267	Third Courtyard Outskirts
 6555.133	Taking notes: Between spinies
 6573.600	Poking Your Nose in the Plaster Wall
@@ -332,7 +333,7 @@
 9288.867	Bird Traveling Over the Lake
 9312.500	Love by the Lake
 9348.467	Waves of Poison: Hop to It!
-9353.467	Waves of Poison: Hoppin' Over
+9352.633	Waves of Poison: Hoppin' Over
 9377.500	Lake Kingdom Timer Challenge 2
 9388.400	Peach in the Cascade Kingdom
 9404.867	Found with Metro Kingdom Art
@@ -344,11 +345,13 @@
 9510.367	Rooftop of the Water Plaza
 9516.133	What's in the Box?
 9562.967	Jump, Grab, and Climb Some More
-9573.200	Jump, Grab, Cling, and Climb
+9571.100	Jump, Grab, Cling, and Climb
 9597.367	Secret Path to Mount Volbono!
+9601.467	Secret Path to Bowser's Castle
 9614.800	A Tourist in the Luncheon Kingdom!
 9625.700	Caught Hopping at the Volcano!
 9637.267	Atop a Column in a Row
+9650.033	Island of Salt Floating in the Lava
 9695.233	Fork Flickin' Detour
 9702.133	Fork Flickin' to the Summit
 9722.500	By the Cannon Pointed at the Big Pot
@@ -378,7 +381,7 @@
 10256.800	Peach in the Lost Kingdom
 10282.167	Below the Cliff's Edge
 10292.367	Wrecked Rock Block
-10302.367	Inside the Rising Stone Pillar
+10301.767	Inside the Rising Stone Pillar
 10316.600	Get Some Rest, Captain Toad
 10329.700	Jump Down to the Top of a Tree
 10350.233	Found with Snow Kingdom Art
@@ -422,7 +425,7 @@
 11021.133	Forever Onward, Captain Toad!
 11036.900	Caught Hopping at Peach's Castle!
 11043.733	Gardening for Toad: Garden Seed
-11048.733	Gardening for Toad: Field Seed
+11048.267	Gardening for Toad: Field Seed
 11060.800	Grow a Flower Garden
 11079.700	Mushroom Kingdom Timer Challenge
 11098.733	Toad Defender

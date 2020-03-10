@@ -1,5 +1,5 @@
 108.833	Rad Hatter
-282.933	Dorrie-Back Rider
+282.767	World Warper
 303.900	Above a High Cliff
 312.567	Treasure of the Waterfall Basin
 406.267	Bird Traveling the Desert
@@ -31,6 +31,7 @@
 1301.933	Nut Planted in the Tower
 1308.000	Stretching Your Legs
 1320.700	Up on the Big Screen
+1429.833	Poke! Roll!
 1452.400	End of the Hidden Passage
 1462.167	Cheep Cheep Crossing
 1473.000	Dorrie-Back Rider
@@ -76,7 +77,7 @@
 2984.767	Caught Hopping in the Snow!
 3004.867	Fishing in the Glacier!
 3079.067	A Rumble from the Sandy Floor
-3189.200	Taking Notes: Ocean Surface Dash
+3188.700	Taking Notes: Ocean Surface Dash
 3208.900	Ride the Jetstream
 3224.167	On the Cliff Overlooking the Beach
 3240.067	Good Job, Captain Toad!
@@ -93,6 +94,7 @@
 3691.633	Magma Narrow Path
 3711.567	Surrounded by Tall Mountains
 3743.133	Big Pot on the Volcano: Dive In!
+3749.300	Poke! Roll!
 3779.933	The Treasure Chest in the Veggies
 3815.067	Overlooking a Bunch of Ingredients
 3834.567	Alcove Behind the Pillars of Magma
@@ -120,33 +122,32 @@
 4957.700	Rolling Rock on the Moon
 4976.933	Cliffside Treasure Chest
 5027.633	The Tip of a White Spire
-5048.700	Up in the Rafters
-5398.167	Light from the Ceiling
+5397.200	Light from the Ceiling
 5409.500	Loose-Tile Trackdown
 5434.200	Pops out of the Tail
 5457.667	Secret Path to Shiveria!
 5490.233	Captain Toad is Chilly!
 5502.333	Taking Notes: Snow Path Dash
+5509.833	I Met a Pokio!
 5534.400	Snow Kingdom Timer Challenge 1
-5545.467	Above the Freezing Fish Pond
+5545.033	Above the Freezing Fish Pond
 5557.800	Ice Floe Swimming
 5572.633	Deep in the Cold, Cold Water
-5591.400	Snow Kingdom Timer Challenge 3
+5590.633	Snow Kingdom Timer Challenge 3
 5603.033	It Popped Out of the Ice
 5630.000	Peach in the Snow Kingdom
 5649.700	Icy Jump Challenge
 5658.167	Atop a Blustery Arch
 5679.233	The Gusty Barrier
 5714.600	Behind the Snowy Mountain
-5731.000	Squirming Under the Ice
 5739.200	The Snowy Mountain Barrier
+5731.000	Squirming Under the Ice
 5768.600	Water Pooling in the Crevasse
 5784.100	Treasure in the Ice Wall
 5796.067	The Ice Wall Barrier
 5827.700	Hat-and-Seek in the Snow
 5848.600	Forgotten in the Holding Room
 5863.000	Shining on High
-5891.367	Roll On and On
 5906.767	Secret Path to Fossil Falls!
 5939.933	Cascade Kingdom Timer Challenge 2
 5949.167	Across the Floating Isles
@@ -174,7 +175,7 @@
 6291.000	Bottom of the Waterfall Basin
 6316.667	Secret Path to Bowser's Castle
 6360.767	From Crates in the Moat
-6375.167	Sunken Treasure in the Moat
+6375.200	Sunken Treasure in the Moat
 6398.100	Above the Poison Swamp
 6414.533	Knocking Down the Nice Frame
 6429.167	Caught Hopping at Bowser's Castle!
@@ -194,7 +195,7 @@
 6694.167	Invader in Bowser's Castle
 6720.567	Secret Path to Bubblaine
 6744.767	Sea Gardening: Inlet Seed
-6749.767	Above the Parasol: Catch!
+6749.533	Above the Parasol: Catch!
 6771.600	Treasure Trap Hidden in the Inlet
 6796.567	A Light Next to the Lighthouse
 6805.700	At the Base of the Lighthouse
@@ -338,7 +339,7 @@
 9388.633	Behind the Floodgate
 9418.300	Love by the Lake
 9454.367	Waves of Poison: Hop to It!
-9459.367	Waves of Poison: Hoppin' Over
+9458.700	Waves of Poison: Hoppin' Over
 9481.000	Lake Kingdom Timer Challenge 2
 9492.567	Peach in the Lake Kingdom
 9507.800	Found with Metro Kingdom Art
@@ -349,7 +350,8 @@
 9596.567	High-Flying Leap
 9615.700	Rooftop of the Water Plaza
 9621.633	What's in the Box?
-9655.900	Jump, Grab, and Climb Some More
+9655.700	Jump, Grab, and Climb Some More
+9662.700	Jump, Grab, Cling, and Climb
 9683.233	Bird Traveling Over the Lake
 9709.500	Secret Path to Mount Volbono!
 9728.167	A Tourist in the Luncheon Kingdom!
@@ -428,7 +430,7 @@
 11130.000	Forever Onward, Captain Toad!
 11145.767	Caught Hopping at Peach's Castle!
 11152.200	Gardening for Toad: Field Seed
-11157.200	Gardening for Toad: Garden Seed
+11157.133	Gardening for Toad: Garden Seed
 11169.233	Grow a Flower Garden
 11187.133	Mushroom Kingdom Timer Challenge
 11204.133	Toad Defender

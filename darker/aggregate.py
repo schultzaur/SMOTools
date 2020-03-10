@@ -116,12 +116,12 @@ class Clip(object):
         if self.source.type == SourceType.YouTube:
             return "https://www.youtube.com/embed/{0}?start={1}&end={2}".format(
                 self.source.id,
-                round(self.start - .5),
-                round(self.end + .5))
+                round(self.start - 1),
+                round(self.end + 3))
         elif self.source.type  == SourceType.Twitch:
             return "https://player.twitch.tv/?video={0}&autoplay=false&time={1}s".format(
                 self.source.id,
-                round(self.start - .5))
+                round(self.start - 1))
         return None
 
 class Subsplit(object):

@@ -85,7 +85,7 @@ Vue.component('subsplit', {
     template: subsplitTemplate,
     computed: {
         times: function() {
-            return this.subsplit.clips.map(clip => clip.time).filter(val => val !== null);
+            return this.subsplit.clips.filter(clip => clip.time !== null).map(clip => clip.time.toFixed(2))
         },
         fastestTime: function() {
             return Math.min.apply(null, this.times);
@@ -96,9 +96,12 @@ Vue.component('subsplit', {
     },
     methods: {
         computeColor: function(time) {
-            if (time == null) {
+            if (time === null) {
                 return "btn-secondary";
             }
+
+            time = time.toFixed(2)
+
             if (time == this.fastestTime) {
                 return "btn-success";
             }

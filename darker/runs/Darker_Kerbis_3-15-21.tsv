@@ -16,6 +16,7 @@
 807.567	Goomba Tower Assembly
 841.667	Underground Treasure Chest
 957.833	The Hole in the Desert
+1031.000	Hat Maven
 1073.233	Beneath the Roots of a Moving Tree
 1098.467	Glowing in the Deep Woods
 1122.633	The Hard Rock in Deep Woods
@@ -62,7 +63,6 @@
 2343.533	Sewer Treasure
 2367.967	Powering Up the Station
 2458.800	A Traditional Festival!
-2463.800	Celebrating in the Streets!
 2555.567	A Tourist in the Metro Kingdom!
 2647.700	Entrance to Shiveria
 2671.067	Shopping in Shiveria
@@ -72,7 +72,6 @@
 2880.400	Snow Kingdom Timer Challenge 2
 2894.833	Caught Hopping in the Snow!
 2921.467	Fishing in the Glacier!
-2973.067	Hat Icon
 2993.667	A Rumble from the Sandy Floor
 3078.700	Rad Hatter
 3107.900	Ride the Jetstream
@@ -99,6 +98,7 @@
 3794.000	Light the Far-Off Lanterns
 3901.167	Cookatiel Showdown!
 3979.100	In the Ancient Treasure Chest
+4112.533	Battle with the Lord of Lightning!
 4158.167	Hat Icon
 4188.967	Behind the Big Wall
 4220.133	Infiltrate Bowser's Castle
@@ -120,7 +120,7 @@
 4838.900	Rolling Rock on the Moon
 4858.067	Treasure of the Waterfall Basin
 4910.300	The Tip of a White Spire
-4930.700	Up in the Rafters
+4928.900	Up in the Rafters
 5266.200	Grow a Flower Garden
 5284.000	Mushroom Kingdom Timer Challenge
 5321.767	Love at Peach's Castle
@@ -130,11 +130,11 @@
 5427.933	Captain Toad is Chilly!
 5440.200	Taking Notes: Snow Path Dash
 5474.433	Snow Kingdom Timer Challenge 1
-5486.000	Above the Freezing Fish Pond
+5485.967	Above the Freezing Fish Pond
 5498.167	Ice Floe Swimming
 5512.167	Deep in the Cold, Cold Water
 5529.800	Snow Kingdom Timer Challenge 3
-5544.367	It Popped Out of the Ice
+5544.400	It Popped Out of the Ice
 5570.100	Peach in the Snow Kingdom
 5604.933	Icy Jump Challenge
 5613.800	Atop a Blustery Arch
@@ -195,7 +195,7 @@
 6639.633	Invader in Bowser's Castle
 6661.567	Secret Path to Bubblaine
 6683.767	Sea Gardening: Inlet Seed
-6688.767	Above the Parasol: Catch!
+6688.533	Above the Parasol: Catch!
 6711.367	Treasure Trap Hidden in the Inlet
 6741.900	Lighthouse Leaper
 6759.700	Ocean-Bottom Maze: Hidden Room
@@ -309,7 +309,6 @@
 8754.333	Found with Seaside Kingdom Art
 8781.000	Shopping in New Donk City
 8802.000	Metro Kingdom Timer Challenge 3
-8824.933	Metro Kingdom Timer Challenge 1
 8831.400	Inside an Iron Girder
 8855.033	Metro Kingdom Slots
 8875.400	City Gardening: Building Planter
@@ -325,7 +324,7 @@
 9018.367	Bird Traveling in the Park
 9026.000	Found in the Park! Good Dog!
 9051.367	Dizzying Heights
-9069.000	Bird Traveling in the City
+9069.033	Metro Kingdom Timer Challenge 2
 9094.667	Free Parking: Rooftop Hop
 9125.133	Scaling Pitchblack Mountain
 9134.633	Reaching Pitchblack Island
@@ -340,7 +339,7 @@
 9311.200	Bird Traveling Over the Lake
 9334.833	Love by the Lake
 9370.533	Waves of Poison: Hop to It!
-9375.533	Waves of Poison: Hoppin' Over
+9374.900	Waves of Poison: Hoppin' Over
 9396.433	Lake Kingdom Timer Challenge 2
 9407.600	Peach in the Lake Kingdom
 9423.867	Found with Metro Kingdom Art
@@ -356,18 +355,20 @@
 9606.767	Secret Path to Mount Volbono!
 9624.167	A Tourist in the Luncheon Kingdom!
 9634.833	Caught Hopping at the Volcano!
+9647.700	Atop a Column in a Row
 9660.633	Island of Salt Floating in the Lava
 9708.600	Fork Flickin' Detour
 9715.500	Fork Flickin' to the Summit
 9734.633	By the Cannon Pointed at the Big Pot
 9746.933	On Top of a Tall, Tall Roof
-9775.900	Left at the Cafe?
+9775.933	Luncheon Kingdom Timer Challenge 3
 9795.700	Bon Appetit, Captain Toad!
 9920.333	Hidden in a Sunken Hat
 9938.467	Bonnetter Blockade
 9959.900	Cap Kingdom Timer Challenge 2
 9979.500	Shopping in Bonneton
 10002.333	Precision Rolling
+10024.633	Roll On and On
 10050.967	Good Evening, Captain Toad!
 10062.967	Fly to the Edge of the Fog
 10076.633	Under the Big One's Brim
@@ -393,7 +394,7 @@
 10415.033	Atop a Propeller Pillar
 10433.200	Taking Notes: Stretch and Shrink
 10446.767	A Propeller Pillar's Secret
-10451.767	Caught Hopping in the Jungle!
+10450.900	Caught Hopping in the Jungle!
 10466.667	Line It Up, Blow It Up
 10484.767	The Shining Fruit
 10493.433	Lost Kingdom Timer Challenge
@@ -423,12 +424,13 @@
 10940.267	Taking Notes: Swimming in Magma
 10963.900	All the Cracks Are Fixed
 10987.100	Secret Path to Peach's Castle!
+10990.800	Secret Path to Bowser's Castle
 11010.267	Jammin' in the Mushroom Kingdom
 11024.433	A Tourist in the Mushroom Kingdom
 11043.567	Shopping Near Peach's Castle
 11057.967	Forever Onward, Captain Toad!
 11073.667	Caught Hopping at Peach's Castle!
-11078.667	Gardening for Toad: Garden Seed
+11078.167	Gardening for Toad: Garden Seed
 11083.767	Gardening for Toad: Field Seed
 11117.333	Light from the Ceiling
 11131.833	Loose-Tile Trackdown
