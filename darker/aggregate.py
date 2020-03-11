@@ -240,3 +240,13 @@ if __name__ == "__main__":
     dangers = [Runners.DANGERS30825, Runners.DANGERS30834, Runners.DANGERS30903, Runners.DANGERS30950]
     aggregate(best_by_runner, dangers,          'aggregate_dangers', include_best=full_runners)
     aggregate(best_by_runner, [Runners.KERBIS], 'aggregate_kerb',    include_best=full_runners)
+    
+    best = {}
+    for runner, runs in RUNS.items():
+        for run in runs:
+            for subsplit in run.readSubSplits():
+                if subsplit.key not in best or subsplit.duration < best[subsplit.key][4]:
+                    clip = Clip(run.source, subsplit.start_time, subsplit.end_time)
+                    best[subsplit.key] = [subsplit.start_moon, subsplit.end_moon, runner.value, clip.url(), subsplit.duration]
+    for value in best.values():
+        print(str(value) + ",")
