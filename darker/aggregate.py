@@ -119,7 +119,7 @@ class Clip(object):
                 round(self.start - 1),
                 round(self.end + 3))
         elif self.source.type  == SourceType.Twitch:
-            return "https://player.twitch.tv/?video={0}&autoplay=false&time={1}s".format(
+            return "https://player.twitch.tv/?video={0}&parent=smo.tools&autoplay=false&time={1}s".format(
                 self.source.id,
                 round(self.start - 1))
         return None

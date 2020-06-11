@@ -158,7 +158,7 @@
       {
        "id": "sand-2-best",
        "time": 10.133999999999958,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=430s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=430s"
       },
       {
        "id": "sand-2-Dangers_3-08-25",
@@ -222,7 +222,7 @@
       {
        "id": "sand-4-best",
        "time": 9.067000000000007,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=456s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=456s"
       },
       {
        "id": "sand-4-Dangers_3-08-25",
@@ -286,7 +286,7 @@
       {
        "id": "sand-6-best",
        "time": 52.60000000000002,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=518s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=518s"
       },
       {
        "id": "sand-6-Dangers_3-08-25",
@@ -318,7 +318,7 @@
       {
        "id": "sand-7-best",
        "time": 22.732999999999947,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=570s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=570s"
       },
       {
        "id": "sand-7-Dangers_3-08-25",
@@ -350,7 +350,7 @@
       {
        "id": "sand-8-best",
        "time": 28.299999999999955,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=590s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=590s"
       },
       {
        "id": "sand-8-Dangers_3-08-25",
@@ -382,7 +382,7 @@
       {
        "id": "sand-9-best",
        "time": 58.06700000000001,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=622s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=622s"
       },
       {
        "id": "sand-9-Dangers_3-08-25",
@@ -446,7 +446,7 @@
       {
        "id": "sand-11-best",
        "time": 21.134000000000015,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=737s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=737s"
       },
       {
        "id": "sand-11-Dangers_3-08-25",
@@ -478,7 +478,7 @@
       {
        "id": "sand-12-best",
        "time": 45.466999999999985,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=762s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=762s"
       },
       {
        "id": "sand-12-Dangers_3-08-25",
@@ -580,7 +580,7 @@
       {
        "id": "wooded-0-best",
        "time": 107.43299999999999,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=962s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=962s"
       },
       {
        "id": "wooded-0-Dangers_3-08-25",
@@ -644,7 +644,7 @@
       {
        "id": "wooded-2-best",
        "time": 22.067000000000007,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=1095s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=1095s"
       },
       {
        "id": "wooded-2-Dangers_3-08-25",
@@ -708,7 +708,7 @@
       {
        "id": "wooded-4-best",
        "time": 17.866999999999962,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=1116s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=1116s"
       },
       {
        "id": "wooded-4-Dangers_3-08-25",
@@ -772,7 +772,7 @@
       {
        "id": "wooded-6-best",
        "time": 15.134000000000015,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=1178s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=1178s"
       },
       {
        "id": "wooded-6-Dangers_3-08-25",
@@ -868,7 +868,7 @@
       {
        "id": "wooded-9-best",
        "time": 12.366999999999962,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=1255s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=1255s"
       },
       {
        "id": "wooded-9-Dangers_3-08-25",
@@ -996,7 +996,7 @@
       {
        "id": "wooded-13-best",
        "time": 52.86699999999996,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=1308s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=1308s"
       },
       {
        "id": "wooded-13-Dangers_3-08-25",
@@ -1098,7 +1098,7 @@
       {
        "id": "lake-2-best",
        "time": 9.866999999999962,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1480s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1480s"
       },
       {
        "id": "lake-2-Dangers_3-08-25",
@@ -1269,7 +1269,7 @@
       {
        "id": "lost-1-best",
        "time": 19.233000000000175,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=1712s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=1712s"
       },
       {
        "id": "lost-1-Dangers_3-08-25",
@@ -1333,7 +1333,7 @@
       {
        "id": "lost-3-best",
        "time": 12.400000000000091,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=1742s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=1742s"
       },
       {
        "id": "lost-3-Dangers_3-08-25",
@@ -1429,7 +1429,7 @@
       {
        "id": "lost-6-best",
        "time": 8.567000000000007,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=1781s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=1781s"
       },
       {
        "id": "lost-6-Dangers_3-08-25",
@@ -1461,7 +1461,7 @@
       {
        "id": "lost-7-best",
        "time": 12.799999999999955,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=1782s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=1782s"
       },
       {
        "id": "lost-7-Dangers_3-08-25",
@@ -1493,7 +1493,7 @@
       {
        "id": "lost-8-best",
        "time": 8.899999999999864,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=1807s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=1807s"
       },
       {
        "id": "lost-8-Dangers_3-08-25",
@@ -1557,7 +1557,7 @@
       {
        "id": "lost-10-best",
        "time": 19.932999999999993,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=1811s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=1811s"
       },
       {
        "id": "lost-10-Dangers_3-08-25",
@@ -1755,7 +1755,7 @@
       {
        "id": "metro-4-best",
        "time": 29.73299999999972,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=2106s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=2106s"
       },
       {
        "id": "metro-4-Dangers_3-08-25",
@@ -1787,7 +1787,7 @@
       {
        "id": "metro-5-best",
        "time": 30.067000000000007,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=2136s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=2136s"
       },
       {
        "id": "metro-5-Dangers_3-08-25",
@@ -1851,7 +1851,7 @@
       {
        "id": "metro-7-best",
        "time": 28.366999999999734,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=2191s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=2191s"
       },
       {
        "id": "metro-7-Dangers_3-08-25",
@@ -1883,7 +1883,7 @@
       {
        "id": "metro-8-best",
        "time": 30.432999999999993,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=2233s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=2233s"
       },
       {
        "id": "metro-8-Dangers_3-08-25",
@@ -2241,7 +2241,7 @@
       {
        "id": "snow-2-best",
        "time": 14.432999999999993,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=2684s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=2684s"
       },
       {
        "id": "snow-2-Dangers_3-08-25",
@@ -2273,7 +2273,7 @@
       {
        "id": "snow-3-best",
        "time": 11.066000000000258,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=2762s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=2762s"
       },
       {
        "id": "snow-3-Dangers_3-08-25",
@@ -2401,7 +2401,7 @@
       {
        "id": "snow-7-best",
        "time": 18.09999999999991,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=2934s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=2934s"
       },
       {
        "id": "snow-7-Dangers_3-08-25",
@@ -2567,7 +2567,7 @@
       {
        "id": "seaside-4-best",
        "time": 11.799999999999727,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=3151s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=3151s"
       },
       {
        "id": "seaside-4-Dangers_3-08-25",
@@ -2695,7 +2695,7 @@
       {
        "id": "seaside-8-best",
        "time": 17.866999999999734,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=3185s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=3185s"
       },
       {
        "id": "seaside-8-Dangers_3-08-25",
@@ -2727,7 +2727,7 @@
       {
        "id": "seaside-9-best",
        "time": 13.234000000000378,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=3303s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=3303s"
       },
       {
        "id": "seaside-9-Dangers_3-08-25",
@@ -2791,7 +2791,7 @@
       {
        "id": "seaside-11-best",
        "time": 66.0,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=3255s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=3255s"
       },
       {
        "id": "seaside-11-Dangers_3-08-25",
@@ -2925,7 +2925,7 @@
       {
        "id": "luncheon-3-best",
        "time": 27.5,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=3516s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=3516s"
       },
       {
        "id": "luncheon-3-Dangers_3-08-25",
@@ -2957,7 +2957,7 @@
       {
        "id": "luncheon-4-best",
        "time": 20.766999999999825,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3566s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3566s"
       },
       {
        "id": "luncheon-4-Dangers_3-08-25",
@@ -2989,7 +2989,7 @@
       {
        "id": "luncheon-5-best",
        "time": 9.599999999999909,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=3681s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=3681s"
       },
       {
        "id": "luncheon-5-Dangers_3-08-25",
@@ -3021,7 +3021,7 @@
       {
        "id": "luncheon-6-best",
        "time": 16.299999999999727,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=3575s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=3575s"
       },
       {
        "id": "luncheon-6-Dangers_3-08-25",
@@ -3149,7 +3149,7 @@
       {
        "id": "luncheon-10-best",
        "time": 18.5,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=3690s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=3690s"
       },
       {
        "id": "luncheon-10-Dangers_3-08-25",
@@ -3181,7 +3181,7 @@
       {
        "id": "luncheon-11-best",
        "time": 16.40000000000009,
-       "url": "https://player.twitch.tv/?video=421907756&autoplay=false&time=3713s"
+       "url": "https://player.twitch.tv/?video=421907756&parent=smo.tools&autoplay=false&time=3713s"
       },
       {
        "id": "luncheon-11-Dangers_3-08-25",
@@ -3213,7 +3213,7 @@
       {
        "id": "luncheon-12-best",
        "time": 31.9670000000001,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=3725s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=3725s"
       },
       {
        "id": "luncheon-12-Dangers_3-08-25",
@@ -3481,7 +3481,7 @@
       {
        "id": "bowser-4-best",
        "time": 12.700000000000728,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=4297s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=4297s"
       },
       {
        "id": "bowser-4-Dangers_3-08-25",
@@ -3545,7 +3545,7 @@
       {
        "id": "bowser-6-best",
        "time": 30.13299999999981,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=4333s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=4333s"
       },
       {
        "id": "bowser-6-Dangers_3-08-25",
@@ -3641,7 +3641,7 @@
       {
        "id": "bowser-9-best",
        "time": 30.565999999999804,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=4591s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=4591s"
       },
       {
        "id": "bowser-9-Dangers_3-08-25",
@@ -3737,7 +3737,7 @@
       {
        "id": "bowser-12-best",
        "time": 34.69999999999982,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=4581s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=4581s"
       },
       {
        "id": "bowser-12-Dangers_3-08-25",
@@ -3833,7 +3833,7 @@
       {
        "id": "bowser-15-best",
        "time": 30.83299999999963,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=4662s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=4662s"
       },
       {
        "id": "bowser-15-Dangers_3-08-25",
@@ -3871,7 +3871,7 @@
       {
        "id": "moon-0-best",
        "time": 81.63299999999981,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=4713s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=4713s"
       },
       {
        "id": "moon-0-Dangers_3-08-25",
@@ -4069,7 +4069,7 @@
       {
        "id": "mushroom-1-best",
        "time": 11.966999999999643,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=5349s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=5349s"
       },
       {
        "id": "mushroom-1-Dangers_3-08-25",
@@ -4267,7 +4267,7 @@
       {
        "id": "snow2-4-best",
        "time": 10.63300000000072,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=5533s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=5533s"
       },
       {
        "id": "snow2-4-Dangers_3-08-25",
@@ -4299,7 +4299,7 @@
       {
        "id": "snow2-5-best",
        "time": 12.200000000000728,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=5485s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=5485s"
       },
       {
        "id": "snow2-5-Dangers_3-08-25",
@@ -4363,7 +4363,7 @@
       {
        "id": "snow2-7-best",
        "time": 17.033000000000357,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=5442s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=5442s"
       },
       {
        "id": "snow2-7-Dangers_3-08-25",
@@ -4395,7 +4395,7 @@
       {
        "id": "snow2-8-best",
        "time": 10.232999999999265,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=5459s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=5459s"
       },
       {
        "id": "snow2-8-Dangers_3-08-25",
@@ -4427,7 +4427,7 @@
       {
        "id": "snow2-9-best",
        "time": 14.86700000000019,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=5435s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=5435s"
       },
       {
        "id": "snow2-9-Dangers_3-08-25",
@@ -4459,7 +4459,7 @@
       {
        "id": "snow2-10-best",
        "time": 24.967000000000553,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=5491s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=5491s"
       },
       {
        "id": "snow2-10-Dangers_3-08-25",
@@ -4491,7 +4491,7 @@
       {
        "id": "snow2-11-best",
        "time": 19.699999999999818,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=5629s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=5629s"
       },
       {
        "id": "snow2-11-Dangers_3-08-25",
@@ -4523,7 +4523,7 @@
       {
        "id": "snow2-12-best",
        "time": 8.332999999999629,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=5537s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=5537s"
       },
       {
        "id": "snow2-12-Dangers_3-08-25",
@@ -4555,7 +4555,7 @@
       {
        "id": "snow2-13-best",
        "time": 20.533000000000357,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=5582s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=5582s"
       },
       {
        "id": "snow2-13-Dangers_3-08-25",
@@ -4587,7 +4587,7 @@
       {
        "id": "snow2-14-best",
        "time": 34.13299999999981,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=5567s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=5567s"
       },
       {
        "id": "snow2-14-Dangers_3-08-25",
@@ -4619,7 +4619,7 @@
       {
        "id": "snow2-15-best",
        "time": 14.166999999999462,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=5566s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=5566s"
       },
       {
        "id": "snow2-15-Dangers_3-08-25",
@@ -4683,7 +4683,7 @@
       {
        "id": "snow2-17-best",
        "time": 27.134000000000015,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=5588s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=5588s"
       },
       {
        "id": "snow2-17-Dangers_3-08-25",
@@ -4747,7 +4747,7 @@
       {
        "id": "snow2-19-best",
        "time": 10.333000000000538,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=5751s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=5751s"
       },
       {
        "id": "snow2-19-Dangers_3-08-25",
@@ -4779,7 +4779,7 @@
       {
        "id": "snow2-20-best",
        "time": 29.23399999999947,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=5679s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=5679s"
       },
       {
        "id": "snow2-20-Dangers_3-08-25",
@@ -4881,7 +4881,7 @@
       {
        "id": "cascade2-1-best",
        "time": 6.932999999999993,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=5727s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=5727s"
       },
       {
        "id": "cascade2-1-Dangers_3-08-25",
@@ -5233,7 +5233,7 @@
       {
        "id": "cascade2-12-best",
        "time": 10.46599999999944,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=6044s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=6044s"
       },
       {
        "id": "cascade2-12-Dangers_3-08-25",
@@ -5361,7 +5361,7 @@
       {
        "id": "cascade2-16-best",
        "time": 17.432999999999993,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=5975s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=5975s"
       },
       {
        "id": "cascade2-16-Dangers_3-08-25",
@@ -5425,7 +5425,7 @@
       {
        "id": "cascade2-18-best",
        "time": 20.266999999999825,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6006s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6006s"
       },
       {
        "id": "cascade2-18-Dangers_3-08-25",
@@ -5585,7 +5585,7 @@
       {
        "id": "cascade2-23-best",
        "time": 9.166000000000167,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6072s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6072s"
       },
       {
        "id": "cascade2-23-Dangers_3-08-25",
@@ -5649,7 +5649,7 @@
       {
        "id": "cascade2-25-best",
        "time": 8.266999999999825,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=6156s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=6156s"
       },
       {
        "id": "cascade2-25-Dangers_3-08-25",
@@ -5815,7 +5815,7 @@
       {
        "id": "bowser2-4-best",
        "time": 13.432999999999993,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=6225s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=6225s"
       },
       {
        "id": "bowser2-4-Dangers_3-08-25",
@@ -5847,7 +5847,7 @@
       {
        "id": "bowser2-5-best",
        "time": 20.467000000000553,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6180s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6180s"
       },
       {
        "id": "bowser2-5-Dangers_3-08-25",
@@ -5911,7 +5911,7 @@
       {
        "id": "bowser2-7-best",
        "time": 14.634000000000015,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=6414s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=6414s"
       },
       {
        "id": "bowser2-7-Dangers_3-08-25",
@@ -6007,7 +6007,7 @@
       {
        "id": "bowser2-10-best",
        "time": 13.466999999999643,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6273s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6273s"
       },
       {
        "id": "bowser2-10-Dangers_3-08-25",
@@ -6039,7 +6039,7 @@
       {
        "id": "bowser2-11-best",
        "time": 28.533000000000357,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=6423s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=6423s"
       },
       {
        "id": "bowser2-11-Dangers_3-08-25",
@@ -6135,7 +6135,7 @@
       {
        "id": "bowser2-14-best",
        "time": 16.365999999999985,
-       "url": "https://player.twitch.tv/?video=421907756&autoplay=false&time=6391s"
+       "url": "https://player.twitch.tv/?video=421907756&parent=smo.tools&autoplay=false&time=6391s"
       },
       {
        "id": "bowser2-14-Dangers_3-08-25",
@@ -6295,7 +6295,7 @@
       {
        "id": "bowser2-19-best",
        "time": 20.600000000000364,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=6538s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=6538s"
       },
       {
        "id": "bowser2-19-Dangers_3-08-25",
@@ -6327,7 +6327,7 @@
       {
        "id": "bowser2-20-best",
        "time": 14.766999999999825,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6460s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6460s"
       },
       {
        "id": "bowser2-20-Dangers_3-08-25",
@@ -6359,7 +6359,7 @@
       {
        "id": "bowser2-21-best",
        "time": 28.800000000000182,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6475s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6475s"
       },
       {
        "id": "bowser2-21-Dangers_3-08-25",
@@ -6429,7 +6429,7 @@
       {
        "id": "seaside2-1-best",
        "time": 21.16699999999946,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6525s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6525s"
       },
       {
        "id": "seaside2-1-Dangers_3-08-25",
@@ -6493,7 +6493,7 @@
       {
        "id": "seaside2-3-best",
        "time": 21.233000000000175,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6551s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6551s"
       },
       {
        "id": "seaside2-3-Dangers_3-08-25",
@@ -6525,7 +6525,7 @@
       {
        "id": "seaside2-4-best",
        "time": 21.567000000000007,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6572s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6572s"
       },
       {
        "id": "seaside2-4-Dangers_3-08-25",
@@ -6557,7 +6557,7 @@
       {
        "id": "seaside2-5-best",
        "time": 9.03400000000056,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=6693s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=6693s"
       },
       {
        "id": "seaside2-5-Dangers_3-08-25",
@@ -6621,7 +6621,7 @@
       {
        "id": "seaside2-7-best",
        "time": 5.766999999999825,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6855s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6855s"
       },
       {
        "id": "seaside2-7-Dangers_3-08-25",
@@ -6749,7 +6749,7 @@
       {
        "id": "seaside2-11-best",
        "time": 16.46600000000035,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=6765s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=6765s"
       },
       {
        "id": "seaside2-11-Dangers_3-08-25",
@@ -6781,7 +6781,7 @@
       {
        "id": "seaside2-12-best",
        "time": 17.567000000000007,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6673s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6673s"
       },
       {
        "id": "seaside2-12-Dangers_3-08-25",
@@ -6877,7 +6877,7 @@
       {
        "id": "seaside2-15-best",
        "time": 12.0,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=6835s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=6835s"
       },
       {
        "id": "seaside2-15-Dangers_3-08-25",
@@ -7069,7 +7069,7 @@
       {
        "id": "seaside2-21-best",
        "time": 17.800000000000182,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6741s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6741s"
       },
       {
        "id": "seaside2-21-Dangers_3-08-25",
@@ -7101,7 +7101,7 @@
       {
        "id": "seaside2-22-best",
        "time": 39.33399999999983,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6805s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6805s"
       },
       {
        "id": "seaside2-22-Dangers_3-08-25",
@@ -7165,7 +7165,7 @@
       {
        "id": "seaside2-24-best",
        "time": 20.599999999999454,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6853s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6853s"
       },
       {
        "id": "seaside2-24-Dangers_3-08-25",
@@ -7197,7 +7197,7 @@
       {
        "id": "seaside2-25-best",
        "time": 14.13300000000072,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6874s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6874s"
       },
       {
        "id": "seaside2-25-Dangers_3-08-25",
@@ -7293,7 +7293,7 @@
       {
        "id": "seaside2-28-best",
        "time": 12.067000000000007,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6919s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6919s"
       },
       {
        "id": "seaside2-28-Dangers_3-08-25",
@@ -7395,7 +7395,7 @@
       {
        "id": "wooded2-0-best",
        "time": 16.36700000000019,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=7089s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=7089s"
       },
       {
        "id": "wooded2-0-Dangers_3-08-25",
@@ -7427,7 +7427,7 @@
       {
        "id": "wooded2-1-best",
        "time": 9.466999999999643,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=7216s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=7216s"
       },
       {
        "id": "wooded2-1-Dangers_3-08-25",
@@ -7459,7 +7459,7 @@
       {
        "id": "wooded2-2-best",
        "time": 31.932999999999993,
-       "url": "https://player.twitch.tv/?video=421907756&autoplay=false&time=7016s"
+       "url": "https://player.twitch.tv/?video=421907756&parent=smo.tools&autoplay=false&time=7016s"
       },
       {
        "id": "wooded2-2-Dangers_3-08-25",
@@ -7491,7 +7491,7 @@
       {
        "id": "wooded2-3-best",
        "time": 132.63400000000001,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=7030s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=7030s"
       },
       {
        "id": "wooded2-3-Dangers_3-08-25",
@@ -7523,7 +7523,7 @@
       {
        "id": "wooded2-4-best",
        "time": 25.365999999999985,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=7319s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=7319s"
       },
       {
        "id": "wooded2-4-Dangers_3-08-25",
@@ -7555,7 +7555,7 @@
       {
        "id": "wooded2-5-best",
        "time": 5.166999999999462,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=7344s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=7344s"
       },
       {
        "id": "wooded2-5-Dangers_3-08-25",
@@ -7587,7 +7587,7 @@
       {
        "id": "wooded2-6-best",
        "time": 13.63299999999981,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7361s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7361s"
       },
       {
        "id": "wooded2-6-Dangers_3-08-25",
@@ -7619,7 +7619,7 @@
       {
        "id": "wooded2-7-best",
        "time": 43.0,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=7208s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=7208s"
       },
       {
        "id": "wooded2-7-Dangers_3-08-25",
@@ -7651,7 +7651,7 @@
       {
        "id": "wooded2-8-best",
        "time": 23.0,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=7409s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=7409s"
       },
       {
        "id": "wooded2-8-Dangers_3-08-25",
@@ -7715,7 +7715,7 @@
       {
        "id": "wooded2-10-best",
        "time": 22.73399999999947,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=7538s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=7538s"
       },
       {
        "id": "wooded2-10-Dangers_3-08-25",
@@ -7907,7 +7907,7 @@
       {
        "id": "wooded2-16-best",
        "time": 22.33300000000054,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=7426s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=7426s"
       },
       {
        "id": "wooded2-16-Dangers_3-08-25",
@@ -8067,7 +8067,7 @@
       {
        "id": "wooded2-21-best",
        "time": 11.833999999999833,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=7512s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=7512s"
       },
       {
        "id": "wooded2-21-Dangers_3-08-25",
@@ -8163,7 +8163,7 @@
       {
        "id": "wooded2-24-best",
        "time": 11.800000000000182,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=7744s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=7744s"
       },
       {
        "id": "wooded2-24-Dangers_3-08-25",
@@ -8195,7 +8195,7 @@
       {
        "id": "wooded2-25-best",
        "time": 7.667000000000371,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7776s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7776s"
       },
       {
        "id": "wooded2-25-Dangers_3-08-25",
@@ -8259,7 +8259,7 @@
       {
        "id": "wooded2-27-best",
        "time": 33.76600000000053,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=7733s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=7733s"
       },
       {
        "id": "wooded2-27-Dangers_3-08-25",
@@ -8323,7 +8323,7 @@
       {
        "id": "wooded2-29-best",
        "time": 23.0,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=7651s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=7651s"
       },
       {
        "id": "wooded2-29-Dangers_3-08-25",
@@ -8553,7 +8553,7 @@
       {
        "id": "sand2-4-best",
        "time": 20.400000000000546,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=7764s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=7764s"
       },
       {
        "id": "sand2-4-Dangers_3-08-25",
@@ -8617,7 +8617,7 @@
       {
        "id": "sand2-6-best",
        "time": 6.5,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=7800s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=7800s"
       },
       {
        "id": "sand2-6-Dangers_3-08-25",
@@ -8681,7 +8681,7 @@
       {
        "id": "sand2-8-best",
        "time": 12.765999999999622,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=8021s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=8021s"
       },
       {
        "id": "sand2-8-Dangers_3-08-25",
@@ -8777,7 +8777,7 @@
       {
        "id": "sand2-11-best",
        "time": 9.665999999999258,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=8034s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=8034s"
       },
       {
        "id": "sand2-11-Dangers_3-08-25",
@@ -8809,7 +8809,7 @@
       {
        "id": "sand2-12-best",
        "time": 12.099999999999454,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=8097s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=8097s"
       },
       {
        "id": "sand2-12-Dangers_3-08-25",
@@ -8841,7 +8841,7 @@
       {
        "id": "sand2-13-best",
        "time": 6.900000000000546,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=8155s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=8155s"
       },
       {
        "id": "sand2-13-Dangers_3-08-25",
@@ -9033,7 +9033,7 @@
       {
        "id": "sand2-19-best",
        "time": 12.566000000000713,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=8190s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=8190s"
       },
       {
        "id": "sand2-19-Dangers_3-08-25",
@@ -9065,7 +9065,7 @@
       {
        "id": "sand2-20-best",
        "time": 14.066999999999098,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=8203s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=8203s"
       },
       {
        "id": "sand2-20-Dangers_3-08-25",
@@ -9225,7 +9225,7 @@
       {
        "id": "sand2-25-best",
        "time": 34.73399999999856,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=8208s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=8208s"
       },
       {
        "id": "sand2-25-Dangers_3-08-25",
@@ -9257,7 +9257,7 @@
       {
        "id": "sand2-26-best",
        "time": 7.266999999999825,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8162s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=8162s"
       },
       {
        "id": "sand2-26-Dangers_3-08-25",
@@ -9321,7 +9321,7 @@
       {
        "id": "sand2-28-best",
        "time": 13.067000000000007,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8191s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=8191s"
       },
       {
        "id": "sand2-28-Dangers_3-08-25",
@@ -9385,7 +9385,7 @@
       {
        "id": "sand2-30-best",
        "time": 19.16700000000128,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8223s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=8223s"
       },
       {
        "id": "sand2-30-Dangers_3-08-25",
@@ -9449,7 +9449,7 @@
       {
        "id": "sand2-32-best",
        "time": 22.63299999999981,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8258s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=8258s"
       },
       {
        "id": "sand2-32-Dangers_3-08-25",
@@ -9481,7 +9481,7 @@
       {
        "id": "sand2-33-best",
        "time": 12.234000000000378,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=8511s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=8511s"
       },
       {
        "id": "sand2-33-Dangers_3-08-25",
@@ -9513,7 +9513,7 @@
       {
        "id": "sand2-34-best",
        "time": 19.233000000000175,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=8375s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=8375s"
       },
       {
        "id": "sand2-34-Dangers_3-08-25",
@@ -9577,7 +9577,7 @@
       {
        "id": "sand2-36-best",
        "time": 24.532999999999447,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8330s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=8330s"
       },
       {
        "id": "sand2-36-Dangers_3-08-25",
@@ -9641,7 +9641,7 @@
       {
        "id": "sand2-38-best",
        "time": 20.466999999998734,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8529s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8529s"
       },
       {
        "id": "sand2-38-Dangers_3-08-25",
@@ -9673,7 +9673,7 @@
       {
        "id": "sand2-39-best",
        "time": 15.63299999999981,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=8470s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=8470s"
       },
       {
        "id": "sand2-39-Dangers_3-08-25",
@@ -9769,7 +9769,7 @@
       {
        "id": "sand2-42-best",
        "time": 22.334000000000742,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8428s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=8428s"
       },
       {
        "id": "sand2-42-Dangers_3-08-25",
@@ -9833,7 +9833,7 @@
       {
        "id": "sand2-44-best",
        "time": 10.36700000000019,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8458s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=8458s"
       },
       {
        "id": "sand2-44-Dangers_3-08-25",
@@ -10031,7 +10031,7 @@
       {
        "id": "metro2-4-best",
        "time": 9.199999999998909,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=8816s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=8816s"
       },
       {
        "id": "metro2-4-Dangers_3-08-25",
@@ -10223,7 +10223,7 @@
       {
        "id": "metro2-10-best",
        "time": 19.432999999999083,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8658s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=8658s"
       },
       {
        "id": "metro2-10-Dangers_3-08-25",
@@ -10255,7 +10255,7 @@
       {
        "id": "metro2-11-best",
        "time": 9.5,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=8924s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=8924s"
       },
       {
        "id": "metro2-11-Dangers_3-08-25",
@@ -10351,7 +10351,7 @@
       {
        "id": "metro2-14-best",
        "time": 13.23399999999856,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8714s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=8714s"
       },
       {
        "id": "metro2-14-Dangers_3-08-25",
@@ -10447,7 +10447,7 @@
       {
        "id": "metro2-17-best",
        "time": 8.532999999999447,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=8940s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=8940s"
       },
       {
        "id": "metro2-17-Dangers_3-08-25",
@@ -10575,7 +10575,7 @@
       {
        "id": "metro2-21-best",
        "time": 7.5,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=8971s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=8971s"
       },
       {
        "id": "metro2-21-Dangers_3-08-25",
@@ -10607,7 +10607,7 @@
       {
        "id": "metro2-22-best",
        "time": 24.833999999998923,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=8978s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=8978s"
       },
       {
        "id": "metro2-22-Dangers_3-08-25",
@@ -10639,7 +10639,7 @@
       {
        "id": "metro2-23-best",
        "time": 17.233000000000175,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=9144s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=9144s"
       },
       {
        "id": "metro2-23-Dangers_3-08-25",
@@ -10671,7 +10671,7 @@
       {
        "id": "metro2-24-best",
        "time": 8.734000000000378,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=9016s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=9016s"
       },
       {
        "id": "metro2-24-Dangers_3-08-25",
@@ -10735,7 +10735,7 @@
       {
        "id": "metro2-26-best",
        "time": 23.933999999999287,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=9039s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=9039s"
       },
       {
        "id": "metro2-26-Dangers_3-08-25",
@@ -10965,7 +10965,7 @@
       {
        "id": "lake2-1-best",
        "time": 22.46600000000035,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=9101s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=9101s"
       },
       {
        "id": "lake2-1-Dangers_3-08-25",
@@ -10997,7 +10997,7 @@
       {
        "id": "lake2-2-best",
        "time": 21.16699999999946,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=9124s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=9124s"
       },
       {
        "id": "lake2-2-Dangers_3-08-25",
@@ -11125,7 +11125,7 @@
       {
        "id": "lake2-6-best",
        "time": 34.899999999999636,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=9271s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=9271s"
       },
       {
        "id": "lake2-6-Dangers_3-08-25",
@@ -11157,7 +11157,7 @@
       {
        "id": "lake2-7-best",
        "time": 4.165999999999258,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=9347s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=9347s"
       },
       {
        "id": "lake2-7-Dangers_3-08-25",
@@ -11285,7 +11285,7 @@
       {
        "id": "lake2-11-best",
        "time": 12.100000000000364,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9423s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9423s"
       },
       {
        "id": "lake2-11-Dangers_3-08-25",
@@ -11317,7 +11317,7 @@
       {
        "id": "lake2-12-best",
        "time": 31.299999999999272,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=9305s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=9305s"
       },
       {
        "id": "lake2-12-Dangers_3-08-25",
@@ -11349,7 +11349,7 @@
       {
        "id": "lake2-13-best",
        "time": 10.734000000000378,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=9448s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=9448s"
       },
       {
        "id": "lake2-13-Dangers_3-08-25",
@@ -11477,7 +11477,7 @@
       {
        "id": "lake2-17-best",
        "time": 5.699999999998909,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=9332s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=9332s"
       },
       {
        "id": "lake2-17-Dangers_3-08-25",
@@ -11509,7 +11509,7 @@
       {
        "id": "lake2-18-best",
        "time": 29.533000000001266,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=9338s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=9338s"
       },
       {
        "id": "lake2-18-Dangers_3-08-25",
@@ -11611,7 +11611,7 @@
       {
        "id": "luncheon2-1-best",
        "time": 13.333000000000538,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=9405s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=9405s"
       },
       {
        "id": "luncheon2-1-Dangers_3-08-25",
@@ -11675,7 +11675,7 @@
       {
        "id": "luncheon2-3-best",
        "time": 10.599999999998545,
-       "url": "https://player.twitch.tv/?video=421907756&autoplay=false&time=9443s"
+       "url": "https://player.twitch.tv/?video=421907756&parent=smo.tools&autoplay=false&time=9443s"
       },
       {
        "id": "luncheon2-3-Dangers_3-08-25",
@@ -11867,7 +11867,7 @@
       {
        "id": "luncheon2-9-best",
        "time": 25.30000000000109,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=9682s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=9682s"
       },
       {
        "id": "luncheon2-9-Dangers_3-08-25",
@@ -11899,7 +11899,7 @@
       {
        "id": "luncheon2-10-best",
        "time": 14.233000000000175,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=9756s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=9756s"
       },
       {
        "id": "luncheon2-10-Dangers_3-08-25",
@@ -11969,7 +11969,7 @@
       {
        "id": "cap2-1-best",
        "time": 17.13299999999981,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=10007s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=10007s"
       },
       {
        "id": "cap2-1-Dangers_3-08-25",
@@ -12065,7 +12065,7 @@
       {
        "id": "cap2-4-best",
        "time": 20.066999999999098,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=9743s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=9743s"
       },
       {
        "id": "cap2-4-Dangers_3-08-25",
@@ -12097,7 +12097,7 @@
       {
        "id": "cap2-5-best",
        "time": 21.967000000000553,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=9968s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=9968s"
       },
       {
        "id": "cap2-5-Dangers_3-08-25",
@@ -12129,7 +12129,7 @@
       {
        "id": "cap2-6-best",
        "time": 24.432999999999083,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=9972s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=9972s"
       },
       {
        "id": "cap2-6-Dangers_3-08-25",
@@ -12161,7 +12161,7 @@
       {
        "id": "cap2-7-best",
        "time": 11.399999999999636,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=10017s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=10017s"
       },
       {
        "id": "cap2-7-Dangers_3-08-25",
@@ -12193,7 +12193,7 @@
       {
        "id": "cap2-8-best",
        "time": 13.03399999999965,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=9956s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=9956s"
       },
       {
        "id": "cap2-8-Dangers_3-08-25",
@@ -12257,7 +12257,7 @@
       {
        "id": "cap2-10-best",
        "time": 15.433000000000902,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=9986s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=9986s"
       },
       {
        "id": "cap2-10-Dangers_3-08-25",
@@ -12551,7 +12551,7 @@
       {
        "id": "lost2-0-best",
        "time": 62.266999999999825,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=9972s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=9972s"
       },
       {
        "id": "lost2-0-Dangers_3-08-25",
@@ -12615,7 +12615,7 @@
       {
        "id": "lost2-2-best",
        "time": 24.83300000000054,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=10050s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=10050s"
       },
       {
        "id": "lost2-2-Dangers_3-08-25",
@@ -12647,7 +12647,7 @@
       {
        "id": "lost2-3-best",
        "time": 10.200000000000728,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=10281s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=10281s"
       },
       {
        "id": "lost2-3-Dangers_3-08-25",
@@ -12711,7 +12711,7 @@
       {
        "id": "lost2-5-best",
        "time": 14.200000000000728,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10340s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10340s"
       },
       {
        "id": "lost2-5-Dangers_3-08-25",
@@ -12743,7 +12743,7 @@
       {
        "id": "lost2-6-best",
        "time": 9.299999999999272,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=10312s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=10312s"
       },
       {
        "id": "lost2-6-Dangers_3-08-25",
@@ -12775,7 +12775,7 @@
       {
        "id": "lost2-7-best",
        "time": 17.166000000001077,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=10258s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=10258s"
       },
       {
        "id": "lost2-7-Dangers_3-08-25",
@@ -12807,7 +12807,7 @@
       {
        "id": "lost2-8-best",
        "time": 13.933999999999287,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=10275s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=10275s"
       },
       {
        "id": "lost2-8-Dangers_3-08-25",
@@ -13031,7 +13031,7 @@
       {
        "id": "lost2-15-best",
        "time": 7.766999999999825,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=10464s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=10464s"
       },
       {
        "id": "lost2-15-Dangers_3-08-25",
@@ -13165,7 +13165,7 @@
       {
        "id": "moon2-3-best",
        "time": 8.966999999998734,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=10315s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=10315s"
       },
       {
        "id": "moon2-3-Dangers_3-08-25",
@@ -13197,7 +13197,7 @@
       {
        "id": "moon2-4-best",
        "time": 9.066000000000713,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=10324s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=10324s"
       },
       {
        "id": "moon2-4-Dangers_3-08-25",
@@ -13235,7 +13235,7 @@
       {
        "id": "luncheon3-0-best",
        "time": 44.23400000000038,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=10333s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=10333s"
       },
       {
        "id": "luncheon3-0-Dangers_3-08-25",
@@ -13267,7 +13267,7 @@
       {
        "id": "luncheon3-1-best",
        "time": 19.83300000000054,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=10377s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=10377s"
       },
       {
        "id": "luncheon3-1-Dangers_3-08-25",
@@ -13299,7 +13299,7 @@
       {
        "id": "luncheon3-2-best",
        "time": 12.5,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=10610s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=10610s"
       },
       {
        "id": "luncheon3-2-Dangers_3-08-25",
@@ -13363,7 +13363,7 @@
       {
        "id": "luncheon3-4-best",
        "time": 9.299999999999272,
-       "url": "https://player.twitch.tv/?video=421907756&autoplay=false&time=10520s"
+       "url": "https://player.twitch.tv/?video=421907756&parent=smo.tools&autoplay=false&time=10520s"
       },
       {
        "id": "luncheon3-4-Dangers_3-08-25",
@@ -13459,7 +13459,7 @@
       {
        "id": "luncheon3-7-best",
        "time": 16.100000000000364,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=10478s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=10478s"
       },
       {
        "id": "luncheon3-7-Dangers_3-08-25",
@@ -13683,7 +13683,7 @@
       {
        "id": "luncheon3-14-best",
        "time": 11.532999999999447,
-       "url": "https://player.twitch.tv/?video=421907756&autoplay=false&time=10696s"
+       "url": "https://player.twitch.tv/?video=421907756&parent=smo.tools&autoplay=false&time=10696s"
       },
       {
        "id": "luncheon3-14-Dangers_3-08-25",
@@ -13715,7 +13715,7 @@
       {
        "id": "luncheon3-15-best",
        "time": 15.166999999999462,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=10829s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=10829s"
       },
       {
        "id": "luncheon3-15-Dangers_3-08-25",
@@ -13747,7 +13747,7 @@
       {
        "id": "luncheon3-16-best",
        "time": 12.032999999999447,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=10960s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=10960s"
       },
       {
        "id": "luncheon3-16-Dangers_3-08-25",
@@ -13811,7 +13811,7 @@
       {
        "id": "luncheon3-18-best",
        "time": 22.36700000000019,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=10826s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=10826s"
       },
       {
        "id": "luncheon3-18-Dangers_3-08-25",
@@ -13881,7 +13881,7 @@
       {
        "id": "mushroom2-1-best",
        "time": 22.13299999999981,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=10720s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=10720s"
       },
       {
        "id": "mushroom2-1-Dangers_3-08-25",
@@ -13977,7 +13977,7 @@
       {
        "id": "mushroom2-4-best",
        "time": 13.766999999999825,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=10949s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=10949s"
       },
       {
        "id": "mushroom2-4-Dangers_3-08-25",
@@ -14041,7 +14041,7 @@
       {
        "id": "mushroom2-6-best",
        "time": 4.5,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11073s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11073s"
       },
       {
        "id": "mushroom2-6-Dangers_3-08-25",
@@ -14073,7 +14073,7 @@
       {
        "id": "mushroom2-7-best",
        "time": 4.233000000000175,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=10984s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=10984s"
       },
       {
        "id": "mushroom2-7-Dangers_3-08-25",
@@ -14233,7 +14233,7 @@
       {
        "id": "mushroom2-12-best",
        "time": 11.799999999999272,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=11240s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=11240s"
       },
       {
        "id": "mushroom2-12-Dangers_3-08-25",
@@ -14335,7 +14335,7 @@
       {
        "id": "toadette-2-best",
        "time": 7.065999999998894,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=10942s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=10942s"
       },
       {
        "id": "toadette-2-Dangers_3-08-25",
@@ -14495,7 +14495,7 @@
       {
        "id": "toadette-7-best",
        "time": 7.0,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=11203s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=11203s"
       },
       {
        "id": "toadette-7-Dangers_3-08-25",
@@ -14559,7 +14559,7 @@
       {
        "id": "toadette-9-best",
        "time": 7.0,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=11249s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=11249s"
       },
       {
        "id": "toadette-9-Dangers_3-08-25",
@@ -14591,7 +14591,7 @@
       {
        "id": "toadette-10-best",
        "time": 7.032999999999447,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11213s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11213s"
       },
       {
        "id": "toadette-10-Dangers_3-08-25",
@@ -14655,7 +14655,7 @@
       {
        "id": "toadette-12-best",
        "time": 7.032999999999447,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=11238s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=11238s"
       },
       {
        "id": "toadette-12-Dangers_3-08-25",
@@ -14687,7 +14687,7 @@
       {
        "id": "toadette-13-best",
        "time": 7.033000000001266,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=11020s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=11020s"
       },
       {
        "id": "toadette-13-Dangers_3-08-25",
@@ -14847,7 +14847,7 @@
       {
        "id": "toadette-18-best",
        "time": 7.0,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=11055s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=11055s"
       },
       {
        "id": "toadette-18-Dangers_3-08-25",
@@ -14879,7 +14879,7 @@
       {
        "id": "toadette-19-best",
        "time": 6.933999999999287,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11277s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11277s"
       },
       {
        "id": "toadette-19-Dangers_3-08-25",
@@ -14911,7 +14911,7 @@
       {
        "id": "toadette-20-best",
        "time": 6.899999999999636,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=11241s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=11241s"
       },
       {
        "id": "toadette-20-Dangers_3-08-25",
@@ -15103,7 +15103,7 @@
       {
        "id": "toadette-26-best",
        "time": 6.966999999998734,
-       "url": "https://player.twitch.tv/?video=421907756&autoplay=false&time=11203s"
+       "url": "https://player.twitch.tv/?video=421907756&parent=smo.tools&autoplay=false&time=11203s"
       },
       {
        "id": "toadette-26-Dangers_3-08-25",
@@ -15135,7 +15135,7 @@
       {
        "id": "toadette-27-best",
        "time": 6.967000000000553,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=11344s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=11344s"
       },
       {
        "id": "toadette-27-Dangers_3-08-25",
@@ -15269,7 +15269,7 @@
       {
        "id": "darkerside-0-best",
        "time": 230.66599999999926,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=11494s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=11494s"
       },
       {
        "id": "darkerside-0-Dangers_3-08-25",

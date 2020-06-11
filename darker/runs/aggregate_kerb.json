@@ -26,7 +26,7 @@
       {
        "id": "cascade-0-Kerbis",
        "time": 99.90000000000003,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=186s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=186s"
       }
      ]
     },
@@ -95,12 +95,12 @@
       {
        "id": "sand-2-best",
        "time": 10.133999999999958,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=430s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=430s"
       },
       {
        "id": "sand-2-Kerbis",
        "time": 10.833000000000027,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=412s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=412s"
       }
      ]
     },
@@ -129,12 +129,12 @@
       {
        "id": "sand-4-best",
        "time": 9.067000000000007,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=456s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=456s"
       },
       {
        "id": "sand-4-Kerbis",
        "time": 23.93399999999997,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=463s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=463s"
       }
      ]
     },
@@ -151,7 +151,7 @@
       {
        "id": "sand-5-Kerbis",
        "time": 16.76600000000002,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=487s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=487s"
       }
      ]
     },
@@ -163,12 +163,12 @@
       {
        "id": "sand-6-best",
        "time": 52.60000000000002,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=518s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=518s"
       },
       {
        "id": "sand-6-Kerbis",
        "time": 58.13399999999996,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=504s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=504s"
       }
      ]
     },
@@ -180,12 +180,12 @@
       {
        "id": "sand-7-best",
        "time": 22.732999999999947,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=570s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=570s"
       },
       {
        "id": "sand-7-Kerbis",
        "time": 23.0,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=562s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=562s"
       }
      ]
     },
@@ -197,12 +197,12 @@
       {
        "id": "sand-8-best",
        "time": 28.299999999999955,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=590s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=590s"
       },
       {
        "id": "sand-8-Kerbis",
        "time": 29.300000000000068,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=585s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=585s"
       }
      ]
     },
@@ -214,12 +214,12 @@
       {
        "id": "sand-9-best",
        "time": 58.06700000000001,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=622s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=622s"
       },
       {
        "id": "sand-9-Kerbis",
        "time": 60.23299999999995,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=614s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=614s"
       }
      ]
     },
@@ -236,7 +236,7 @@
       {
        "id": "sand-10-Kerbis",
        "time": 59.700000000000045,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=674s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=674s"
       }
      ]
     },
@@ -248,12 +248,12 @@
       {
        "id": "sand-11-best",
        "time": 21.134000000000015,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=737s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=737s"
       },
       {
        "id": "sand-11-Kerbis",
        "time": 21.66700000000003,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=734s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=734s"
       }
      ]
     },
@@ -265,12 +265,12 @@
       {
        "id": "sand-12-best",
        "time": 45.466999999999985,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=762s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=762s"
       },
       {
        "id": "sand-12-Kerbis",
        "time": 50.799999999999955,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=756s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=756s"
       }
      ]
     },
@@ -287,7 +287,7 @@
       {
        "id": "sand-13-Kerbis",
        "time": 34.10000000000002,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=807s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=807s"
       }
      ]
     },
@@ -304,7 +304,7 @@
       {
        "id": "sand-14-Kerbis",
        "time": 116.16599999999994,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=841s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=841s"
       }
      ]
     }
@@ -322,7 +322,7 @@
       {
        "id": "wooded-0-best",
        "time": 107.43299999999999,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=962s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=962s"
       },
       {
        "id": "wooded-0-Kerbis",
@@ -344,7 +344,7 @@
       {
        "id": "wooded-1-Kerbis",
        "time": 25.23400000000015,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1072s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1072s"
       }
      ]
     },
@@ -356,12 +356,12 @@
       {
        "id": "wooded-2-best",
        "time": 22.067000000000007,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=1095s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=1095s"
       },
       {
        "id": "wooded-2-Kerbis",
        "time": 24.16599999999994,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1097s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1097s"
       }
      ]
     },
@@ -378,7 +378,7 @@
       {
        "id": "wooded-3-Kerbis",
        "time": 7.2000000000000455,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1122s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1122s"
       }
      ]
     },
@@ -390,12 +390,12 @@
       {
        "id": "wooded-4-best",
        "time": 17.866999999999962,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=1116s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=1116s"
       },
       {
        "id": "wooded-4-Kerbis",
        "time": 18.166999999999916,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1129s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1129s"
       }
      ]
     },
@@ -412,7 +412,7 @@
       {
        "id": "wooded-5-Kerbis",
        "time": 32.36699999999996,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1147s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1147s"
       }
      ]
     },
@@ -424,12 +424,12 @@
       {
        "id": "wooded-6-best",
        "time": 15.134000000000015,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=1178s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=1178s"
       },
       {
        "id": "wooded-6-Kerbis",
        "time": 17.200000000000045,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1179s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1179s"
       }
      ]
     },
@@ -446,7 +446,7 @@
       {
        "id": "wooded-7-Kerbis",
        "time": 25.700000000000045,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1197s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1197s"
       }
      ]
     },
@@ -463,7 +463,7 @@
       {
        "id": "wooded-8-Kerbis",
        "time": 26.0329999999999,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1222s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1222s"
       }
      ]
     },
@@ -475,12 +475,12 @@
       {
        "id": "wooded-9-best",
        "time": 12.366999999999962,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=1255s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=1255s"
       },
       {
        "id": "wooded-9-Kerbis",
        "time": 13.267000000000053,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1248s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1248s"
       }
      ]
     },
@@ -497,7 +497,7 @@
       {
        "id": "wooded-10-Kerbis",
        "time": 28.732999999999947,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1262s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1262s"
       }
      ]
     },
@@ -514,7 +514,7 @@
       {
        "id": "wooded-11-Kerbis",
        "time": 24.667000000000144,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1290s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1290s"
       }
      ]
     },
@@ -531,7 +531,7 @@
       {
        "id": "wooded-12-Kerbis",
        "time": 6.5,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1315s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1315s"
       }
      ]
     },
@@ -543,12 +543,12 @@
       {
        "id": "wooded-13-best",
        "time": 52.86699999999996,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=1308s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=1308s"
       },
       {
        "id": "wooded-13-Kerbis",
        "time": 54.59999999999991,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1321s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1321s"
       }
      ]
     }
@@ -571,7 +571,7 @@
       {
        "id": "lake-0-Kerbis",
        "time": 92.29999999999995,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1376s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1376s"
       }
      ]
     },
@@ -588,7 +588,7 @@
       {
        "id": "lake-1-Kerbis",
        "time": 11.566000000000031,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1468s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1468s"
       }
      ]
     },
@@ -600,12 +600,12 @@
       {
        "id": "lake-2-best",
        "time": 9.866999999999962,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1480s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1480s"
       },
       {
        "id": "lake-2-Kerbis",
        "time": 9.866999999999962,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1480s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1480s"
       }
      ]
     },
@@ -622,7 +622,7 @@
       {
        "id": "lake-3-Kerbis",
        "time": 16.833000000000084,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1490s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1490s"
       }
      ]
     },
@@ -639,7 +639,7 @@
       {
        "id": "lake-4-Kerbis",
        "time": 48.46699999999987,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1507s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1507s"
       }
      ]
     },
@@ -656,7 +656,7 @@
       {
        "id": "lake-5-Kerbis",
        "time": 28.53300000000013,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1555s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1555s"
       }
      ]
     }
@@ -684,7 +684,7 @@
       {
        "id": "lost-0-Kerbis",
        "time": 145.83400000000006,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1584s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1584s"
       }
      ]
     },
@@ -696,12 +696,12 @@
       {
        "id": "lost-1-best",
        "time": 19.233000000000175,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=1712s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=1712s"
       },
       {
        "id": "lost-1-Kerbis",
        "time": 21.799999999999955,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1729s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1729s"
       }
      ]
     },
@@ -718,7 +718,7 @@
       {
        "id": "lost-2-Kerbis",
        "time": 6.232999999999947,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1751s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1751s"
       }
      ]
     },
@@ -730,12 +730,12 @@
       {
        "id": "lost-3-best",
        "time": 12.400000000000091,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=1742s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=1742s"
       },
       {
        "id": "lost-3-Kerbis",
        "time": 12.900000000000091,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1758s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1758s"
       }
      ]
     },
@@ -752,7 +752,7 @@
       {
        "id": "lost-4-Kerbis",
        "time": 14.832999999999856,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1770s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1770s"
       }
      ]
     },
@@ -769,7 +769,7 @@
       {
        "id": "lost-5-Kerbis",
        "time": 11.433999999999969,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1785s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1785s"
       }
      ]
     },
@@ -781,12 +781,12 @@
       {
        "id": "lost-6-best",
        "time": 8.567000000000007,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=1781s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=1781s"
       },
       {
        "id": "lost-6-Kerbis",
        "time": 8.833000000000084,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1797s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1797s"
       }
      ]
     },
@@ -798,12 +798,12 @@
       {
        "id": "lost-7-best",
        "time": 12.799999999999955,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=1782s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=1782s"
       },
       {
        "id": "lost-7-Kerbis",
        "time": 14.732999999999947,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1806s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1806s"
       }
      ]
     },
@@ -815,12 +815,12 @@
       {
        "id": "lost-8-best",
        "time": 8.899999999999864,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=1807s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=1807s"
       },
       {
        "id": "lost-8-Kerbis",
        "time": 9.100000000000136,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1820s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1820s"
       }
      ]
     },
@@ -837,7 +837,7 @@
       {
        "id": "lost-9-Kerbis",
        "time": 5.6340000000000146,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1829s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1829s"
       }
      ]
     },
@@ -849,12 +849,12 @@
       {
        "id": "lost-10-best",
        "time": 19.932999999999993,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=1811s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=1811s"
       },
       {
        "id": "lost-10-Kerbis",
        "time": 20.299999999999955,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1835s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1835s"
       }
      ]
     },
@@ -911,7 +911,7 @@
       {
        "id": "metro-1-Kerbis",
        "time": 18.0329999999999,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1939s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1939s"
       }
      ]
     },
@@ -928,7 +928,7 @@
       {
        "id": "metro-2-Kerbis",
        "time": 30.36700000000019,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1957s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1957s"
       }
      ]
     },
@@ -945,7 +945,7 @@
       {
        "id": "metro-3-Kerbis",
        "time": 105.13299999999981,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=1987s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=1987s"
       }
      ]
     },
@@ -957,12 +957,12 @@
       {
        "id": "metro-4-best",
        "time": 29.73299999999972,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=2106s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=2106s"
       },
       {
        "id": "metro-4-Kerbis",
        "time": 30.4670000000001,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=2093s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=2093s"
       }
      ]
     },
@@ -974,12 +974,12 @@
       {
        "id": "metro-5-best",
        "time": 30.067000000000007,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=2136s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=2136s"
       },
       {
        "id": "metro-5-Kerbis",
        "time": 30.333000000000084,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=2123s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=2123s"
       }
      ]
     },
@@ -996,7 +996,7 @@
       {
        "id": "metro-6-Kerbis",
        "time": 26.40000000000009,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=2153s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=2153s"
       }
      ]
     },
@@ -1008,12 +1008,12 @@
       {
        "id": "metro-7-best",
        "time": 28.366999999999734,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=2191s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=2191s"
       },
       {
        "id": "metro-7-Kerbis",
        "time": 29.932999999999993,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=2180s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=2180s"
       }
      ]
     },
@@ -1025,12 +1025,12 @@
       {
        "id": "metro-8-best",
        "time": 30.432999999999993,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=2233s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=2233s"
       },
       {
        "id": "metro-8-Kerbis",
        "time": 31.766999999999825,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=2210s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=2210s"
       }
      ]
     },
@@ -1047,7 +1047,7 @@
       {
        "id": "metro-9-Kerbis",
        "time": 23.90000000000009,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=2242s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=2242s"
       }
      ]
     },
@@ -1064,7 +1064,7 @@
       {
        "id": "metro-10-Kerbis",
        "time": 10.400000000000091,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=2265s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=2265s"
       }
      ]
     },
@@ -1081,7 +1081,7 @@
       {
        "id": "metro-11-Kerbis",
        "time": 21.299999999999727,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=2276s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=2276s"
       }
      ]
     },
@@ -1098,7 +1098,7 @@
       {
        "id": "metro-12-Kerbis",
        "time": 45.43299999999999,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=2297s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=2297s"
       }
      ]
     },
@@ -1115,7 +1115,7 @@
       {
        "id": "metro-13-Kerbis",
        "time": 24.434000000000196,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=2343s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=2343s"
       }
      ]
     },
@@ -1166,7 +1166,7 @@
       {
        "id": "metro-16-Kerbis",
        "time": 96.76699999999983,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=2458s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=2458s"
       }
      ]
     }
@@ -1189,7 +1189,7 @@
       {
        "id": "snow-0-Kerbis",
        "time": 92.13299999999981,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=2555s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=2555s"
       }
      ]
     },
@@ -1206,7 +1206,7 @@
       {
        "id": "snow-1-Kerbis",
        "time": 23.36700000000019,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=2647s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=2647s"
       }
      ]
     },
@@ -1218,12 +1218,12 @@
       {
        "id": "snow-2-best",
        "time": 14.432999999999993,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=2684s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=2684s"
       },
       {
        "id": "snow-2-Kerbis",
        "time": 15.166000000000167,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=2670s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=2670s"
       }
      ]
     },
@@ -1235,12 +1235,12 @@
       {
        "id": "snow-3-best",
        "time": 11.066000000000258,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=2762s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=2762s"
       },
       {
        "id": "snow-3-Kerbis",
        "time": 11.766999999999825,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=2685s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=2685s"
       }
      ]
     },
@@ -1257,7 +1257,7 @@
       {
        "id": "snow-4-Kerbis",
        "time": 153.30000000000018,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=2697s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=2697s"
       }
      ]
     },
@@ -1274,7 +1274,7 @@
       {
        "id": "snow-5-Kerbis",
        "time": 29.09999999999991,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=2850s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=2850s"
       }
      ]
     },
@@ -1291,7 +1291,7 @@
       {
        "id": "snow-6-Kerbis",
        "time": 14.432999999999993,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=2879s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=2879s"
       }
      ]
     },
@@ -1303,12 +1303,12 @@
       {
        "id": "snow-7-best",
        "time": 18.09999999999991,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=2934s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=2934s"
       },
       {
        "id": "snow-7-Kerbis",
        "time": 26.634000000000015,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=2894s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=2894s"
       }
      ]
     }
@@ -1394,12 +1394,12 @@
       {
        "id": "seaside-4-best",
        "time": 11.799999999999727,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=3151s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=3151s"
       },
       {
        "id": "seaside-4-Kerbis",
        "time": 12.299999999999727,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3107s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3107s"
       }
      ]
     },
@@ -1416,7 +1416,7 @@
       {
        "id": "seaside-5-Kerbis",
        "time": 15.600000000000364,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3119s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3119s"
       }
      ]
     },
@@ -1433,7 +1433,7 @@
       {
        "id": "seaside-6-Kerbis",
        "time": 13.032999999999902,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3135s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3135s"
       }
      ]
     },
@@ -1450,7 +1450,7 @@
       {
        "id": "seaside-7-Kerbis",
        "time": 36.866999999999734,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3148s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3148s"
       }
      ]
     },
@@ -1462,12 +1462,12 @@
       {
        "id": "seaside-8-best",
        "time": 17.866999999999734,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=3185s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=3185s"
       },
       {
        "id": "seaside-8-Kerbis",
        "time": 19.033000000000357,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3185s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3185s"
       }
      ]
     },
@@ -1479,12 +1479,12 @@
       {
        "id": "seaside-9-best",
        "time": 13.234000000000378,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=3303s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=3303s"
       },
       {
        "id": "seaside-9-Kerbis",
        "time": 13.299999999999727,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3204s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3204s"
       }
      ]
     },
@@ -1501,7 +1501,7 @@
       {
        "id": "seaside-10-Kerbis",
        "time": 50.5,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3217s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3217s"
       }
      ]
     },
@@ -1513,12 +1513,12 @@
       {
        "id": "seaside-11-best",
        "time": 66.0,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=3255s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=3255s"
       },
       {
        "id": "seaside-11-Kerbis",
        "time": 78.13400000000001,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3268s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3268s"
       }
      ]
     }
@@ -1541,7 +1541,7 @@
       {
        "id": "luncheon-0-Kerbis",
        "time": 89.16600000000017,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3346s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3346s"
       }
      ]
     },
@@ -1558,7 +1558,7 @@
       {
        "id": "luncheon-1-Kerbis",
        "time": 49.59999999999991,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3435s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3435s"
       }
      ]
     },
@@ -1575,7 +1575,7 @@
       {
        "id": "luncheon-2-Kerbis",
        "time": 50.69999999999982,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3484s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3484s"
       }
      ]
     },
@@ -1587,12 +1587,12 @@
       {
        "id": "luncheon-3-best",
        "time": 27.5,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=3516s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=3516s"
       },
       {
        "id": "luncheon-3-Kerbis",
        "time": 30.66700000000037,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3535s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3535s"
       }
      ]
     },
@@ -1604,12 +1604,12 @@
       {
        "id": "luncheon-4-best",
        "time": 20.766999999999825,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3566s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3566s"
       },
       {
        "id": "luncheon-4-Kerbis",
        "time": 20.766999999999825,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3566s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3566s"
       }
      ]
     },
@@ -1621,12 +1621,12 @@
       {
        "id": "luncheon-5-best",
        "time": 9.599999999999909,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=3681s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=3681s"
       },
       {
        "id": "luncheon-5-Kerbis",
        "time": 10.266000000000076,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3587s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3587s"
       }
      ]
     },
@@ -1638,12 +1638,12 @@
       {
        "id": "luncheon-6-best",
        "time": 16.299999999999727,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=3575s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=3575s"
       },
       {
        "id": "luncheon-6-Kerbis",
        "time": 18.299999999999727,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3597s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3597s"
       }
      ]
     },
@@ -1660,7 +1660,7 @@
       {
        "id": "luncheon-7-Kerbis",
        "time": 31.634000000000015,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3615s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3615s"
       }
      ]
     },
@@ -1677,7 +1677,7 @@
       {
        "id": "luncheon-8-Kerbis",
        "time": 36.80000000000018,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3647s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3647s"
       }
      ]
     },
@@ -1694,7 +1694,7 @@
       {
        "id": "luncheon-9-Kerbis",
        "time": 39.365999999999985,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3684s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3684s"
       }
      ]
     },
@@ -1706,12 +1706,12 @@
       {
        "id": "luncheon-10-best",
        "time": 18.5,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=3690s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=3690s"
       },
       {
        "id": "luncheon-10-Kerbis",
        "time": 19.699999999999818,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3723s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3723s"
       }
      ]
     },
@@ -1723,12 +1723,12 @@
       {
        "id": "luncheon-11-best",
        "time": 16.40000000000009,
-       "url": "https://player.twitch.tv/?video=421907756&autoplay=false&time=3713s"
+       "url": "https://player.twitch.tv/?video=421907756&parent=smo.tools&autoplay=false&time=3713s"
       },
       {
        "id": "luncheon-11-Kerbis",
        "time": 17.434000000000196,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3743s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3743s"
       }
      ]
     },
@@ -1740,12 +1740,12 @@
       {
        "id": "luncheon-12-best",
        "time": 31.9670000000001,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=3725s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=3725s"
       },
       {
        "id": "luncheon-12-Kerbis",
        "time": 32.93299999999999,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3760s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3760s"
       }
      ]
     },
@@ -1762,7 +1762,7 @@
       {
        "id": "luncheon-13-Kerbis",
        "time": 107.16699999999992,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3793s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3793s"
       }
      ]
     }
@@ -1785,7 +1785,7 @@
       {
        "id": "ruined-0-Kerbis",
        "time": 77.93299999999999,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3900s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3900s"
       }
      ]
     },
@@ -1802,7 +1802,7 @@
       {
        "id": "ruined-1-Kerbis",
        "time": 133.43300000000045,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=3978s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=3978s"
       }
      ]
     }
@@ -1842,7 +1842,7 @@
       {
        "id": "bowser-1-Kerbis",
        "time": 31.166000000000167,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=4188s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=4188s"
       }
      ]
     },
@@ -1859,7 +1859,7 @@
       {
        "id": "bowser-2-Kerbis",
        "time": 75.96700000000055,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=4219s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=4219s"
       }
      ]
     },
@@ -1876,7 +1876,7 @@
       {
        "id": "bowser-3-Kerbis",
        "time": 10.766999999999825,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=4295s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=4295s"
       }
      ]
     },
@@ -1888,12 +1888,12 @@
       {
        "id": "bowser-4-best",
        "time": 12.700000000000728,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=4297s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=4297s"
       },
       {
        "id": "bowser-4-Kerbis",
        "time": 13.63299999999981,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=4306s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=4306s"
       }
      ]
     },
@@ -1910,7 +1910,7 @@
       {
        "id": "bowser-5-Kerbis",
        "time": 24.0,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=4320s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=4320s"
       }
      ]
     },
@@ -1922,7 +1922,7 @@
       {
        "id": "bowser-6-best",
        "time": 30.13299999999981,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=4333s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=4333s"
       },
       {
        "id": "bowser-6-Kerbis",
@@ -1973,12 +1973,12 @@
       {
        "id": "bowser-9-best",
        "time": 30.565999999999804,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=4591s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=4591s"
       },
       {
        "id": "bowser-9-Kerbis",
        "time": 32.26599999999962,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=4483s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=4483s"
       }
      ]
     },
@@ -1995,7 +1995,7 @@
       {
        "id": "bowser-10-Kerbis",
        "time": 33.600000000000364,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=4515s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=4515s"
       }
      ]
     },
@@ -2012,7 +2012,7 @@
       {
        "id": "bowser-11-Kerbis",
        "time": 10.766999999999825,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=4549s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=4549s"
       }
      ]
     },
@@ -2024,12 +2024,12 @@
       {
        "id": "bowser-12-best",
        "time": 34.69999999999982,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=4581s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=4581s"
       },
       {
        "id": "bowser-12-Kerbis",
        "time": 36.63299999999981,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=4559s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=4559s"
       }
      ]
     },
@@ -2046,7 +2046,7 @@
       {
        "id": "bowser-13-Kerbis",
        "time": 14.5,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=4596s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=4596s"
       }
      ]
     },
@@ -2063,7 +2063,7 @@
       {
        "id": "bowser-14-Kerbis",
        "time": 99.53399999999965,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=4610s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=4610s"
       }
      ]
     },
@@ -2075,12 +2075,12 @@
       {
        "id": "bowser-15-best",
        "time": 30.83299999999963,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=4662s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=4662s"
       },
       {
        "id": "bowser-15-Kerbis",
        "time": 31.700000000000728,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=4710s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=4710s"
       }
      ]
     }
@@ -2098,12 +2098,12 @@
       {
        "id": "moon-0-best",
        "time": 81.63299999999981,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=4713s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=4713s"
       },
       {
        "id": "moon-0-Kerbis",
        "time": 83.46599999999944,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=4742s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=4742s"
       }
      ]
     },
@@ -2120,7 +2120,7 @@
       {
        "id": "moon-1-Kerbis",
        "time": 12.766999999999825,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=4825s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=4825s"
       }
      ]
     },
@@ -2171,7 +2171,7 @@
       {
        "id": "moon-4-Kerbis",
        "time": 18.599999999999454,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=4909s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=4909s"
       }
      ]
     }
@@ -2206,12 +2206,12 @@
       {
        "id": "mushroom-1-best",
        "time": 11.966999999999643,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=5349s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=5349s"
       },
       {
        "id": "mushroom-1-Kerbis",
        "time": 14.5,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11116s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11116s"
       }
      ]
     },
@@ -2251,7 +2251,7 @@
       {
        "id": "snow2-0-Kerbis",
        "time": 22.067000000000007,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=5372s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=5372s"
       }
      ]
     },
@@ -2268,7 +2268,7 @@
       {
        "id": "snow2-1-Kerbis",
        "time": 33.16600000000017,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=5394s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=5394s"
       }
      ]
     },
@@ -2285,7 +2285,7 @@
       {
        "id": "snow2-2-Kerbis",
        "time": 12.266999999999825,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=5427s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=5427s"
       }
      ]
     },
@@ -2302,7 +2302,7 @@
       {
        "id": "snow2-3-Kerbis",
        "time": 34.233000000000175,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=5439s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=5439s"
       }
      ]
     },
@@ -2314,12 +2314,12 @@
       {
        "id": "snow2-4-best",
        "time": 10.63300000000072,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=5533s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=5533s"
       },
       {
        "id": "snow2-4-Kerbis",
        "time": 11.53399999999965,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=5473s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=5473s"
       }
      ]
     },
@@ -2331,12 +2331,12 @@
       {
        "id": "snow2-5-best",
        "time": 12.200000000000728,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=5485s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=5485s"
       },
       {
        "id": "snow2-5-Kerbis",
        "time": 12.200000000000728,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=5485s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=5485s"
       }
      ]
     },
@@ -2353,7 +2353,7 @@
       {
        "id": "snow2-6-Kerbis",
        "time": 14.0,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=5497s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=5497s"
       }
      ]
     },
@@ -2365,12 +2365,12 @@
       {
        "id": "snow2-7-best",
        "time": 17.033000000000357,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=5442s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=5442s"
       },
       {
        "id": "snow2-7-Kerbis",
        "time": 17.63299999999981,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=5511s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=5511s"
       }
      ]
     },
@@ -2382,7 +2382,7 @@
       {
        "id": "snow2-8-best",
        "time": 10.232999999999265,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=5459s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=5459s"
       },
       {
        "id": "snow2-8-Kerbis",
@@ -2399,7 +2399,7 @@
       {
        "id": "snow2-9-best",
        "time": 14.86700000000019,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=5435s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=5435s"
       },
       {
        "id": "snow2-9-Kerbis",
@@ -2416,12 +2416,12 @@
       {
        "id": "snow2-10-best",
        "time": 24.967000000000553,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=5491s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=5491s"
       },
       {
        "id": "snow2-10-Kerbis",
        "time": 25.700000000000728,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=5543s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=5543s"
       }
      ]
     },
@@ -2433,12 +2433,12 @@
       {
        "id": "snow2-11-best",
        "time": 19.699999999999818,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=5629s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=5629s"
       },
       {
        "id": "snow2-11-Kerbis",
        "time": 34.83299999999963,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=5569s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=5569s"
       }
      ]
     },
@@ -2450,12 +2450,12 @@
       {
        "id": "snow2-12-best",
        "time": 8.332999999999629,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=5537s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=5537s"
       },
       {
        "id": "snow2-12-Kerbis",
        "time": 8.86700000000019,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=5604s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=5604s"
       }
      ]
     },
@@ -2467,12 +2467,12 @@
       {
        "id": "snow2-13-best",
        "time": 20.533000000000357,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=5582s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=5582s"
       },
       {
        "id": "snow2-13-Kerbis",
        "time": 21.33299999999963,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=5613s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=5613s"
       }
      ]
     },
@@ -2484,12 +2484,12 @@
       {
        "id": "snow2-14-best",
        "time": 34.13299999999981,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=5567s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=5567s"
       },
       {
        "id": "snow2-14-Kerbis",
        "time": 39.96700000000055,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=5634s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=5634s"
       }
      ]
     },
@@ -2501,7 +2501,7 @@
       {
        "id": "snow2-15-best",
        "time": 14.166999999999462,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=5566s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=5566s"
       },
       {
        "id": "snow2-15-Kerbis",
@@ -2535,7 +2535,7 @@
       {
        "id": "snow2-17-best",
        "time": 27.134000000000015,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=5588s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=5588s"
       },
       {
        "id": "snow2-17-Kerbis",
@@ -2557,7 +2557,7 @@
       {
        "id": "snow2-18-Kerbis",
        "time": 16.300000000000182,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=5729s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=5729s"
       }
      ]
     },
@@ -2569,12 +2569,12 @@
       {
        "id": "snow2-19-best",
        "time": 10.333000000000538,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=5751s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=5751s"
       },
       {
        "id": "snow2-19-Kerbis",
        "time": 10.86700000000019,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=5745s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=5745s"
       }
      ]
     },
@@ -2586,7 +2586,7 @@
       {
        "id": "snow2-20-best",
        "time": 29.23399999999947,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=5679s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=5679s"
       },
       {
        "id": "snow2-20-Kerbis",
@@ -2643,7 +2643,7 @@
       {
        "id": "cascade2-1-best",
        "time": 6.932999999999993,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=5727s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=5727s"
       },
       {
        "id": "cascade2-1-Kerbis",
@@ -2682,7 +2682,7 @@
       {
        "id": "cascade2-3-Kerbis",
        "time": 12.033000000000357,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=5930s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=5930s"
       }
      ]
     },
@@ -2699,7 +2699,7 @@
       {
        "id": "cascade2-4-Kerbis",
        "time": 26.0,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=5942s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=5942s"
       }
      ]
     },
@@ -2750,7 +2750,7 @@
       {
        "id": "cascade2-7-Kerbis",
        "time": 13.13299999999981,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6002s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6002s"
       }
      ]
     },
@@ -2767,7 +2767,7 @@
       {
        "id": "cascade2-8-Kerbis",
        "time": 33.36700000000019,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6015s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6015s"
       }
      ]
     },
@@ -2784,7 +2784,7 @@
       {
        "id": "cascade2-9-Kerbis",
        "time": 10.033000000000357,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6048s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6048s"
       }
      ]
     },
@@ -2830,7 +2830,7 @@
       {
        "id": "cascade2-12-best",
        "time": 10.46599999999944,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=6044s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=6044s"
       },
       {
        "id": "cascade2-12-Kerbis",
@@ -2852,7 +2852,7 @@
       {
        "id": "cascade2-13-Kerbis",
        "time": 8.167000000000371,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6100s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6100s"
       }
      ]
     },
@@ -2886,7 +2886,7 @@
       {
        "id": "cascade2-15-Kerbis",
        "time": 9.266000000000531,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=5896s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=5896s"
       }
      ]
     },
@@ -2898,7 +2898,7 @@
       {
        "id": "cascade2-16-best",
        "time": 17.432999999999993,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=5975s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=5975s"
       },
       {
        "id": "cascade2-16-Kerbis",
@@ -2920,7 +2920,7 @@
       {
        "id": "cascade2-17-Kerbis",
        "time": 13.800000000000182,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6122s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6122s"
       }
      ]
     },
@@ -2932,12 +2932,12 @@
       {
        "id": "cascade2-18-best",
        "time": 20.266999999999825,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6006s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6006s"
       },
       {
        "id": "cascade2-18-Kerbis",
        "time": 22.86700000000019,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6136s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6136s"
       }
      ]
     },
@@ -2954,7 +2954,7 @@
       {
        "id": "cascade2-19-Kerbis",
        "time": 7.765999999999622,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6159s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6159s"
       }
      ]
     },
@@ -2971,7 +2971,7 @@
       {
        "id": "cascade2-20-Kerbis",
        "time": 9.86700000000019,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6166s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6166s"
       }
      ]
     },
@@ -2988,7 +2988,7 @@
       {
        "id": "cascade2-21-Kerbis",
        "time": 9.5,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6176s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6176s"
       }
      ]
     },
@@ -3005,7 +3005,7 @@
       {
        "id": "cascade2-22-Kerbis",
        "time": 17.63299999999981,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6186s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6186s"
       }
      ]
     },
@@ -3017,12 +3017,12 @@
       {
        "id": "cascade2-23-best",
        "time": 9.166000000000167,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6072s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6072s"
       },
       {
        "id": "cascade2-23-Kerbis",
        "time": 9.5,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6203s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6203s"
       }
      ]
     },
@@ -3039,7 +3039,7 @@
       {
        "id": "cascade2-24-Kerbis",
        "time": 14.5,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6213s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6213s"
       }
      ]
     },
@@ -3051,7 +3051,7 @@
       {
        "id": "cascade2-25-best",
        "time": 8.266999999999825,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=6156s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=6156s"
       },
       {
        "id": "cascade2-25-Kerbis",
@@ -3079,7 +3079,7 @@
       {
        "id": "bowser2-0-Kerbis",
        "time": 22.13300000000072,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6247s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6247s"
       }
      ]
     },
@@ -3142,12 +3142,12 @@
       {
        "id": "bowser2-4-best",
        "time": 13.432999999999993,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=6225s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=6225s"
       },
       {
        "id": "bowser2-4-Kerbis",
        "time": 14.033000000000357,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6311s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6311s"
       }
      ]
     },
@@ -3159,12 +3159,12 @@
       {
        "id": "bowser2-5-best",
        "time": 20.467000000000553,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6180s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6180s"
       },
       {
        "id": "bowser2-5-Kerbis",
        "time": 21.5,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6325s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6325s"
       }
      ]
     },
@@ -3181,7 +3181,7 @@
       {
        "id": "bowser2-6-Kerbis",
        "time": 16.333999999999833,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6346s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6346s"
       }
      ]
     },
@@ -3193,12 +3193,12 @@
       {
        "id": "bowser2-7-best",
        "time": 14.634000000000015,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=6414s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=6414s"
       },
       {
        "id": "bowser2-7-Kerbis",
        "time": 15.0,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6363s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6363s"
       }
      ]
     },
@@ -3215,7 +3215,7 @@
       {
        "id": "bowser2-8-Kerbis",
        "time": 15.899999999999636,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6378s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6378s"
       }
      ]
     },
@@ -3232,7 +3232,7 @@
       {
        "id": "bowser2-9-Kerbis",
        "time": 14.63300000000072,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6393s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6393s"
       }
      ]
     },
@@ -3244,12 +3244,12 @@
       {
        "id": "bowser2-10-best",
        "time": 13.466999999999643,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6273s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6273s"
       },
       {
        "id": "bowser2-10-Kerbis",
        "time": 15.832999999999629,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6408s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6408s"
       }
      ]
     },
@@ -3261,12 +3261,12 @@
       {
        "id": "bowser2-11-best",
        "time": 28.533000000000357,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=6423s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=6423s"
       },
       {
        "id": "bowser2-11-Kerbis",
        "time": 28.634000000000015,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6424s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6424s"
       }
      ]
     },
@@ -3283,7 +3283,7 @@
       {
        "id": "bowser2-12-Kerbis",
        "time": 5.832999999999629,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6453s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6453s"
       }
      ]
     },
@@ -3300,7 +3300,7 @@
       {
        "id": "bowser2-13-Kerbis",
        "time": 19.900000000000546,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6458s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6458s"
       }
      ]
     },
@@ -3312,12 +3312,12 @@
       {
        "id": "bowser2-14-best",
        "time": 16.365999999999985,
-       "url": "https://player.twitch.tv/?video=421907756&autoplay=false&time=6391s"
+       "url": "https://player.twitch.tv/?video=421907756&parent=smo.tools&autoplay=false&time=6391s"
       },
       {
        "id": "bowser2-14-Kerbis",
        "time": 19.0,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6478s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6478s"
       }
      ]
     },
@@ -3334,7 +3334,7 @@
       {
        "id": "bowser2-15-Kerbis",
        "time": 17.733000000000175,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6497s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6497s"
       }
      ]
     },
@@ -3351,7 +3351,7 @@
       {
        "id": "bowser2-16-Kerbis",
        "time": 19.86699999999928,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6515s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6515s"
       }
      ]
     },
@@ -3368,7 +3368,7 @@
       {
        "id": "bowser2-17-Kerbis",
        "time": 19.432999999999993,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6535s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6535s"
       }
      ]
     },
@@ -3385,7 +3385,7 @@
       {
        "id": "bowser2-18-Kerbis",
        "time": 15.800000000000182,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6554s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6554s"
       }
      ]
     },
@@ -3397,12 +3397,12 @@
       {
        "id": "bowser2-19-best",
        "time": 20.600000000000364,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=6538s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=6538s"
       },
       {
        "id": "bowser2-19-Kerbis",
        "time": 22.5,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6570s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6570s"
       }
      ]
     },
@@ -3414,12 +3414,12 @@
       {
        "id": "bowser2-20-best",
        "time": 14.766999999999825,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6460s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6460s"
       },
       {
        "id": "bowser2-20-Kerbis",
        "time": 16.134000000000015,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6593s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6593s"
       }
      ]
     },
@@ -3431,12 +3431,12 @@
       {
        "id": "bowser2-21-best",
        "time": 28.800000000000182,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6475s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6475s"
       },
       {
        "id": "bowser2-21-Kerbis",
        "time": 29.865999999999985,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6609s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6609s"
       }
      ]
     }
@@ -3459,7 +3459,7 @@
       {
        "id": "seaside2-0-Kerbis",
        "time": 21.934000000000196,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6639s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6639s"
       }
      ]
     },
@@ -3471,12 +3471,12 @@
       {
        "id": "seaside2-1-best",
        "time": 21.16699999999946,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6525s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6525s"
       },
       {
        "id": "seaside2-1-Kerbis",
        "time": 22.199999999999818,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6661s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6661s"
       }
      ]
     },
@@ -3493,7 +3493,7 @@
       {
        "id": "seaside2-2-Kerbis",
        "time": 4.766000000000531,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6683s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6683s"
       }
      ]
     },
@@ -3505,12 +3505,12 @@
       {
        "id": "seaside2-3-best",
        "time": 21.233000000000175,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6551s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6551s"
       },
       {
        "id": "seaside2-3-Kerbis",
        "time": 22.833999999999833,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6688s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6688s"
       }
      ]
     },
@@ -3522,7 +3522,7 @@
       {
        "id": "seaside2-4-best",
        "time": 21.567000000000007,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6572s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6572s"
       },
       {
        "id": "seaside2-4-Kerbis",
@@ -3539,12 +3539,12 @@
       {
        "id": "seaside2-5-best",
        "time": 9.03400000000056,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=6693s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=6693s"
       },
       {
        "id": "seaside2-5-Kerbis",
        "time": 9.199999999999818,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6835s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6835s"
       }
      ]
     },
@@ -3561,7 +3561,7 @@
       {
        "id": "seaside2-6-Kerbis",
        "time": 9.96600000000035,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6845s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6845s"
       }
      ]
     },
@@ -3573,12 +3573,12 @@
       {
        "id": "seaside2-7-best",
        "time": 5.766999999999825,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6855s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6855s"
       },
       {
        "id": "seaside2-7-Kerbis",
        "time": 5.766999999999825,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6855s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6855s"
       }
      ]
     },
@@ -3595,7 +3595,7 @@
       {
        "id": "seaside2-8-Kerbis",
        "time": 14.800000000000182,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6860s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6860s"
       }
      ]
     },
@@ -3612,7 +3612,7 @@
       {
        "id": "seaside2-9-Kerbis",
        "time": 16.63299999999981,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6875s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6875s"
       }
      ]
     },
@@ -3629,7 +3629,7 @@
       {
        "id": "seaside2-10-Kerbis",
        "time": 11.300000000000182,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6892s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6892s"
       }
      ]
     },
@@ -3641,12 +3641,12 @@
       {
        "id": "seaside2-11-best",
        "time": 16.46600000000035,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=6765s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=6765s"
       },
       {
        "id": "seaside2-11-Kerbis",
        "time": 17.0,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6903s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6903s"
       }
      ]
     },
@@ -3658,7 +3658,7 @@
       {
        "id": "seaside2-12-best",
        "time": 17.567000000000007,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6673s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6673s"
       },
       {
        "id": "seaside2-12-Kerbis",
@@ -3709,7 +3709,7 @@
       {
        "id": "seaside2-15-best",
        "time": 12.0,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=6835s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=6835s"
       },
       {
        "id": "seaside2-15-Kerbis",
@@ -3731,7 +3731,7 @@
       {
        "id": "seaside2-16-Kerbis",
        "time": 18.567000000000007,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6936s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6936s"
       }
      ]
     },
@@ -3748,7 +3748,7 @@
       {
        "id": "seaside2-17-Kerbis",
        "time": 9.532999999999447,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6955s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6955s"
       }
      ]
     },
@@ -3782,7 +3782,7 @@
       {
        "id": "seaside2-19-Kerbis",
        "time": 9.100000000000364,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7085s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7085s"
       }
      ]
     },
@@ -3811,12 +3811,12 @@
       {
        "id": "seaside2-21-best",
        "time": 17.800000000000182,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6741s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6741s"
       },
       {
        "id": "seaside2-21-Kerbis",
        "time": 17.800000000000182,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6741s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6741s"
       }
      ]
     },
@@ -3828,12 +3828,12 @@
       {
        "id": "seaside2-22-best",
        "time": 39.33399999999983,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6805s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6805s"
       },
       {
        "id": "seaside2-22-Kerbis",
        "time": 44.03300000000036,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6759s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6759s"
       }
      ]
     },
@@ -3850,7 +3850,7 @@
       {
        "id": "seaside2-23-Kerbis",
        "time": 10.300000000000182,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=6803s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=6803s"
       }
      ]
     },
@@ -3862,7 +3862,7 @@
       {
        "id": "seaside2-24-best",
        "time": 20.599999999999454,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6853s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6853s"
       },
       {
        "id": "seaside2-24-Kerbis",
@@ -3879,7 +3879,7 @@
       {
        "id": "seaside2-25-best",
        "time": 14.13300000000072,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6874s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6874s"
       },
       {
        "id": "seaside2-25-Kerbis",
@@ -3918,7 +3918,7 @@
       {
        "id": "seaside2-27-Kerbis",
        "time": 13.599999999999454,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7049s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7049s"
       }
      ]
     },
@@ -3930,12 +3930,12 @@
       {
        "id": "seaside2-28-best",
        "time": 12.067000000000007,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=6919s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=6919s"
       },
       {
        "id": "seaside2-28-Kerbis",
        "time": 12.666000000000167,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7062s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7062s"
       }
      ]
     },
@@ -3969,7 +3969,7 @@
       {
        "id": "seaside2-30-Kerbis",
        "time": 11.63299999999981,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7112s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7112s"
       }
      ]
     }
@@ -3987,12 +3987,12 @@
       {
        "id": "wooded2-0-best",
        "time": 16.36700000000019,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=7089s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=7089s"
       },
       {
        "id": "wooded2-0-Kerbis",
        "time": 19.067000000000007,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7124s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7124s"
       }
      ]
     },
@@ -4004,12 +4004,12 @@
       {
        "id": "wooded2-1-best",
        "time": 9.466999999999643,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=7216s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=7216s"
       },
       {
        "id": "wooded2-1-Kerbis",
        "time": 10.666000000000167,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7143s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7143s"
       }
      ]
     },
@@ -4021,12 +4021,12 @@
       {
        "id": "wooded2-2-best",
        "time": 31.932999999999993,
-       "url": "https://player.twitch.tv/?video=421907756&autoplay=false&time=7016s"
+       "url": "https://player.twitch.tv/?video=421907756&parent=smo.tools&autoplay=false&time=7016s"
       },
       {
        "id": "wooded2-2-Kerbis",
        "time": 34.86700000000019,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7153s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7153s"
       }
      ]
     },
@@ -4038,12 +4038,12 @@
       {
        "id": "wooded2-3-best",
        "time": 132.63400000000001,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=7030s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=7030s"
       },
       {
        "id": "wooded2-3-Kerbis",
        "time": 136.8670000000002,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7188s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7188s"
       }
      ]
     },
@@ -4055,7 +4055,7 @@
       {
        "id": "wooded2-4-best",
        "time": 25.365999999999985,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=7319s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=7319s"
       },
       {
        "id": "wooded2-4-Kerbis",
@@ -4072,7 +4072,7 @@
       {
        "id": "wooded2-5-best",
        "time": 5.166999999999462,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=7344s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=7344s"
       },
       {
        "id": "wooded2-5-Kerbis",
@@ -4089,12 +4089,12 @@
       {
        "id": "wooded2-6-best",
        "time": 13.63299999999981,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7361s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7361s"
       },
       {
        "id": "wooded2-6-Kerbis",
        "time": 13.63299999999981,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7361s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7361s"
       }
      ]
     },
@@ -4106,12 +4106,12 @@
       {
        "id": "wooded2-7-best",
        "time": 43.0,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=7208s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=7208s"
       },
       {
        "id": "wooded2-7-Kerbis",
        "time": 46.733000000000175,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7374s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7374s"
       }
      ]
     },
@@ -4123,12 +4123,12 @@
       {
        "id": "wooded2-8-best",
        "time": 23.0,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=7409s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=7409s"
       },
       {
        "id": "wooded2-8-Kerbis",
        "time": 25.03399999999965,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7421s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7421s"
       }
      ]
     },
@@ -4145,7 +4145,7 @@
       {
        "id": "wooded2-9-Kerbis",
        "time": 10.200000000000728,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7446s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7446s"
       }
      ]
     },
@@ -4157,12 +4157,12 @@
       {
        "id": "wooded2-10-best",
        "time": 22.73399999999947,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=7538s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=7538s"
       },
       {
        "id": "wooded2-10-Kerbis",
        "time": 23.065999999999804,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7456s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7456s"
       }
      ]
     },
@@ -4196,7 +4196,7 @@
       {
        "id": "wooded2-12-Kerbis",
        "time": 31.399999999999636,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7523s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7523s"
       }
      ]
     },
@@ -4213,7 +4213,7 @@
       {
        "id": "wooded2-13-Kerbis",
        "time": 13.36700000000019,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7554s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7554s"
       }
      ]
     },
@@ -4230,7 +4230,7 @@
       {
        "id": "wooded2-14-Kerbis",
        "time": 13.832999999999629,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7567s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7567s"
       }
      ]
     },
@@ -4247,7 +4247,7 @@
       {
        "id": "wooded2-15-Kerbis",
        "time": 9.934000000000196,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7581s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7581s"
       }
      ]
     },
@@ -4259,12 +4259,12 @@
       {
        "id": "wooded2-16-best",
        "time": 22.33300000000054,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=7426s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=7426s"
       },
       {
        "id": "wooded2-16-Kerbis",
        "time": 24.46600000000035,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7591s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7591s"
       }
      ]
     },
@@ -4281,7 +4281,7 @@
       {
        "id": "wooded2-17-Kerbis",
        "time": 12.733999999999469,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7616s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7616s"
       }
      ]
     },
@@ -4298,7 +4298,7 @@
       {
        "id": "wooded2-18-Kerbis",
        "time": 23.100000000000364,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7628s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7628s"
       }
      ]
     },
@@ -4315,7 +4315,7 @@
       {
        "id": "wooded2-19-Kerbis",
        "time": 29.13299999999981,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7651s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7651s"
       }
      ]
     },
@@ -4332,7 +4332,7 @@
       {
        "id": "wooded2-20-Kerbis",
        "time": 11.899999999999636,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7680s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7680s"
       }
      ]
     },
@@ -4344,12 +4344,12 @@
       {
        "id": "wooded2-21-best",
        "time": 11.833999999999833,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=7512s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=7512s"
       },
       {
        "id": "wooded2-21-Kerbis",
        "time": 17.567000000000007,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7692s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7692s"
       }
      ]
     },
@@ -4366,7 +4366,7 @@
       {
        "id": "wooded2-22-Kerbis",
        "time": 11.13300000000072,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7710s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7710s"
       }
      ]
     },
@@ -4383,7 +4383,7 @@
       {
        "id": "wooded2-23-Kerbis",
        "time": 31.799999999999272,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7721s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7721s"
       }
      ]
     },
@@ -4395,12 +4395,12 @@
       {
        "id": "wooded2-24-best",
        "time": 11.800000000000182,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=7744s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=7744s"
       },
       {
        "id": "wooded2-24-Kerbis",
        "time": 23.100000000000364,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7753s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7753s"
       }
      ]
     },
@@ -4412,12 +4412,12 @@
       {
        "id": "wooded2-25-best",
        "time": 7.667000000000371,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7776s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7776s"
       },
       {
        "id": "wooded2-25-Kerbis",
        "time": 7.667000000000371,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7776s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7776s"
       }
      ]
     },
@@ -4434,7 +4434,7 @@
       {
        "id": "wooded2-26-Kerbis",
        "time": 21.799999999999272,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7784s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7784s"
       }
      ]
     },
@@ -4446,12 +4446,12 @@
       {
        "id": "wooded2-27-best",
        "time": 33.76600000000053,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=7733s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=7733s"
       },
       {
        "id": "wooded2-27-Kerbis",
        "time": 34.70000000000073,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7805s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7805s"
       }
      ]
     },
@@ -4468,7 +4468,7 @@
       {
        "id": "wooded2-28-Kerbis",
        "time": 9.299999999999272,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7840s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7840s"
       }
      ]
     },
@@ -4480,12 +4480,12 @@
       {
        "id": "wooded2-29-best",
        "time": 23.0,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=7651s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=7651s"
       },
       {
        "id": "wooded2-29-Kerbis",
        "time": 24.5,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7849s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7849s"
       }
      ]
     },
@@ -4502,7 +4502,7 @@
       {
        "id": "wooded2-30-Kerbis",
        "time": 10.266000000000531,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7874s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7874s"
       }
      ]
     },
@@ -4519,7 +4519,7 @@
       {
        "id": "wooded2-31-Kerbis",
        "time": 13.399999999999636,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7884s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7884s"
       }
      ]
     }
@@ -4542,7 +4542,7 @@
       {
        "id": "sand2-0-Kerbis",
        "time": 19.400000000000546,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7898s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7898s"
       }
      ]
     },
@@ -4559,7 +4559,7 @@
       {
        "id": "sand2-1-Kerbis",
        "time": 13.899999999999636,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7917s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7917s"
       }
      ]
     },
@@ -4576,7 +4576,7 @@
       {
        "id": "sand2-2-Kerbis",
        "time": 20.634000000000015,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7931s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7931s"
       }
      ]
     },
@@ -4593,7 +4593,7 @@
       {
        "id": "sand2-3-Kerbis",
        "time": 14.399999999999636,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7952s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7952s"
       }
      ]
     },
@@ -4605,12 +4605,12 @@
       {
        "id": "sand2-4-best",
        "time": 20.400000000000546,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=7764s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=7764s"
       },
       {
        "id": "sand2-4-Kerbis",
        "time": 22.166000000000167,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7966s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7966s"
       }
      ]
     },
@@ -4627,7 +4627,7 @@
       {
        "id": "sand2-5-Kerbis",
        "time": 15.333999999999833,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=7988s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=7988s"
       }
      ]
     },
@@ -4639,12 +4639,12 @@
       {
        "id": "sand2-6-best",
        "time": 6.5,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=7800s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=7800s"
       },
       {
        "id": "sand2-6-Kerbis",
        "time": 7.0330000000003565,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8003s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8003s"
       }
      ]
     },
@@ -4661,7 +4661,7 @@
       {
        "id": "sand2-7-Kerbis",
        "time": 12.600000000000364,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8010s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8010s"
       }
      ]
     },
@@ -4673,12 +4673,12 @@
       {
        "id": "sand2-8-best",
        "time": 12.765999999999622,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=8021s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=8021s"
       },
       {
        "id": "sand2-8-Kerbis",
        "time": 13.166999999999462,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8023s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8023s"
       }
      ]
     },
@@ -4695,7 +4695,7 @@
       {
        "id": "sand2-9-Kerbis",
        "time": 18.065999999999804,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8036s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8036s"
       }
      ]
     },
@@ -4712,7 +4712,7 @@
       {
        "id": "sand2-10-Kerbis",
        "time": 27.600000000000364,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8054s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8054s"
       }
      ]
     },
@@ -4724,12 +4724,12 @@
       {
        "id": "sand2-11-best",
        "time": 9.665999999999258,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=8034s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=8034s"
       },
       {
        "id": "sand2-11-Kerbis",
        "time": 11.134000000000015,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8082s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8082s"
       }
      ]
     },
@@ -4741,12 +4741,12 @@
       {
        "id": "sand2-12-best",
        "time": 12.099999999999454,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=8097s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=8097s"
       },
       {
        "id": "sand2-12-Kerbis",
        "time": 13.233000000000175,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8093s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8093s"
       }
      ]
     },
@@ -4758,12 +4758,12 @@
       {
        "id": "sand2-13-best",
        "time": 6.900000000000546,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=8155s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=8155s"
       },
       {
        "id": "sand2-13-Kerbis",
        "time": 8.166999999999462,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8106s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8106s"
       }
      ]
     },
@@ -4814,7 +4814,7 @@
       {
        "id": "sand2-16-Kerbis",
        "time": 19.53399999999965,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8145s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8145s"
       }
      ]
     },
@@ -4831,7 +4831,7 @@
       {
        "id": "sand2-17-Kerbis",
        "time": 18.899999999999636,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8164s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8164s"
       }
      ]
     },
@@ -4848,7 +4848,7 @@
       {
        "id": "sand2-18-Kerbis",
        "time": 5.466000000000349,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8183s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8183s"
       }
      ]
     },
@@ -4860,12 +4860,12 @@
       {
        "id": "sand2-19-best",
        "time": 12.566000000000713,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=8190s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=8190s"
       },
       {
        "id": "sand2-19-Kerbis",
        "time": 14.167000000000371,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8188s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8188s"
       }
      ]
     },
@@ -4877,12 +4877,12 @@
       {
        "id": "sand2-20-best",
        "time": 14.066999999999098,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=8203s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=8203s"
       },
       {
        "id": "sand2-20-Kerbis",
        "time": 14.36700000000019,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8203s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8203s"
       }
      ]
     },
@@ -4899,7 +4899,7 @@
       {
        "id": "sand2-21-Kerbis",
        "time": 10.865999999999985,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8217s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8217s"
       }
      ]
     },
@@ -4916,7 +4916,7 @@
       {
        "id": "sand2-22-Kerbis",
        "time": 8.0,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8228s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8228s"
       }
      ]
     },
@@ -4933,7 +4933,7 @@
       {
        "id": "sand2-23-Kerbis",
        "time": 24.5,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8236s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8236s"
       }
      ]
     },
@@ -4950,7 +4950,7 @@
       {
        "id": "sand2-24-Kerbis",
        "time": 17.5,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8260s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8260s"
       }
      ]
     },
@@ -4962,12 +4962,12 @@
       {
        "id": "sand2-25-best",
        "time": 34.73399999999856,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=8208s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=8208s"
       },
       {
        "id": "sand2-25-Kerbis",
        "time": 39.0,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8278s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8278s"
       }
      ]
     },
@@ -4979,12 +4979,12 @@
       {
        "id": "sand2-26-best",
        "time": 7.266999999999825,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8162s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=8162s"
       },
       {
        "id": "sand2-26-Kerbis",
        "time": 10.299999999999272,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8317s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8317s"
       }
      ]
     },
@@ -5001,7 +5001,7 @@
       {
        "id": "sand2-27-Kerbis",
        "time": 18.73400000000038,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8327s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8327s"
       }
      ]
     },
@@ -5013,12 +5013,12 @@
       {
        "id": "sand2-28-best",
        "time": 13.067000000000007,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8191s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=8191s"
       },
       {
        "id": "sand2-28-Kerbis",
        "time": 14.932999999999083,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8346s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8346s"
       }
      ]
     },
@@ -5035,7 +5035,7 @@
       {
        "id": "sand2-29-Kerbis",
        "time": 21.86700000000019,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8361s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8361s"
       }
      ]
     },
@@ -5047,12 +5047,12 @@
       {
        "id": "sand2-30-best",
        "time": 19.16700000000128,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8223s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=8223s"
       },
       {
        "id": "sand2-30-Kerbis",
        "time": 20.33300000000054,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8383s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8383s"
       }
      ]
     },
@@ -5069,7 +5069,7 @@
       {
        "id": "sand2-31-Kerbis",
        "time": 16.5,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8403s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8403s"
       }
      ]
     },
@@ -5081,12 +5081,12 @@
       {
        "id": "sand2-32-best",
        "time": 22.63299999999981,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8258s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=8258s"
       },
       {
        "id": "sand2-32-Kerbis",
        "time": 23.433000000000902,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8420s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8420s"
       }
      ]
     },
@@ -5098,12 +5098,12 @@
       {
        "id": "sand2-33-best",
        "time": 12.234000000000378,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=8511s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=8511s"
       },
       {
        "id": "sand2-33-Kerbis",
        "time": 12.566999999999098,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8443s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8443s"
       }
      ]
     },
@@ -5115,12 +5115,12 @@
       {
        "id": "sand2-34-best",
        "time": 19.233000000000175,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=8375s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=8375s"
       },
       {
        "id": "sand2-34-Kerbis",
        "time": 20.433000000000902,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8456s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8456s"
       }
      ]
     },
@@ -5137,7 +5137,7 @@
       {
        "id": "sand2-35-Kerbis",
        "time": 15.466999999998734,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8476s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8476s"
       }
      ]
     },
@@ -5149,12 +5149,12 @@
       {
        "id": "sand2-36-best",
        "time": 24.532999999999447,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8330s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=8330s"
       },
       {
        "id": "sand2-36-Kerbis",
        "time": 26.700000000000728,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8491s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8491s"
       }
      ]
     },
@@ -5171,7 +5171,7 @@
       {
        "id": "sand2-37-Kerbis",
        "time": 11.0,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8518s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8518s"
       }
      ]
     },
@@ -5183,12 +5183,12 @@
       {
        "id": "sand2-38-best",
        "time": 20.466999999998734,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8529s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8529s"
       },
       {
        "id": "sand2-38-Kerbis",
        "time": 20.466999999998734,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8529s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8529s"
       }
      ]
     },
@@ -5200,12 +5200,12 @@
       {
        "id": "sand2-39-best",
        "time": 15.63299999999981,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=8470s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=8470s"
       },
       {
        "id": "sand2-39-Kerbis",
        "time": 15.96600000000035,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8550s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8550s"
       }
      ]
     },
@@ -5222,7 +5222,7 @@
       {
        "id": "sand2-40-Kerbis",
        "time": 7.467000000000553,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8566s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8566s"
       }
      ]
     },
@@ -5239,7 +5239,7 @@
       {
        "id": "sand2-41-Kerbis",
        "time": 19.13299999999981,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8573s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8573s"
       }
      ]
     },
@@ -5251,12 +5251,12 @@
       {
        "id": "sand2-42-best",
        "time": 22.334000000000742,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8428s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=8428s"
       },
       {
        "id": "sand2-42-Kerbis",
        "time": 24.5,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8592s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8592s"
       }
      ]
     },
@@ -5273,7 +5273,7 @@
       {
        "id": "sand2-43-Kerbis",
        "time": 8.399999999999636,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8617s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8617s"
       }
      ]
     },
@@ -5285,12 +5285,12 @@
       {
        "id": "sand2-44-best",
        "time": 10.36700000000019,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8458s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=8458s"
       },
       {
        "id": "sand2-44-Kerbis",
        "time": 12.067000000000917,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8625s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8625s"
       }
      ]
     },
@@ -5307,7 +5307,7 @@
       {
        "id": "sand2-45-Kerbis",
        "time": 15.266999999999825,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8637s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8637s"
       }
      ]
     }
@@ -5330,7 +5330,7 @@
       {
        "id": "metro2-0-Kerbis",
        "time": 21.665999999999258,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8652s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8652s"
       }
      ]
     },
@@ -5381,7 +5381,7 @@
       {
        "id": "metro2-3-Kerbis",
        "time": 8.333000000000538,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8734s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8734s"
       }
      ]
     },
@@ -5393,12 +5393,12 @@
       {
        "id": "metro2-4-best",
        "time": 9.199999999998909,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=8816s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=8816s"
       },
       {
        "id": "metro2-4-Kerbis",
        "time": 10.833000000000538,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8742s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8742s"
       }
      ]
     },
@@ -5483,7 +5483,7 @@
       {
        "id": "metro2-9-Kerbis",
        "time": 23.63299999999981,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8830s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8830s"
       }
      ]
     },
@@ -5495,12 +5495,12 @@
       {
        "id": "metro2-10-best",
        "time": 19.432999999999083,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8658s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=8658s"
       },
       {
        "id": "metro2-10-Kerbis",
        "time": 20.36700000000019,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8854s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8854s"
       }
      ]
     },
@@ -5512,12 +5512,12 @@
       {
        "id": "metro2-11-best",
        "time": 9.5,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=8924s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=8924s"
       },
       {
        "id": "metro2-11-Kerbis",
        "time": 10.833000000000538,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8874s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8874s"
       }
      ]
     },
@@ -5534,7 +5534,7 @@
       {
        "id": "metro2-12-Kerbis",
        "time": 14.0,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8885s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8885s"
       }
      ]
     },
@@ -5551,7 +5551,7 @@
       {
        "id": "metro2-13-Kerbis",
        "time": 10.234000000000378,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8899s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8899s"
       }
      ]
     },
@@ -5563,7 +5563,7 @@
       {
        "id": "metro2-14-best",
        "time": 13.23399999999856,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=8714s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=8714s"
       },
       {
        "id": "metro2-14-Kerbis",
@@ -5602,7 +5602,7 @@
       {
        "id": "metro2-16-Kerbis",
        "time": 18.0,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8942s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8942s"
       }
      ]
     },
@@ -5614,12 +5614,12 @@
       {
        "id": "metro2-17-best",
        "time": 8.532999999999447,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=8940s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=8940s"
       },
       {
        "id": "metro2-17-Kerbis",
        "time": 8.966999999998734,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8960s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8960s"
       }
      ]
     },
@@ -5636,7 +5636,7 @@
       {
        "id": "metro2-18-Kerbis",
        "time": 9.96600000000035,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8969s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8969s"
       }
      ]
     },
@@ -5653,7 +5653,7 @@
       {
        "id": "metro2-19-Kerbis",
        "time": 21.23400000000038,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=8979s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=8979s"
       }
      ]
     },
@@ -5670,7 +5670,7 @@
       {
        "id": "metro2-20-Kerbis",
        "time": 17.600000000000364,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9000s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9000s"
       }
      ]
     },
@@ -5682,12 +5682,12 @@
       {
        "id": "metro2-21-best",
        "time": 7.5,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=8971s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=8971s"
       },
       {
        "id": "metro2-21-Kerbis",
        "time": 7.632999999999811,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9017s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9017s"
       }
      ]
     },
@@ -5699,12 +5699,12 @@
       {
        "id": "metro2-22-best",
        "time": 24.833999999998923,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=8978s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=8978s"
       },
       {
        "id": "metro2-22-Kerbis",
        "time": 25.36700000000019,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9025s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9025s"
       }
      ]
     },
@@ -5716,12 +5716,12 @@
       {
        "id": "metro2-23-best",
        "time": 17.233000000000175,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=9144s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=9144s"
       },
       {
        "id": "metro2-23-Kerbis",
        "time": 17.665999999999258,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9050s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9050s"
       }
      ]
     },
@@ -5733,7 +5733,7 @@
       {
        "id": "metro2-24-best",
        "time": 8.734000000000378,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=9016s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=9016s"
       },
       {
        "id": "metro2-24-Kerbis",
@@ -5767,12 +5767,12 @@
       {
        "id": "metro2-26-best",
        "time": 23.933999999999287,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=9039s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=9039s"
       },
       {
        "id": "metro2-26-Kerbis",
        "time": 30.46600000000035,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9094s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9094s"
       }
      ]
     },
@@ -5789,7 +5789,7 @@
       {
        "id": "metro2-27-Kerbis",
        "time": 9.5,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9124s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9124s"
       }
      ]
     },
@@ -5806,7 +5806,7 @@
       {
        "id": "metro2-28-Kerbis",
        "time": 18.16699999999946,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9134s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9134s"
       }
      ]
     },
@@ -5823,7 +5823,7 @@
       {
        "id": "metro2-29-Kerbis",
        "time": 10.967000000000553,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9152s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9152s"
       }
      ]
     },
@@ -5840,7 +5840,7 @@
       {
        "id": "metro2-30-Kerbis",
        "time": 19.299999999999272,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9163s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9163s"
       }
      ]
     },
@@ -5857,7 +5857,7 @@
       {
        "id": "metro2-31-Kerbis",
        "time": 16.733000000000175,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9182s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9182s"
       }
      ]
     }
@@ -5880,7 +5880,7 @@
       {
        "id": "lake2-0-Kerbis",
        "time": 29.36700000000019,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9199s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9199s"
       }
      ]
     },
@@ -5892,12 +5892,12 @@
       {
        "id": "lake2-1-best",
        "time": 22.46600000000035,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=9101s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=9101s"
       },
       {
        "id": "lake2-1-Kerbis",
        "time": 25.433000000000902,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9228s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9228s"
       }
      ]
     },
@@ -5909,12 +5909,12 @@
       {
        "id": "lake2-2-best",
        "time": 21.16699999999946,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=9124s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=9124s"
       },
       {
        "id": "lake2-2-Kerbis",
        "time": 22.733000000000175,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9254s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9254s"
       }
      ]
     },
@@ -5931,7 +5931,7 @@
       {
        "id": "lake2-3-Kerbis",
        "time": 24.799999999999272,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9276s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9276s"
       }
      ]
     },
@@ -5948,7 +5948,7 @@
       {
        "id": "lake2-4-Kerbis",
        "time": 9.067000000000917,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9301s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9301s"
       }
      ]
     },
@@ -5965,7 +5965,7 @@
       {
        "id": "lake2-5-Kerbis",
        "time": 23.63299999999981,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9310s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9310s"
       }
      ]
     },
@@ -5977,12 +5977,12 @@
       {
        "id": "lake2-6-best",
        "time": 34.899999999999636,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=9271s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=9271s"
       },
       {
        "id": "lake2-6-Kerbis",
        "time": 35.69999999999891,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9334s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9334s"
       }
      ]
     },
@@ -5994,12 +5994,12 @@
       {
        "id": "lake2-7-best",
        "time": 4.165999999999258,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=9347s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=9347s"
       },
       {
        "id": "lake2-7-Kerbis",
        "time": 4.367000000000189,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9370s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9370s"
       }
      ]
     },
@@ -6016,7 +6016,7 @@
       {
        "id": "lake2-8-Kerbis",
        "time": 21.533000000001266,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9374s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9374s"
       }
      ]
     },
@@ -6033,7 +6033,7 @@
       {
        "id": "lake2-9-Kerbis",
        "time": 11.166999999999462,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9395s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9395s"
       }
      ]
     },
@@ -6050,7 +6050,7 @@
       {
        "id": "lake2-10-Kerbis",
        "time": 16.266999999999825,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9407s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9407s"
       }
      ]
     },
@@ -6062,12 +6062,12 @@
       {
        "id": "lake2-11-best",
        "time": 12.100000000000364,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9423s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9423s"
       },
       {
        "id": "lake2-11-Kerbis",
        "time": 12.100000000000364,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9423s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9423s"
       }
      ]
     },
@@ -6079,12 +6079,12 @@
       {
        "id": "lake2-12-best",
        "time": 31.299999999999272,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=9305s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=9305s"
       },
       {
        "id": "lake2-12-Kerbis",
        "time": 32.599999999998545,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9435s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9435s"
       }
      ]
     },
@@ -6096,12 +6096,12 @@
       {
        "id": "lake2-13-best",
        "time": 10.734000000000378,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=9448s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=9448s"
       },
       {
        "id": "lake2-13-Kerbis",
        "time": 11.63300000000163,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9468s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9468s"
       }
      ]
     },
@@ -6118,7 +6118,7 @@
       {
        "id": "lake2-14-Kerbis",
        "time": 23.032999999999447,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9479s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9479s"
       }
      ]
     },
@@ -6164,12 +6164,12 @@
       {
        "id": "lake2-17-best",
        "time": 5.699999999998909,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=9332s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=9332s"
       },
       {
        "id": "lake2-17-Kerbis",
        "time": 5.733000000000175,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9531s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9531s"
       }
      ]
     },
@@ -6181,12 +6181,12 @@
       {
        "id": "lake2-18-best",
        "time": 29.533000000001266,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=9338s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=9338s"
       },
       {
        "id": "lake2-18-Kerbis",
        "time": 34.766999999999825,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9537s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9537s"
       }
      ]
     },
@@ -6203,7 +6203,7 @@
       {
        "id": "lake2-19-Kerbis",
        "time": 7.532999999999447,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9572s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9572s"
       }
      ]
     }
@@ -6226,7 +6226,7 @@
       {
        "id": "luncheon2-0-Kerbis",
        "time": 26.467000000000553,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9579s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9579s"
       }
      ]
     },
@@ -6238,12 +6238,12 @@
       {
        "id": "luncheon2-1-best",
        "time": 13.333000000000538,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=9405s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=9405s"
       },
       {
        "id": "luncheon2-1-Kerbis",
        "time": 17.399999999999636,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9606s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9606s"
       }
      ]
     },
@@ -6260,7 +6260,7 @@
       {
        "id": "luncheon2-2-Kerbis",
        "time": 10.666000000001077,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9623s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9623s"
       }
      ]
     },
@@ -6272,12 +6272,12 @@
       {
        "id": "luncheon2-3-best",
        "time": 10.599999999998545,
-       "url": "https://player.twitch.tv/?video=421907756&autoplay=false&time=9443s"
+       "url": "https://player.twitch.tv/?video=421907756&parent=smo.tools&autoplay=false&time=9443s"
       },
       {
        "id": "luncheon2-3-Kerbis",
        "time": 12.86700000000019,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9634s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9634s"
       }
      ]
     },
@@ -6294,7 +6294,7 @@
       {
        "id": "luncheon2-4-Kerbis",
        "time": 12.932999999999083,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9647s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9647s"
       }
      ]
     },
@@ -6311,7 +6311,7 @@
       {
        "id": "luncheon2-5-Kerbis",
        "time": 47.96700000000055,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9660s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9660s"
       }
      ]
     },
@@ -6328,7 +6328,7 @@
       {
        "id": "luncheon2-6-Kerbis",
        "time": 6.899999999999636,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9708s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9708s"
       }
      ]
     },
@@ -6345,7 +6345,7 @@
       {
        "id": "luncheon2-7-Kerbis",
        "time": 19.13299999999981,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9714s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9714s"
       }
      ]
     },
@@ -6362,7 +6362,7 @@
       {
        "id": "luncheon2-8-Kerbis",
        "time": 12.300000000001091,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9734s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9734s"
       }
      ]
     },
@@ -6374,12 +6374,12 @@
       {
        "id": "luncheon2-9-best",
        "time": 25.30000000000109,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=9682s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=9682s"
       },
       {
        "id": "luncheon2-9-Kerbis",
        "time": 29.0,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9746s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9746s"
       }
      ]
     },
@@ -6391,12 +6391,12 @@
       {
        "id": "luncheon2-10-best",
        "time": 14.233000000000175,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=9756s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=9756s"
       },
       {
        "id": "luncheon2-10-Kerbis",
        "time": 19.766999999999825,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9775s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9775s"
       }
      ]
     }
@@ -6419,7 +6419,7 @@
       {
        "id": "cap2-0-Kerbis",
        "time": 124.63299999999981,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9795s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9795s"
       }
      ]
     },
@@ -6431,12 +6431,12 @@
       {
        "id": "cap2-1-best",
        "time": 17.13299999999981,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=10007s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=10007s"
       },
       {
        "id": "cap2-1-Kerbis",
        "time": 18.134000000000015,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9919s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9919s"
       }
      ]
     },
@@ -6453,7 +6453,7 @@
       {
        "id": "cap2-2-Kerbis",
        "time": 21.432999999999083,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9937s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9937s"
       }
      ]
     },
@@ -6470,7 +6470,7 @@
       {
        "id": "cap2-3-Kerbis",
        "time": 19.600000000000364,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9959s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9959s"
       }
      ]
     },
@@ -6482,12 +6482,12 @@
       {
        "id": "cap2-4-best",
        "time": 20.066999999999098,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=9743s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=9743s"
       },
       {
        "id": "cap2-4-Kerbis",
        "time": 22.83300000000054,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=9978s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=9978s"
       }
      ]
     },
@@ -6499,12 +6499,12 @@
       {
        "id": "cap2-5-best",
        "time": 21.967000000000553,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=9968s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=9968s"
       },
       {
        "id": "cap2-5-Kerbis",
        "time": 22.299999999999272,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10001s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10001s"
       }
      ]
     },
@@ -6516,12 +6516,12 @@
       {
        "id": "cap2-6-best",
        "time": 24.432999999999083,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=9972s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=9972s"
       },
       {
        "id": "cap2-6-Kerbis",
        "time": 26.334000000000742,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10024s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10024s"
       }
      ]
     },
@@ -6533,12 +6533,12 @@
       {
        "id": "cap2-7-best",
        "time": 11.399999999999636,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=10017s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=10017s"
       },
       {
        "id": "cap2-7-Kerbis",
        "time": 12.0,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10050s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10050s"
       }
      ]
     },
@@ -6550,12 +6550,12 @@
       {
        "id": "cap2-8-best",
        "time": 13.03399999999965,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=9956s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=9956s"
       },
       {
        "id": "cap2-8-Kerbis",
        "time": 13.665999999999258,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10062s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10062s"
       }
      ]
     },
@@ -6572,7 +6572,7 @@
       {
        "id": "cap2-9-Kerbis",
        "time": 16.73400000000038,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10076s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10076s"
       }
      ]
     },
@@ -6584,12 +6584,12 @@
       {
        "id": "cap2-10-best",
        "time": 15.433000000000902,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=9986s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=9986s"
       },
       {
        "id": "cap2-10-Kerbis",
        "time": 16.799999999999272,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10092s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10092s"
       }
      ]
     },
@@ -6606,7 +6606,7 @@
       {
        "id": "cap2-11-Kerbis",
        "time": 11.533000000001266,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10109s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10109s"
       }
      ]
     },
@@ -6623,7 +6623,7 @@
       {
        "id": "cap2-12-Kerbis",
        "time": 17.233000000000175,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10121s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10121s"
       }
      ]
     },
@@ -6640,7 +6640,7 @@
       {
        "id": "cap2-13-Kerbis",
        "time": 8.73399999999856,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10138s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10138s"
       }
      ]
     },
@@ -6657,7 +6657,7 @@
       {
        "id": "cap2-14-Kerbis",
        "time": 5.700000000000728,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10147s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10147s"
       }
      ]
     },
@@ -6691,7 +6691,7 @@
       {
        "id": "cap2-16-Kerbis",
        "time": 13.96600000000035,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10187s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10187s"
       }
      ]
     },
@@ -6743,12 +6743,12 @@
       {
        "id": "lost2-0-best",
        "time": 62.266999999999825,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=9972s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=9972s"
       },
       {
        "id": "lost2-0-Kerbis",
        "time": 64.39999999999964,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10213s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10213s"
       }
      ]
     },
@@ -6765,7 +6765,7 @@
       {
        "id": "lost2-1-Kerbis",
        "time": 15.833000000000538,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10278s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10278s"
       }
      ]
     },
@@ -6777,12 +6777,12 @@
       {
        "id": "lost2-2-best",
        "time": 24.83300000000054,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=10050s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=10050s"
       },
       {
        "id": "lost2-2-Kerbis",
        "time": 27.200000000000728,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10294s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10294s"
       }
      ]
     },
@@ -6794,12 +6794,12 @@
       {
        "id": "lost2-3-best",
        "time": 10.200000000000728,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=10281s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=10281s"
       },
       {
        "id": "lost2-3-Kerbis",
        "time": 11.166999999999462,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10321s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10321s"
       }
      ]
     },
@@ -6816,7 +6816,7 @@
       {
        "id": "lost2-4-Kerbis",
        "time": 7.5,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10332s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10332s"
       }
      ]
     },
@@ -6828,12 +6828,12 @@
       {
        "id": "lost2-5-best",
        "time": 14.200000000000728,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10340s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10340s"
       },
       {
        "id": "lost2-5-Kerbis",
        "time": 14.200000000000728,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10340s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10340s"
       }
      ]
     },
@@ -6845,12 +6845,12 @@
       {
        "id": "lost2-6-best",
        "time": 9.299999999999272,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=10312s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=10312s"
       },
       {
        "id": "lost2-6-Kerbis",
        "time": 11.599999999998545,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10354s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10354s"
       }
      ]
     },
@@ -6862,12 +6862,12 @@
       {
        "id": "lost2-7-best",
        "time": 17.166000000001077,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=10258s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=10258s"
       },
       {
        "id": "lost2-7-Kerbis",
        "time": 22.067000000000917,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10365s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10365s"
       }
      ]
     },
@@ -6879,12 +6879,12 @@
       {
        "id": "lost2-8-best",
        "time": 13.933999999999287,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=10275s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=10275s"
       },
       {
        "id": "lost2-8-Kerbis",
        "time": 15.865999999999985,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10387s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10387s"
       }
      ]
     },
@@ -6901,7 +6901,7 @@
       {
        "id": "lost2-9-Kerbis",
        "time": 10.799999999999272,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10403s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10403s"
       }
      ]
     },
@@ -6918,7 +6918,7 @@
       {
        "id": "lost2-10-Kerbis",
        "time": 18.16700000000128,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10414s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10414s"
       }
      ]
     },
@@ -6986,7 +6986,7 @@
       {
        "id": "lost2-14-Kerbis",
        "time": 18.100000000000364,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10466s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10466s"
       }
      ]
     },
@@ -6998,12 +6998,12 @@
       {
        "id": "lost2-15-best",
        "time": 7.766999999999825,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=10464s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=10464s"
       },
       {
        "id": "lost2-15-Kerbis",
        "time": 8.666000000001077,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10484s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10484s"
       }
      ]
     }
@@ -7026,7 +7026,7 @@
       {
        "id": "moon2-0-Kerbis",
        "time": 52.79999999999927,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10492s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10492s"
       }
      ]
     },
@@ -7043,7 +7043,7 @@
       {
        "id": "moon2-1-Kerbis",
        "time": 11.166999999999462,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10545s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10545s"
       }
      ]
     },
@@ -7060,7 +7060,7 @@
       {
        "id": "moon2-2-Kerbis",
        "time": 10.200000000000728,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10556s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10556s"
       }
      ]
     },
@@ -7072,12 +7072,12 @@
       {
        "id": "moon2-3-best",
        "time": 8.966999999998734,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=10315s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=10315s"
       },
       {
        "id": "moon2-3-Kerbis",
        "time": 10.566999999999098,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10567s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10567s"
       }
      ]
     },
@@ -7089,12 +7089,12 @@
       {
        "id": "moon2-4-best",
        "time": 9.066000000000713,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=10324s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=10324s"
       },
       {
        "id": "moon2-4-Kerbis",
        "time": 9.5,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10577s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10577s"
       }
      ]
     }
@@ -7112,12 +7112,12 @@
       {
        "id": "luncheon3-0-best",
        "time": 44.23400000000038,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=10333s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=10333s"
       },
       {
        "id": "luncheon3-0-Kerbis",
        "time": 46.533000000001266,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10587s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10587s"
       }
      ]
     },
@@ -7129,12 +7129,12 @@
       {
        "id": "luncheon3-1-best",
        "time": 19.83300000000054,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=10377s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=10377s"
       },
       {
        "id": "luncheon3-1-Kerbis",
        "time": 20.13299999999981,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10633s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10633s"
       }
      ]
     },
@@ -7146,12 +7146,12 @@
       {
        "id": "luncheon3-2-best",
        "time": 12.5,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=10610s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=10610s"
       },
       {
        "id": "luncheon3-2-Kerbis",
        "time": 15.199999999998909,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10653s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10653s"
       }
      ]
     },
@@ -7168,7 +7168,7 @@
       {
        "id": "luncheon3-3-Kerbis",
        "time": 22.53399999999965,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10669s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10669s"
       }
      ]
     },
@@ -7180,12 +7180,12 @@
       {
        "id": "luncheon3-4-best",
        "time": 9.299999999999272,
-       "url": "https://player.twitch.tv/?video=421907756&autoplay=false&time=10520s"
+       "url": "https://player.twitch.tv/?video=421907756&parent=smo.tools&autoplay=false&time=10520s"
       },
       {
        "id": "luncheon3-4-Kerbis",
        "time": 10.13300000000163,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10691s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10691s"
       }
      ]
     },
@@ -7202,7 +7202,7 @@
       {
        "id": "luncheon3-5-Kerbis",
        "time": 21.69999999999891,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10701s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10701s"
       }
      ]
     },
@@ -7219,7 +7219,7 @@
       {
        "id": "luncheon3-6-Kerbis",
        "time": 13.266999999999825,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10723s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10723s"
       }
      ]
     },
@@ -7231,12 +7231,12 @@
       {
        "id": "luncheon3-7-best",
        "time": 16.100000000000364,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=10478s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=10478s"
       },
       {
        "id": "luncheon3-7-Kerbis",
        "time": 16.933000000000902,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10736s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10736s"
       }
      ]
     },
@@ -7253,7 +7253,7 @@
       {
        "id": "luncheon3-8-Kerbis",
        "time": 16.399999999999636,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10753s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10753s"
       }
      ]
     },
@@ -7270,7 +7270,7 @@
       {
        "id": "luncheon3-9-Kerbis",
        "time": 14.766999999999825,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10770s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10770s"
       }
      ]
     },
@@ -7287,7 +7287,7 @@
       {
        "id": "luncheon3-10-Kerbis",
        "time": 31.600000000000364,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10784s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10784s"
       }
      ]
     },
@@ -7304,7 +7304,7 @@
       {
        "id": "luncheon3-11-Kerbis",
        "time": 17.0,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10816s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10816s"
       }
      ]
     },
@@ -7321,7 +7321,7 @@
       {
        "id": "luncheon3-12-Kerbis",
        "time": 15.399999999999636,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10833s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10833s"
       }
      ]
     },
@@ -7338,7 +7338,7 @@
       {
        "id": "luncheon3-13-Kerbis",
        "time": 15.0,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10848s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10848s"
       }
      ]
     },
@@ -7350,12 +7350,12 @@
       {
        "id": "luncheon3-14-best",
        "time": 11.532999999999447,
-       "url": "https://player.twitch.tv/?video=421907756&autoplay=false&time=10696s"
+       "url": "https://player.twitch.tv/?video=421907756&parent=smo.tools&autoplay=false&time=10696s"
       },
       {
        "id": "luncheon3-14-Kerbis",
        "time": 11.566000000000713,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10863s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10863s"
       }
      ]
     },
@@ -7367,12 +7367,12 @@
       {
        "id": "luncheon3-15-best",
        "time": 15.166999999999462,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=10829s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=10829s"
       },
       {
        "id": "luncheon3-15-Kerbis",
        "time": 16.399999999999636,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10875s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10875s"
       }
      ]
     },
@@ -7384,12 +7384,12 @@
       {
        "id": "luncheon3-16-best",
        "time": 12.032999999999447,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=10960s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=10960s"
       },
       {
        "id": "luncheon3-16-Kerbis",
        "time": 12.333999999998923,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10891s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10891s"
       }
      ]
     },
@@ -7406,7 +7406,7 @@
       {
        "id": "luncheon3-17-Kerbis",
        "time": 12.300000000001091,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10904s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10904s"
       }
      ]
     },
@@ -7418,12 +7418,12 @@
       {
        "id": "luncheon3-18-best",
        "time": 22.36700000000019,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=10826s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=10826s"
       },
       {
        "id": "luncheon3-18-Kerbis",
        "time": 23.399999999999636,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=10916s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=10916s"
       }
      ]
     }
@@ -7458,7 +7458,7 @@
       {
        "id": "mushroom2-1-best",
        "time": 22.13299999999981,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=10720s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=10720s"
       },
       {
        "id": "mushroom2-1-Kerbis",
@@ -7480,7 +7480,7 @@
       {
        "id": "mushroom2-2-Kerbis",
        "time": 14.166000000001077,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11009s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11009s"
       }
      ]
     },
@@ -7497,7 +7497,7 @@
       {
        "id": "mushroom2-3-Kerbis",
        "time": 19.133999999998196,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11023s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11023s"
       }
      ]
     },
@@ -7509,12 +7509,12 @@
       {
        "id": "mushroom2-4-best",
        "time": 13.766999999999825,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=10949s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=10949s"
       },
       {
        "id": "mushroom2-4-Kerbis",
        "time": 14.400000000001455,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11043s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11043s"
       }
      ]
     },
@@ -7531,7 +7531,7 @@
       {
        "id": "mushroom2-5-Kerbis",
        "time": 15.699999999998909,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11057s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11057s"
       }
      ]
     },
@@ -7543,12 +7543,12 @@
       {
        "id": "mushroom2-6-best",
        "time": 4.5,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11073s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11073s"
       },
       {
        "id": "mushroom2-6-Kerbis",
        "time": 4.5,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11073s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11073s"
       }
      ]
     },
@@ -7560,12 +7560,12 @@
       {
        "id": "mushroom2-7-best",
        "time": 4.233000000000175,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=10984s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=10984s"
       },
       {
        "id": "mushroom2-7-Kerbis",
        "time": 5.600000000000364,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11077s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11077s"
       }
      ]
     },
@@ -7599,7 +7599,7 @@
       {
        "id": "mushroom2-9-Kerbis",
        "time": 17.800000000000182,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=5265s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=5265s"
       }
      ]
     },
@@ -7645,12 +7645,12 @@
       {
        "id": "mushroom2-12-best",
        "time": 11.799999999999272,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=11240s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=11240s"
       },
       {
        "id": "mushroom2-12-Kerbis",
        "time": 12.166000000000167,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=5321s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=5321s"
       }
      ]
     }
@@ -7690,7 +7690,7 @@
       {
        "id": "toadette-1-Kerbis",
        "time": 13.86699999999837,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11141s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11141s"
       }
      ]
     },
@@ -7702,12 +7702,12 @@
       {
        "id": "toadette-2-best",
        "time": 7.065999999998894,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=10942s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=10942s"
       },
       {
        "id": "toadette-2-Kerbis",
        "time": 7.233000000000175,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11155s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11155s"
       }
      ]
     },
@@ -7724,7 +7724,7 @@
       {
        "id": "toadette-3-Kerbis",
        "time": 7.167000000001281,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11162s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11162s"
       }
      ]
     },
@@ -7741,7 +7741,7 @@
       {
        "id": "toadette-4-Kerbis",
        "time": 7.132999999999811,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11169s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11169s"
       }
      ]
     },
@@ -7758,7 +7758,7 @@
       {
        "id": "toadette-5-Kerbis",
        "time": 7.399999999999636,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11177s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11177s"
       }
      ]
     },
@@ -7775,7 +7775,7 @@
       {
        "id": "toadette-6-Kerbis",
        "time": 7.233000000000175,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11184s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11184s"
       }
      ]
     },
@@ -7787,12 +7787,12 @@
       {
        "id": "toadette-7-best",
        "time": 7.0,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=11203s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=11203s"
       },
       {
        "id": "toadette-7-Kerbis",
        "time": 7.100000000000364,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11191s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11191s"
       }
      ]
     },
@@ -7809,7 +7809,7 @@
       {
        "id": "toadette-8-Kerbis",
        "time": 7.233999999998559,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11198s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11198s"
       }
      ]
     },
@@ -7821,12 +7821,12 @@
       {
        "id": "toadette-9-best",
        "time": 7.0,
-       "url": "https://player.twitch.tv/?video=493692509&autoplay=false&time=11249s"
+       "url": "https://player.twitch.tv/?video=493692509&parent=smo.tools&autoplay=false&time=11249s"
       },
       {
        "id": "toadette-9-Kerbis",
        "time": 7.200000000000728,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11206s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11206s"
       }
      ]
     },
@@ -7838,12 +7838,12 @@
       {
        "id": "toadette-10-best",
        "time": 7.032999999999447,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11213s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11213s"
       },
       {
        "id": "toadette-10-Kerbis",
        "time": 7.032999999999447,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11213s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11213s"
       }
      ]
     },
@@ -7860,7 +7860,7 @@
       {
        "id": "toadette-11-Kerbis",
        "time": 7.067000000000917,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11220s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11220s"
       }
      ]
     },
@@ -7872,12 +7872,12 @@
       {
        "id": "toadette-12-best",
        "time": 7.032999999999447,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=11238s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=11238s"
       },
       {
        "id": "toadette-12-Kerbis",
        "time": 7.066000000000713,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11227s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11227s"
       }
      ]
     },
@@ -7889,12 +7889,12 @@
       {
        "id": "toadette-13-best",
        "time": 7.033000000001266,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=11020s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=11020s"
       },
       {
        "id": "toadette-13-Kerbis",
        "time": 7.199999999998909,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11234s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11234s"
       }
      ]
     },
@@ -7911,7 +7911,7 @@
       {
        "id": "toadette-14-Kerbis",
        "time": 7.166999999999462,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11241s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11241s"
       }
      ]
     },
@@ -7928,7 +7928,7 @@
       {
        "id": "toadette-15-Kerbis",
        "time": 7.266999999999825,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11248s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11248s"
       }
      ]
     },
@@ -7945,7 +7945,7 @@
       {
        "id": "toadette-16-Kerbis",
        "time": 7.166000000001077,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11256s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11256s"
       }
      ]
     },
@@ -7962,7 +7962,7 @@
       {
        "id": "toadette-17-Kerbis",
        "time": 7.033999999999651,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11263s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11263s"
       }
      ]
     },
@@ -7974,12 +7974,12 @@
       {
        "id": "toadette-18-best",
        "time": 7.0,
-       "url": "https://player.twitch.tv/?video=552750629&autoplay=false&time=11055s"
+       "url": "https://player.twitch.tv/?video=552750629&parent=smo.tools&autoplay=false&time=11055s"
       },
       {
        "id": "toadette-18-Kerbis",
        "time": 7.066000000000713,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11270s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11270s"
       }
      ]
     },
@@ -7991,12 +7991,12 @@
       {
        "id": "toadette-19-best",
        "time": 6.933999999999287,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11277s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11277s"
       },
       {
        "id": "toadette-19-Kerbis",
        "time": 6.933999999999287,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11277s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11277s"
       }
      ]
     },
@@ -8008,12 +8008,12 @@
       {
        "id": "toadette-20-best",
        "time": 6.899999999999636,
-       "url": "https://player.twitch.tv/?video=549553023&autoplay=false&time=11241s"
+       "url": "https://player.twitch.tv/?video=549553023&parent=smo.tools&autoplay=false&time=11241s"
       },
       {
        "id": "toadette-20-Kerbis",
        "time": 7.032999999999447,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11284s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11284s"
       }
      ]
     },
@@ -8030,7 +8030,7 @@
       {
        "id": "toadette-21-Kerbis",
        "time": 7.233000000000175,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11291s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11291s"
       }
      ]
     },
@@ -8047,7 +8047,7 @@
       {
        "id": "toadette-22-Kerbis",
        "time": 6.967000000000553,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11298s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11298s"
       }
      ]
     },
@@ -8064,7 +8064,7 @@
       {
        "id": "toadette-23-Kerbis",
        "time": 7.200000000000728,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11305s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11305s"
       }
      ]
     },
@@ -8081,7 +8081,7 @@
       {
        "id": "toadette-24-Kerbis",
        "time": 7.233000000000175,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11312s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11312s"
       }
      ]
     },
@@ -8098,7 +8098,7 @@
       {
        "id": "toadette-25-Kerbis",
        "time": 7.166999999999462,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11319s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11319s"
       }
      ]
     },
@@ -8110,12 +8110,12 @@
       {
        "id": "toadette-26-best",
        "time": 6.966999999998734,
-       "url": "https://player.twitch.tv/?video=421907756&autoplay=false&time=11203s"
+       "url": "https://player.twitch.tv/?video=421907756&parent=smo.tools&autoplay=false&time=11203s"
       },
       {
        "id": "toadette-26-Kerbis",
        "time": 7.166999999999462,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11327s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11327s"
       }
      ]
     },
@@ -8127,12 +8127,12 @@
       {
        "id": "toadette-27-best",
        "time": 6.967000000000553,
-       "url": "https://player.twitch.tv/?video=545566422&autoplay=false&time=11344s"
+       "url": "https://player.twitch.tv/?video=545566422&parent=smo.tools&autoplay=false&time=11344s"
       },
       {
        "id": "toadette-27-Kerbis",
        "time": 7.100000000000364,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11334s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11334s"
       }
      ]
     },
@@ -8183,7 +8183,7 @@
       {
        "id": "toadette-30-Kerbis",
        "time": 7.0,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11355s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11355s"
       }
      ]
     }
@@ -8201,12 +8201,12 @@
       {
        "id": "darkerside-0-best",
        "time": 230.66599999999926,
-       "url": "https://player.twitch.tv/?video=422388232&autoplay=false&time=11494s"
+       "url": "https://player.twitch.tv/?video=422388232&parent=smo.tools&autoplay=false&time=11494s"
       },
       {
        "id": "darkerside-0-Kerbis",
        "time": 377.83300000000054,
-       "url": "https://player.twitch.tv/?video=441136071&autoplay=false&time=11362s"
+       "url": "https://player.twitch.tv/?video=441136071&parent=smo.tools&autoplay=false&time=11362s"
       }
      ]
     }
